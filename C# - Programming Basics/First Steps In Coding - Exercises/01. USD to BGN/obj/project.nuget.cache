@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "quhoNwRmapIB6RhGFtpIyjMF7WP4pZXCQSeB3cV2ct66bDP1CfFL4fCJIdAK1djwH1wYRFkuhBR8Bg23AnnMYg==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps In Coding - Exercise\\01. USD to BGN\\01. USD to BGN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
