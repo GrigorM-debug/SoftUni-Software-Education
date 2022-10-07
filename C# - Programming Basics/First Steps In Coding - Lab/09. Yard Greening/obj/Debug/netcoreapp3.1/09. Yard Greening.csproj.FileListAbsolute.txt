@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.exe
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.deps.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.genruntimeconfig.cache
