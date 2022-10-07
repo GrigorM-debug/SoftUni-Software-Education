@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.exe
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.deps.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.dll
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.pdb
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.dll
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.pdb
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.genruntimeconfig.cache
