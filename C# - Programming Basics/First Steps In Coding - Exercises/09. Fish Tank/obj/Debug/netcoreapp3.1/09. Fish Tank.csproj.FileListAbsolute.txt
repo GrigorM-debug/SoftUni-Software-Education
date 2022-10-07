@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.exe
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.deps.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.genruntimeconfig.cache

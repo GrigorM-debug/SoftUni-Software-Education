@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.exe
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.deps.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.genruntimeconfig.cache

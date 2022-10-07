@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.exe
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.deps.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.genruntimeconfig.cache
