@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vy/G5VqyrT6WZMzA33t/5JRPK5TvAjSiokKHoevlV8Fa++0s2r6pIiK2lkSBi7ye1OtSrQpjvXFlwCwbBE/IPA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps  In Coding - Lab\\01. Hello SoftUni\\01. Hello SoftUni.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
