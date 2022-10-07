@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.exe
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.deps.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.genruntimeconfig.cache

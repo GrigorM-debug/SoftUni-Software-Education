@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/oAs9LuV8kw7jf+a0kc+2PJ7zn6Gnrlnsaz5t+/IAAVhwh1fbY8ZDU0bowUYB+hfUfhuf7RXk70cbnsYierwA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps In Coding - Exercise\\06. Repainting\\06. Repainting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.exe
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.deps.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.genruntimeconfig.cache
