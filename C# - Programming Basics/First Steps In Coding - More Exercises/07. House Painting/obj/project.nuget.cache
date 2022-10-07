@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4UywEczj8aWvDcLEz1xDldCgq7R2s0cXfmFi2uudATNAif0mNQ3E0EJZCYNJjIEuoA+Izi3tat7nZu79L3GyIA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps in Coding - More Exercises\\07. House Painting\\07. House Painting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

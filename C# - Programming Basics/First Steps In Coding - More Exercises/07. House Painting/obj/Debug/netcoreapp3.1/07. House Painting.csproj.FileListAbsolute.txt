@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.exe
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.deps.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.dll
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.pdb
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.dll
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.pdb
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.genruntimeconfig.cache

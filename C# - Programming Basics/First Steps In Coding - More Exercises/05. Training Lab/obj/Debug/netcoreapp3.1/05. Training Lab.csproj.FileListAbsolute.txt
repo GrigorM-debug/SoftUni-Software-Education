@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.exe
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.deps.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.dll
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.pdb
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.dll
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.pdb
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Y+vHS2j/kqe0iRa2T3BjnOimCrdasfi5w+B25cxtV3DwX3JIczLkTiWzkTu7e+HS57bBju1FEjnG/oJtNIzhg==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps in Coding - More Exercises\\06. Fishland\\06. Fishland.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

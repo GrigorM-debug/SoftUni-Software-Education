@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cPYw1Zr2vmxAAPP08SCjQgdEPbFDYk08KDG4FIxJu5MJsl7ga4JWxo/HzvXUe+1LUCSjKz2wl9Lv4xZq1XSjhw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps in Coding - More Exercises\\05. Training Lab\\05. Training Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
