@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.exe
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.deps.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.dll
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.pdb
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.dll
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.pdb
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.genruntimeconfig.cache

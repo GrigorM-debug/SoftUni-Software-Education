@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nXzRY2FpduWXHkPuOMr9xPTOACYJ4+o7TIhW0z9qofMJ7K0bDrq/wg6MqjpG0pxaAe31vFiNVam5ZNzm1ihdwA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps  In Coding - Lab\\06. Concatenate Data\\06. Concatenate Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
