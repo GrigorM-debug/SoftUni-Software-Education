@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hiSiP0Z2kHTQfs4PGQs4kJV2k/rKRLKL9ZnDE3TF5JD5AdBdNDi5Qu0mf9DmKOzBPIAioPAxvxPzRQ49j7NAMg==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps  In Coding - Lab\\08.PetShop\\08. PetShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
