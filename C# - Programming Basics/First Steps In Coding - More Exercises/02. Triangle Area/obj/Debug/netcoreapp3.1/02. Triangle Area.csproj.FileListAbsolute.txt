@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.exe
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.deps.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.dll
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.pdb
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.dll
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.pdb
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8QKzXTerLETLjS1yPnQAXvc3OZts2AdMDzLDcZD1Z5OEOORFkLG4wdtpHpHTS338EVQZslGV3IKob1ShDd5bA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps in Coding - More Exercises\\02. Triangle Area\\02. Triangle Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

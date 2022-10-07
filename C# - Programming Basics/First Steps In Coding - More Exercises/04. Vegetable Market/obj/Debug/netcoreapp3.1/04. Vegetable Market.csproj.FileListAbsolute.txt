@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.exe
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.deps.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.dll
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.pdb
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.dll
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.pdb
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.genruntimeconfig.cache
