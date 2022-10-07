@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.exe
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.deps.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.dll
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.pdb
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.dll
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.pdb
+C:\C#- Basics - October 2022\First Steps  In Coding - Lab\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.genruntimeconfig.cache
