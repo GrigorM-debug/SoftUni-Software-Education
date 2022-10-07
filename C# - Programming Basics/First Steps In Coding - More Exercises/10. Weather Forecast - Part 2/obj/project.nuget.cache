@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hANYDn+BL+9aa2gnBL57D9+UqpTpTkci5VpHwa5+VWmsn6mhI/kOaXEB+/qwAS6AszTrUt6LKKGRgGZ/IJuFJw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps in Coding - More Exercises\\10. Weather Forecast - Part 2\\10. Weather Forecast - Part 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

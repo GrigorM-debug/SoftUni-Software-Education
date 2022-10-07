@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.exe
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.deps.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.dll
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.pdb
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.dll
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.pdb
+C:\C#- Basics - October 2022\First Steps in Coding - More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.genruntimeconfig.cache
