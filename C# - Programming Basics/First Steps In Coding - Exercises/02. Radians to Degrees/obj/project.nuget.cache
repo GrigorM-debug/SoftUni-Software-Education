@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6fJHI13jEw8LaC/6xagfKGNrExBczLlYyVgpdInw5o6yrXdR0YoUkS5f0UGGZ+XU663aCfauGcWGEsjzE0p0og==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps In Coding - Exercise\\02. Radians to Degrees\\02. Radians to Degrees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

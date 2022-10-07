@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.exe
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.deps.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MD3Y3BbFLLmAqk3Bhs95qkCH3mDzDE+2QnSuZoNP/ReVjazHqqecISnjwtDYAYOWFD1jUMM/hDaeMiBG/LU/fw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\First Steps In Coding - Exercise\\03. Deposit Calculator\\03. Deposit Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.exe
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.deps.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.runtimeconfig.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.AssemblyInfo.cs
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.dll
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.pdb
+C:\C#- Basics - October 2022\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.genruntimeconfig.cache
