@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.exe
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.deps.json
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.dll
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.dll
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.genruntimeconfig.cache

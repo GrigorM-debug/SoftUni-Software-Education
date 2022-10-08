@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ioK7XVxNtul7RhAD6R+wVT9XS+4Jkx/TGb+3Xg44Pud1bjKbGkSOWhroGKdit3nEqKP/RzIQzmdovMBI7AOVDw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements - Lab\\03.EvenOrOdd\\03.EvenOrOdd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

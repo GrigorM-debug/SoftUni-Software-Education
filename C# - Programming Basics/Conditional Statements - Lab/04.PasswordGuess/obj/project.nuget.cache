@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JO7mVjKyMAFjSYvt0O/p3k+OBdXvYSsyg02vw6FAbfYO37v6KN6Xfcop0WLsbue16clGGLzGg8rrTE3QbPgvxA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements - Lab\\04.PasswordGuess\\04.PasswordGuess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
