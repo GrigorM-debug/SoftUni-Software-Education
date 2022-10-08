@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dqqdaSFGZvEey+WAzEg7CoArLVUx5fjWNhxy+F2Ghic2ftd+0jkJH6E/hB1bOLSj/UOnUlZ9gUQPTczxAck0Ng==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements - Lab\\07.AreaOfFigures\\07.AreaOfFigures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

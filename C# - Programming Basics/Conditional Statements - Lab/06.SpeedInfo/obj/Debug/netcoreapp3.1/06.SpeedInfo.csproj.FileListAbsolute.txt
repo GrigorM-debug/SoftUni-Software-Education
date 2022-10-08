@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.exe
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.deps.json
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.dll
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.dll
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.genruntimeconfig.cache

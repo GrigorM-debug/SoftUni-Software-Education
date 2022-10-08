@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.exe
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.deps.json
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.dll
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.dll
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.genruntimeconfig.cache
