@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Su6XUiuxWqr54c7X9vYCLRtvqci/64OL2TSIW3er+MPe72O4BvFSiWOasmD06XnZdxggb7EcuH2UvQ0JNqQQBQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements - Exercise\\03.Time+15 Minutes\\03.Time+15 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

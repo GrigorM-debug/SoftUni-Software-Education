@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.exe
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.deps.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.dll
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.dll
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.genruntimeconfig.cache

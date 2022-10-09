@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qf0uEgjvs4kUs1ljzrnuDLEc08peUQuxdP0tfF2cgRMHSFakEhMPg9I+/3sQTx0VdDj9rdYZK3iC6urTTzytHg==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements - Exercise\\04.ToyShop\\04.ToyShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

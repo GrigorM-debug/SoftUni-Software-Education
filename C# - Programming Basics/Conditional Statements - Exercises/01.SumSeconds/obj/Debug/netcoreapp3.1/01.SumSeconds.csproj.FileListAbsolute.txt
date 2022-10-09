@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.exe
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.deps.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.dll
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.dll
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.genruntimeconfig.cache

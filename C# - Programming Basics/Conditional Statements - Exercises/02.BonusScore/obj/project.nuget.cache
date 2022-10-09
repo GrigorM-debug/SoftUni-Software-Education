@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M9SnyipPstqRJXexsD7C/e8Rst/cBT17Qe/NMABGa2ihCAU6Hfx7qfRBVjPnwvQmlG7d4tOKNuBIsDzCw+bs+g==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements - Exercise\\02.BonusScore\\02.BonusScore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
