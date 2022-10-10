@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\bin\Debug\netcoreapp3.1\05.Godzillavs Kong.exe
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\bin\Debug\netcoreapp3.1\05.Godzillavs Kong.deps.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\bin\Debug\netcoreapp3.1\05.Godzillavs Kong.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\bin\Debug\netcoreapp3.1\05.Godzillavs Kong.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\bin\Debug\netcoreapp3.1\05.Godzillavs Kong.dll
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\bin\Debug\netcoreapp3.1\05.Godzillavs Kong.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\obj\Debug\netcoreapp3.1\05.Godzillavs Kong.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\obj\Debug\netcoreapp3.1\05.Godzillavs Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\obj\Debug\netcoreapp3.1\05.Godzillavs Kong.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\obj\Debug\netcoreapp3.1\05.Godzillavs Kong.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\obj\Debug\netcoreapp3.1\05.Godzillavs Kong.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\obj\Debug\netcoreapp3.1\05.Godzillavs Kong.dll
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\obj\Debug\netcoreapp3.1\05.Godzillavs Kong.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\05.Godzillavs Kong\obj\Debug\netcoreapp3.1\05.Godzillavs Kong.genruntimeconfig.cache
