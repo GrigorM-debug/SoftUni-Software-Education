@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.exe
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.deps.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.dll
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.dll
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.genruntimeconfig.cache
