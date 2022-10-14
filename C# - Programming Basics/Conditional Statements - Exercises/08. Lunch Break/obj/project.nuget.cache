@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uarnGch44qDpmZJA/c8DQfJdBH/aYAQEN34W1YAvywMqecbP12D2IlZwprBqCz/8Mz9EHW0Vg14JvtTK8MMZnw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements - Exercise\\08. Lunch Break\\08. Lunch Break.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

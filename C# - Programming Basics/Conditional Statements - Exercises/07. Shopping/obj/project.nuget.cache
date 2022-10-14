@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vuTmuiY7TVqWzSWb+l/FJddtOmHk1KH1fdvK/Lj+oeU2XmwahDkjyIfDrmpA1TSNolZOnjIyE4VeYOEE3k0V7Q==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements - Exercise\\07. Shopping\\07. Shopping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

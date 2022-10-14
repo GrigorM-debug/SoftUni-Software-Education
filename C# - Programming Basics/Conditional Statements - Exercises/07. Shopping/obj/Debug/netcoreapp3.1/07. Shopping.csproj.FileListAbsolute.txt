@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.exe
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.deps.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.dll
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.dll
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.pdb
+C:\C#- Basics - October 2022\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.genruntimeconfig.cache
