@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LX8Qv3VmGKoTqNPh39CBPz36XvFlU83mbRZjdRSFo8UZ3GTxFR6Ii6NwX4zvp35aqku839VIhTzODUgVDpbi7w==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements Advanced - Lab\\02.Weekend or Working Day\\02.Weekend or Working Day.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.genruntimeconfig.cache

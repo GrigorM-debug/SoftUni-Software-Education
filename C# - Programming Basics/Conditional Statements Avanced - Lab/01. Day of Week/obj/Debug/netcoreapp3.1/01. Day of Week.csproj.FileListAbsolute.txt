@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.genruntimeconfig.cache

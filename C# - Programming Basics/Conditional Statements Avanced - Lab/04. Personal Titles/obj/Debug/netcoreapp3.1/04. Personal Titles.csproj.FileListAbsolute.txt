@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.genruntimeconfig.cache
