@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.genruntimeconfig.cache

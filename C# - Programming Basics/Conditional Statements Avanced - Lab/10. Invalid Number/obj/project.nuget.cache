@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "83K0aur9sCjF0y7q1rJOJaV3lBx/1E6njPQ1p1KZbK83vgdHuqj04pgSWc4QjkepclvaNRf1b+WYoGFFyprvSw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements Advanced - Lab\\10. Invalid Number\\10. Invalid Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
