@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0r3hz3Vr8hEc16aHfP45S9A7egEYW+kEFEWm0Fn6UU5ulKl/F31ddX19PG5ZyoH8mL/GjfULac/e/NoMkRz3sA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements Advanced - Lab\\06. Number in Range\\06. Number in Range.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

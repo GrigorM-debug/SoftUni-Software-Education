@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.genruntimeconfig.cache

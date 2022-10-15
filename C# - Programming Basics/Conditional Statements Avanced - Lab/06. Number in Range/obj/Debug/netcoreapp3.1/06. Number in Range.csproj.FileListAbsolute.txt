@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.genruntimeconfig.cache

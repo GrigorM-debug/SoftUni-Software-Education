@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.genruntimeconfig.cache

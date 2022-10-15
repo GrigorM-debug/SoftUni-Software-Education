@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+D5zhI0H1na0Ny/DjZCSwNh3Lf4FsttsVlNOFhWlyqdlP5QS2wSWAnxwyhV8YgyAMZLTTSYkbXb3Vec83Rxmw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements Advanced - Lab\\05. Small Shop\\05. Small Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
