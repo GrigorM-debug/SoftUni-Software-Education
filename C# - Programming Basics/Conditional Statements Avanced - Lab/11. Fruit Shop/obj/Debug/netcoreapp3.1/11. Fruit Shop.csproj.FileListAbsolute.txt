@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.genruntimeconfig.cache

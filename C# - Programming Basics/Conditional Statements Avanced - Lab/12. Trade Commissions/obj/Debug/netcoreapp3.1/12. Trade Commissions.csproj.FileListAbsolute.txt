@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.genruntimeconfig.cache
