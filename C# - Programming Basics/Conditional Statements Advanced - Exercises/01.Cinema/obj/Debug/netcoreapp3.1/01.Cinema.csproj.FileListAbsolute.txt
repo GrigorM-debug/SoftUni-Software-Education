@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.genruntimeconfig.cache

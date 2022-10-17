@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxBVPd9gMMXBtBrPudpCD+Ec7nYjNFjkVGP3fX1gPPH5X2cA/e+ELZvgFIUArazqeE7KmLKWqlwIkrc2d+Jo7g==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements Advanced - Exercise\\01.Cinema\\01.Cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

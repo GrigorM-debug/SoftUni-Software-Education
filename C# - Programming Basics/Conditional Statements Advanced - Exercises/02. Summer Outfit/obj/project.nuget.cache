@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZWIfYz5piiBdl2UI0mjCIA5cx/mWJy5COQgyUNcYAcdq2cMzZp7x1+hPOwUzsfeMtK+l+hN4baqCcJchekTOQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements Advanced - Exercise\\02. Summer Outfit\\02. Summer Outfit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
