@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cGozw+alXXJavFbxi/MlUduZ7f1rwFXOz+/hWKhO3wVaQerf4y6M7B25Der7DvaqTRfchurEKp+zpLbo3exEYQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements Advanced - Exercise\\05. Journey\\05. Journey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

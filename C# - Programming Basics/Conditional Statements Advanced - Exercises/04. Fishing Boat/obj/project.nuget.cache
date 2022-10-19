@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vNHE3OUWf9o3WaN9hhK3oaClR7whQUM93M2IHmRKKshsMLirFFIRFKQYLSmBaRC/YS61eKmWYKqvwpbPN6p1OA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements Advanced - Exercise\\04. Fishing Boat\\04. Fishing Boat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

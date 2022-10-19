@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8AGxg/ulU5tYHYOhVBMXEEZ/dHl8xWX+LSqpaH6uNCBM5v6jXolo8WcFJDkUIIZdm3g+Qf7Pxn6BeoBRR6PVA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements Advanced - Exercise\\03. New House\\03. New House.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

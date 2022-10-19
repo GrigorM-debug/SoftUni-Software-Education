@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.genruntimeconfig.cache
