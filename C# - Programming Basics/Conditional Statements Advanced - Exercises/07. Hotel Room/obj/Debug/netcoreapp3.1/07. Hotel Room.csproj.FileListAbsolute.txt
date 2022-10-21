@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ng2PwdnDjvctfvReBrhwK+iEDvGpF6xB3CFBnRalJ2QoD28Q9P54z+em2s4U0Bh478DUYKNMvGGPTt66ZawHg==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements Advanced - Exercise\\07. Hotel Room\\07. Hotel Room.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

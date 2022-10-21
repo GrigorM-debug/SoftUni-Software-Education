@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "971Qr2cAMCYjbDiHRwo5ayTlb5BO91eQOXFT7WWHhBDqc9+H5861+HOgOXDQxtx68zhsdKB0HSfqNoQrj61Glw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
