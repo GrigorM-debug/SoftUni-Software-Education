@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P3DSliudsDofT93QdPNg9AiYmmg5DgpyUKTuw2RLbPZQCmqU2bagCIZbUE19EvcLSX9dyFgAJGs5td+6V9oQkQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\For Loop - Lab\\06. VowelsSum\\06. VowelsSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

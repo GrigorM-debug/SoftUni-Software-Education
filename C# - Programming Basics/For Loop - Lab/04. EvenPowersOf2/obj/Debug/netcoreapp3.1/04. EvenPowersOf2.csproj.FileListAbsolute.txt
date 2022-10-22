@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\bin\Debug\netcoreapp3.1\04. EvenPowersOf2.exe
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\bin\Debug\netcoreapp3.1\04. EvenPowersOf2.deps.json
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\bin\Debug\netcoreapp3.1\04. EvenPowersOf2.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\bin\Debug\netcoreapp3.1\04. EvenPowersOf2.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\bin\Debug\netcoreapp3.1\04. EvenPowersOf2.dll
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\bin\Debug\netcoreapp3.1\04. EvenPowersOf2.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\obj\Debug\netcoreapp3.1\04. EvenPowersOf2.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\obj\Debug\netcoreapp3.1\04. EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\obj\Debug\netcoreapp3.1\04. EvenPowersOf2.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\obj\Debug\netcoreapp3.1\04. EvenPowersOf2.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\obj\Debug\netcoreapp3.1\04. EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\obj\Debug\netcoreapp3.1\04. EvenPowersOf2.dll
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\obj\Debug\netcoreapp3.1\04. EvenPowersOf2.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\04. EvenPowersOf2\obj\Debug\netcoreapp3.1\04. EvenPowersOf2.genruntimeconfig.cache

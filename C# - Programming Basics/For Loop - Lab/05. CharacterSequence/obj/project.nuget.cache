@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZapJL1eHwp9tRYjlf1/oe0lPybk5hHKV1KHUqAU12rcov6pZLkPXuiQUVhzLutN8tqgkYuXf9wV5OCF5MA5wBg==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\For Loop - Lab\\05. CharacterSequence\\05. CharacterSequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\bin\Debug\netcoreapp3.1\06. VowelsSum.exe
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\bin\Debug\netcoreapp3.1\06. VowelsSum.deps.json
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\bin\Debug\netcoreapp3.1\06. VowelsSum.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\bin\Debug\netcoreapp3.1\06. VowelsSum.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\bin\Debug\netcoreapp3.1\06. VowelsSum.dll
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\bin\Debug\netcoreapp3.1\06. VowelsSum.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\obj\Debug\netcoreapp3.1\06. VowelsSum.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\obj\Debug\netcoreapp3.1\06. VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\obj\Debug\netcoreapp3.1\06. VowelsSum.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\obj\Debug\netcoreapp3.1\06. VowelsSum.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\obj\Debug\netcoreapp3.1\06. VowelsSum.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\obj\Debug\netcoreapp3.1\06. VowelsSum.dll
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\obj\Debug\netcoreapp3.1\06. VowelsSum.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\06. VowelsSum\obj\Debug\netcoreapp3.1\06. VowelsSum.genruntimeconfig.cache

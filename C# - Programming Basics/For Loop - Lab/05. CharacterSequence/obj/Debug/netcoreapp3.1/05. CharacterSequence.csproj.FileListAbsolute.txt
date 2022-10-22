@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\bin\Debug\netcoreapp3.1\05. CharacterSequence.exe
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\bin\Debug\netcoreapp3.1\05. CharacterSequence.deps.json
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\bin\Debug\netcoreapp3.1\05. CharacterSequence.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\bin\Debug\netcoreapp3.1\05. CharacterSequence.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\bin\Debug\netcoreapp3.1\05. CharacterSequence.dll
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\bin\Debug\netcoreapp3.1\05. CharacterSequence.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\obj\Debug\netcoreapp3.1\05. CharacterSequence.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\obj\Debug\netcoreapp3.1\05. CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\obj\Debug\netcoreapp3.1\05. CharacterSequence.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\obj\Debug\netcoreapp3.1\05. CharacterSequence.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\obj\Debug\netcoreapp3.1\05. CharacterSequence.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\obj\Debug\netcoreapp3.1\05. CharacterSequence.dll
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\obj\Debug\netcoreapp3.1\05. CharacterSequence.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\05. CharacterSequence\obj\Debug\netcoreapp3.1\05. CharacterSequence.genruntimeconfig.cache
