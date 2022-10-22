@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\bin\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.exe
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\bin\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.deps.json
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\bin\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\bin\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\bin\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.dll
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\bin\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\obj\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\obj\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\obj\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\obj\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\obj\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\obj\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.dll
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\obj\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\03. Numbers1ToNWithStep 3\obj\Debug\netcoreapp3.1\03. Numbers1ToNWithStep 3.genruntimeconfig.cache
