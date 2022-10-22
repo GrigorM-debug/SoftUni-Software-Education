@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.exe
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.deps.json
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.dll
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.dll
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.genruntimeconfig.cache

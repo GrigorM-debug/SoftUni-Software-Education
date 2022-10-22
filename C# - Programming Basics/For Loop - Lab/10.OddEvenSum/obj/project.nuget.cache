@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sAUViPAooOIT4QoWlf+hX/YaUMkoDvauAVy9EJx0EdAqnYwUtjcfkzo0V8pBKhdQoZe72xa9iIH2OnznMOGHNQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\For Loop - Lab\\10.OddEvenSum\\10.OddEvenSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
