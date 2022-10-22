@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.exe
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.deps.json
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.dll
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.dll
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.pdb
+C:\C#- Basics - October 2022\For Loop - Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.genruntimeconfig.cache

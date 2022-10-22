@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMJxG/+VxdbPfJr/27ypK9GrPpEWu7pZQHzszDURaDxjEGP64Dsq7iKxFINFr5SVQVUlneuxZd0gORQkpJk9Zw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\For Loop - Lab\\07. SumNumbers\\07. SumNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
