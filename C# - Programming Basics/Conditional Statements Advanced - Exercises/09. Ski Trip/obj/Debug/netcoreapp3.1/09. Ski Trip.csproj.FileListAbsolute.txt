@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.exe
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.deps.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.dll
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.pdb
+C:\C#- Basics - October 2022\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.genruntimeconfig.cache
