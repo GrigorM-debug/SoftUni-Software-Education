@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2IGmAbw9hVEoHdyvYmPg3Xhf31boeFhu0Z4DW2Qa9cI3PSm2rlwGnc/7b6aqHMOFW+5zBhimFL+5WKXZS7PP0A==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\For Loop - Exercises\\02.HalfSumElement\\02.HalfSumElement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

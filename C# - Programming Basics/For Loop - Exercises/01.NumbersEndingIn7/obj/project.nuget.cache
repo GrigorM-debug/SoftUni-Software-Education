@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XDYvY6RbZfy2zLAP3JPo6gj/RUd2Mzlia3P1hjmhWrgp1Eivc/qp9Grlnue1A8HS3ugGHgL1xE1qXYnXma6gCQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\For Loop - Exercises\\01.NumbersEndingIn7\\01.NumbersEndingIn7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

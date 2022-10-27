@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.exe
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.deps.json
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.genruntimeconfig.cache

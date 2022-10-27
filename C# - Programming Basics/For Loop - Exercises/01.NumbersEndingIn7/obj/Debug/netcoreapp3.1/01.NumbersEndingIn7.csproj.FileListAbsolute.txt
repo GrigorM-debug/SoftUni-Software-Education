@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.exe
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.deps.json
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.genruntimeconfig.cache
