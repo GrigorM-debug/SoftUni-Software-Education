@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VgXVI/oFNnNCSd01pjKLV5VyhM2jc6HXtCkoDV3KdOOlT6E9zCcNTVwWK/yPUWgjJbyB9GUjROJgymORdPGkKw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\For Loop - Exercises\\07.TrekkingMania\\07.TrekkingMania.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

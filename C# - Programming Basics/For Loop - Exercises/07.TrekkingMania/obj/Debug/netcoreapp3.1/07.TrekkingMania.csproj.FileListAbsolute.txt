@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.exe
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.deps.json
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.genruntimeconfig.cache

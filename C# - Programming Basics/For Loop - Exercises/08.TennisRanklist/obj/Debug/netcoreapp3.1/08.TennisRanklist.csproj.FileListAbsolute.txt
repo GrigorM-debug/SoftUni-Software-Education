@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.exe
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.deps.json
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.genruntimeconfig.cache

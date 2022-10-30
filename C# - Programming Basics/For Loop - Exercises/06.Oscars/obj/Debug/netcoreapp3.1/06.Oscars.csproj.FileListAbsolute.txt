@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.exe
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.deps.json
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\bin\Debug\netcoreapp3.1\06.Oscars.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\06.Oscars\obj\Debug\netcoreapp3.1\06.Oscars.genruntimeconfig.cache

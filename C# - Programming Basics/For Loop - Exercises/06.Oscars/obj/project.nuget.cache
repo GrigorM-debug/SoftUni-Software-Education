@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K2Qe2tyG3JmDbYFZrpxvgENHc0SKP1iNal5BRA/BeEhw9JAqOvEQrDQ1TMvEuWy8z48CX4NWHlFK8XggyNry1Q==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\For Loop - Exercises\\06.Oscars\\06.Oscars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
