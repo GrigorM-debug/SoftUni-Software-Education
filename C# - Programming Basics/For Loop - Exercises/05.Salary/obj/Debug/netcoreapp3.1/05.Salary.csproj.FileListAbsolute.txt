@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.exe
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.deps.json
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\bin\Debug\netcoreapp3.1\05.Salary.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\05.Salary\obj\Debug\netcoreapp3.1\05.Salary.genruntimeconfig.cache

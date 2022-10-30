@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.exe
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.deps.json
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.genruntimeconfig.cache

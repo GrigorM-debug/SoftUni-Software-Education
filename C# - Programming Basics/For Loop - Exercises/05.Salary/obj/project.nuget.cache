@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7lgM/d22fLPsB6UqRBb2cnQGDjwy5G+6Ai+1nTO6JL0J7hKc+N0NCR5/RhoZiDeUKVgpa9UWKN/n28AlGlF5w==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\For Loop - Exercises\\05.Salary\\05.Salary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

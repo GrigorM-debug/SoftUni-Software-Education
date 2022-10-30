@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.exe
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.deps.json
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.runtimeconfig.json
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.AssemblyInfo.cs
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.dll
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.pdb
+C:\C#- Basics - October 2022\For Loop - Exercises\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.genruntimeconfig.cache

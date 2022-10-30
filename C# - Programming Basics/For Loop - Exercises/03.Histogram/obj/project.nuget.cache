@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qics2EW2oe2NRGVQOgWjH2A33tmxD8MCcMqCJEewqIETz7zcJGI435LmdNzqqeD4hA7N9H12AJKdrtSgWaFsA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\For Loop - Exercises\\03.Histogram\\03.Histogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
