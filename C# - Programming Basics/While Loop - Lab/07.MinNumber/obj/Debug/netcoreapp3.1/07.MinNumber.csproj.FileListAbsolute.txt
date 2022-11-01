@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.exe
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.deps.json
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.runtimeconfig.json
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.dll
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.pdb
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.AssemblyInfo.cs
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.dll
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.pdb
+C:\C#- Basics - October 2022\While Loop - Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.genruntimeconfig.cache

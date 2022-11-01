@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.exe
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.deps.json
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.runtimeconfig.json
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.dll
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.pdb
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.AssemblyInfo.cs
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.dll
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.pdb
+C:\C#- Basics - October 2022\While Loop - Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.genruntimeconfig.cache

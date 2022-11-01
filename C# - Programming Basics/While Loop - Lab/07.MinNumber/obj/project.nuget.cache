@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdYdcrzjM9I1cDt0s0LCZNSwvpLWl4XivFUYKK0RtIP48OuOs7XrKPiLpLFB87RjaA/ofJg76lEbyFvmy6tjKQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\While Loop - Lab\\07.MinNumber\\07.MinNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
