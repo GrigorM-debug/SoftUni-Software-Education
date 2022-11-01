@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.exe
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.deps.json
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.json
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.dll
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.pdb
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfo.cs
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.dll
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.pdb
+C:\C#- Basics - October 2022\While Loop - Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.genruntimeconfig.cache
