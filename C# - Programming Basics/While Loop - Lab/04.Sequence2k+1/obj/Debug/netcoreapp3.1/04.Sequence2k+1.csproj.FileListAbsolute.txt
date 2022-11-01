@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.exe
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.deps.json
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.json
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.pdb
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfo.cs
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.pdb
+C:\C#- Basics - October 2022\While Loop - Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfo.cs
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.exe
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.deps.json
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.json
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.dll
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.pdb
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.dll
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.pdb
+C:\C#- Basics - October 2022\While Loop - Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.genruntimeconfig.cache
