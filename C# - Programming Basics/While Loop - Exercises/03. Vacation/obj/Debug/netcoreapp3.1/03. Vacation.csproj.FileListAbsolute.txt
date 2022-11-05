@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\C#- Basics - October 2022\While Loop - Exercises\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache
