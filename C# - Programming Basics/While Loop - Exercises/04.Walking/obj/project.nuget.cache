@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "slpdC9zef5B/rq0D2nB78wIbKRSczxiLCWRpCdr302+b6zVBDmeI6tz1T0aWgFbBHOc0UMqKzYXQCfBjpSm+FA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\While Loop - Exercises\\04.Walking\\04.Walking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

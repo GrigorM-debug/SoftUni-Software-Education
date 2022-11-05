@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.exe
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.deps.json
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.json
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.dll
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.pdb
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfo.cs
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.dll
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.pdb
+C:\C#- Basics - October 2022\While Loop - Exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.genruntimeconfig.cache
