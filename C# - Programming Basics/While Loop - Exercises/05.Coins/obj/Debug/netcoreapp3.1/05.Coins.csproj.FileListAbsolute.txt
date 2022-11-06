@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.exe
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.deps.json
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.json
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.dll
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.pdb
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfo.cs
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.dll
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.pdb
+C:\C#- Basics - October 2022\While Loop - Exercises\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.genruntimeconfig.cache
