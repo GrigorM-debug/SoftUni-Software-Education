@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.exe
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.deps.json
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.runtimeconfig.json
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.dll
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.pdb
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.AssemblyInfo.cs
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.dll
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.pdb
+C:\C#- Basics - October 2022\While Loop - Exercises\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.genruntimeconfig.cache
