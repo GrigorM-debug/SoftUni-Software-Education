@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nm2u5Mwz7VO0IrbfyNXBShpI7Bi7NwoPWNp15wkdla6pHbioePWj0nMP4VUW2ZgEESCCtvoPwW//X6fqQjRvag==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\NestedLoops-Lab\\01.Clock\\01.Clock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

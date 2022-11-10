@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GMciAj0cozmuMxbCWe8w7Js1Wn4xQRjxbNTm+yud3t7y0t39RRvVNpXyCV4VW//9dFRfdWGnTSVhO1QNZ+hi5Q==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\NestedLoops-Lab\\03.Combinations\\03.Combinations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
