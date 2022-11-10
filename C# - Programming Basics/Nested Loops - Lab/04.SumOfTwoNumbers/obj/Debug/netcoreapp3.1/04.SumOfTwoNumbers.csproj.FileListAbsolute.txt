@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.exe
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.deps.json
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.runtimeconfig.json
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.dll
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.pdb
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.AssemblyInfo.cs
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.dll
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.pdb
+C:\C#- Basics - October 2022\NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.genruntimeconfig.cache
