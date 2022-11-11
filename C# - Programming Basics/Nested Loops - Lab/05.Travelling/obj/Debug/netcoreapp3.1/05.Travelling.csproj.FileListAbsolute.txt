@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.exe
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.deps.json
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.runtimeconfig.json
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.dll
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.pdb
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.AssemblyInfo.cs
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.dll
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.pdb
+C:\C#- Basics - October 2022\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.genruntimeconfig.cache
