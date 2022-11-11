@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.exe
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.deps.json
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.json
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.dll
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.pdb
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfo.cs
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.dll
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.pdb
+C:\C#- Basics - October 2022\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.genruntimeconfig.cache
