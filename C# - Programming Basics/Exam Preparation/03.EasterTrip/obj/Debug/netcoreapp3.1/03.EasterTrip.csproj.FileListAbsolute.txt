@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.exe
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.deps.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.runtimeconfig.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.dll
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.pdb
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.AssemblyInfo.cs
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.dll
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.pdb
+C:\C#- Basics - October 2022\01.Oscars ceremony\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.genruntimeconfig.cache
