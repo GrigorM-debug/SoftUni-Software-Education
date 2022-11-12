@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "98QEn6nX/BYXrVqyjfu2tFqqNyPI5fRvnlLeSKd2+muSiA5LZMrxQayqdolEHq0UJ+oX1EX/Tdy9Rs57PpFB1Q==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Exam Preparation\\06.EasterDecoration\\06.EasterDecoration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

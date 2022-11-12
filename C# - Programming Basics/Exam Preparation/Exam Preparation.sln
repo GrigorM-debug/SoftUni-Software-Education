@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.OscarsCeremony", "01.Oscars ceremony\01.OscarsCeremony.csproj", "{3C5EBE99-3850-48A5-88AE-79FB9C2BF52A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MovieDay", "02.MovieDay\02.MovieDay.csproj", "{6371EADE-B714-4DFE-9D0E-4D47E35F6B71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.EasterTrip", "03.EasterTrip\03.EasterTrip.csproj", "{7F280CF2-7409-4ACF-9A6D-DB696675B615}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.EasterEggs", "04.EasterEggs\04.EasterEggs.csproj", "{1597DC19-F0E3-4189-B5FB-E003421EA32C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Darts", "05.Darts\05.Darts.csproj", "{C92ED024-3F7A-4E1F-A4A8-1D58BD0C8FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EasterDecoration", "06.EasterDecoration\06.EasterDecoration.csproj", "{02091C23-E43D-4DA0-B175-460EA347DA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C5EBE99-3850-48A5-88AE-79FB9C2BF52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5EBE99-3850-48A5-88AE-79FB9C2BF52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5EBE99-3850-48A5-88AE-79FB9C2BF52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5EBE99-3850-48A5-88AE-79FB9C2BF52A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6371EADE-B714-4DFE-9D0E-4D47E35F6B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6371EADE-B714-4DFE-9D0E-4D47E35F6B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6371EADE-B714-4DFE-9D0E-4D47E35F6B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6371EADE-B714-4DFE-9D0E-4D47E35F6B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F280CF2-7409-4ACF-9A6D-DB696675B615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F280CF2-7409-4ACF-9A6D-DB696675B615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F280CF2-7409-4ACF-9A6D-DB696675B615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F280CF2-7409-4ACF-9A6D-DB696675B615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1597DC19-F0E3-4189-B5FB-E003421EA32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1597DC19-F0E3-4189-B5FB-E003421EA32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1597DC19-F0E3-4189-B5FB-E003421EA32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1597DC19-F0E3-4189-B5FB-E003421EA32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92ED024-3F7A-4E1F-A4A8-1D58BD0C8FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92ED024-3F7A-4E1F-A4A8-1D58BD0C8FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92ED024-3F7A-4E1F-A4A8-1D58BD0C8FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92ED024-3F7A-4E1F-A4A8-1D58BD0C8FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02091C23-E43D-4DA0-B175-460EA347DA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02091C23-E43D-4DA0-B175-460EA347DA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02091C23-E43D-4DA0-B175-460EA347DA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02091C23-E43D-4DA0-B175-460EA347DA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A02E8C18-0218-4408-A5EB-1EB3894DE7B9}
+	EndGlobalSection
+EndGlobal
