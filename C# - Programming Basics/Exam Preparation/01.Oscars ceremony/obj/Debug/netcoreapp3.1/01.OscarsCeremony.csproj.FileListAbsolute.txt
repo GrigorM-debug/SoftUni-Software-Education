@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.exe
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.deps.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.runtimeconfig.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.dll
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.pdb
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.AssemblyInfo.cs
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.dll
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.pdb
+C:\C#- Basics - October 2022\01.Oscars ceremony\01.Oscars ceremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.genruntimeconfig.cache

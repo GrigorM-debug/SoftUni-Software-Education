@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JhYut1MLS0cDzvSRVvvpB67uWt1QrNUF0pg/PjMLwc5BG3rqamMvN5Ji9ocDLj8rUmNPdo7N/mkZAHe7WIZQRw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Exam Preparation\\01.Oscars ceremony\\01.OscarsCeremony.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

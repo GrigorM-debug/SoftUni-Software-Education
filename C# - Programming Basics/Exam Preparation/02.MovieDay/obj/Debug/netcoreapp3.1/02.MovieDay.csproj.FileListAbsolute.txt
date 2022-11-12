@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.exe
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.deps.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.runtimeconfig.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.dll
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.pdb
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.AssemblyInfo.cs
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.dll
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.pdb
+C:\C#- Basics - October 2022\01.Oscars ceremony\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.genruntimeconfig.cache
