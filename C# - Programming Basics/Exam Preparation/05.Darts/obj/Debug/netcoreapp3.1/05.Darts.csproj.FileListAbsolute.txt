@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\bin\Debug\netcoreapp3.1\05.Darts.exe
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\bin\Debug\netcoreapp3.1\05.Darts.deps.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\bin\Debug\netcoreapp3.1\05.Darts.runtimeconfig.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\bin\Debug\netcoreapp3.1\05.Darts.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\bin\Debug\netcoreapp3.1\05.Darts.dll
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\bin\Debug\netcoreapp3.1\05.Darts.pdb
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\obj\Debug\netcoreapp3.1\05.Darts.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\obj\Debug\netcoreapp3.1\05.Darts.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\obj\Debug\netcoreapp3.1\05.Darts.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\obj\Debug\netcoreapp3.1\05.Darts.AssemblyInfo.cs
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\obj\Debug\netcoreapp3.1\05.Darts.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\obj\Debug\netcoreapp3.1\05.Darts.dll
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\obj\Debug\netcoreapp3.1\05.Darts.pdb
+C:\C#- Basics - October 2022\01.Oscars ceremony\05.Darts\obj\Debug\netcoreapp3.1\05.Darts.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZZrfwfR+8OgfTk+rg20nD28kmiPSVqQkUIiqLPzDUWRnOeb977Fn5xcJzvjn3K/S3uMFPWqsvJOL5Nhyz08Og==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Exam Preparation\\05.Darts\\05.Darts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
