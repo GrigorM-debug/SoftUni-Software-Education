@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gOYK/0Qr4kpY/FmOzsj1d1GpvCOmiR5+SiVhrqnV4f4zlluVD6R+/13ajBzs0oqABS816HvFxwtkFy5/eqZyfw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Programming Basics Online Pre - Exam - 12 and 13 November 2022\\06. Sum And Product\\06.SumAndProduct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

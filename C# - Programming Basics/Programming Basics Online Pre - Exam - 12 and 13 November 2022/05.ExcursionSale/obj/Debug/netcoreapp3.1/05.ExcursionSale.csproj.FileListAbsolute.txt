@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.exe
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.deps.json
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.runtimeconfig.json
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.dll
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.pdb
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.dll
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.pdb
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.genruntimeconfig.cache

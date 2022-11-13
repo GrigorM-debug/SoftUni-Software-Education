@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GaRsw/z3214F7JhnFvC3Vgd5ZTB8jNUSQDZW2dChoOfbn0dWihtp0kSgCQUpwHadaTjXcFx4D7ZTjsWs7HHRTw==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Programming Basics Online Pre - Exam - 12 and 13 November 2022\\04.Exam\\04.Exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

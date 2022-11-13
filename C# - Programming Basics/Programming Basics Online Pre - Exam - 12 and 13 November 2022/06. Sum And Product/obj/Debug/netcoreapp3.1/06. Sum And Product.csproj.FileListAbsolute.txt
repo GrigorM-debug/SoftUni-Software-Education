@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.exe
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.deps.json
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.runtimeconfig.json
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.dll
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.pdb
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.dll
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.pdb
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.genruntimeconfig.cache
