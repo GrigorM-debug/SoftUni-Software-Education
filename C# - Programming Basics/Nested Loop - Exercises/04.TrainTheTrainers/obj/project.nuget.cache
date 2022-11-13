@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "41eMB3Mld0ShryDTISMQ48y0wGIVFN3IebA5FrEMFT5JTQ7up/7w8yOxn3NyQwWlyEGsSHf+ey5KMPN9Qm5GTg==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Nested Loops - Exercise\\04.TrainTheTrainers\\04.TrainTheTrainers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvXaN/z4OZpuVZUpd3dPNaRgl1DlAlAGBFK+gg7GNUeYw8ydOy3Tvuitbsp00jlhE3aAAsVjJ/Aveu7K+kSSBA==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Nested Loops - Exercise\\05.SpecialNumbers\\05.SpecialNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

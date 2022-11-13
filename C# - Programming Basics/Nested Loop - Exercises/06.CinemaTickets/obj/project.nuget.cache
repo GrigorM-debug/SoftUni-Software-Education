@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+t/Ci0JJJH3ii+UwwfdUTLqAiKcltck7+h61PgEIkBW7oJ3Rx3uHnU22+WD2Ix/RW+WwPUVWcHHbFGsPPGotnQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Nested Loops - Exercise\\06.CinemaTickets\\06.CinemaTickets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
