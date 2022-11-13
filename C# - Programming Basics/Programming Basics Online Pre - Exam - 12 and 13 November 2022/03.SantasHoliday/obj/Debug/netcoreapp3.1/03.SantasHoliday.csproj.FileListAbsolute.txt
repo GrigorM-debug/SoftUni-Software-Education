@@ -1,0 +1,14 @@
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.exe
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.deps.json
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.runtimeconfig.json
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.runtimeconfig.dev.json
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.dll
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.pdb
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.csproj.AssemblyReference.cache
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.AssemblyInfoInputs.cache
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.AssemblyInfo.cs
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.csproj.CoreCompileInputs.cache
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.dll
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.pdb
+C:\C#- Basics - October 2022\Programming Basics Online Pre - Exam - 12 and 13 November 2022\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.genruntimeconfig.cache
