@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "25HaLApBMIHe1A8qYl6qWkswGTjuHpeCuROsKFYPxqZUXemOdLGZszBXqDFcahA2s5tHxAOOJpmjOeIc6d7kBg==",
+  "success": true,
+  "projectFilePath": "C:\\C#- Basics - October 2022\\Nested Loops - Exercise\\03.SumPrimeNonPrime\\03.SumPrimeNonPrime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
