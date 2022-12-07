@@ -1,0 +1,14 @@
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.exe
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.deps.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.runtimeconfig.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.runtimeconfig.dev.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.csproj.AssemblyReference.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.AssemblyInfoInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.AssemblyInfo.cs
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.csproj.CoreCompileInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.genruntimeconfig.cache
