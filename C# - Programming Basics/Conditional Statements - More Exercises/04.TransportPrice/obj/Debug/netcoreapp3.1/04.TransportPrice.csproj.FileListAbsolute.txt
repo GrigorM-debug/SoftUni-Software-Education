@@ -1,0 +1,14 @@
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.exe
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.deps.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.runtimeconfig.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.runtimeconfig.dev.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.csproj.AssemblyReference.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.AssemblyInfoInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.AssemblyInfo.cs
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.csproj.CoreCompileInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.genruntimeconfig.cache
