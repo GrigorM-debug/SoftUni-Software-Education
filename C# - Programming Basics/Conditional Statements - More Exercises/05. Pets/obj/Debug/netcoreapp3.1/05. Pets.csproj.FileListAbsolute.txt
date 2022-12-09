@@ -1,0 +1,14 @@
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.exe
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.deps.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.runtimeconfig.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.runtimeconfig.dev.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.csproj.AssemblyReference.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.AssemblyInfoInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.AssemblyInfo.cs
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.csproj.CoreCompileInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.genruntimeconfig.cache
