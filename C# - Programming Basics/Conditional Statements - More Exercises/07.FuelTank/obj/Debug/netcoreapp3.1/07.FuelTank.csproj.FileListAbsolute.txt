@@ -1,0 +1,14 @@
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\bin\Debug\netcoreapp3.1\07.FuelTank.exe
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\bin\Debug\netcoreapp3.1\07.FuelTank.deps.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\bin\Debug\netcoreapp3.1\07.FuelTank.runtimeconfig.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\bin\Debug\netcoreapp3.1\07.FuelTank.runtimeconfig.dev.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\bin\Debug\netcoreapp3.1\07.FuelTank.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\bin\Debug\netcoreapp3.1\07.FuelTank.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\obj\Debug\netcoreapp3.1\07.FuelTank.csproj.AssemblyReference.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\obj\Debug\netcoreapp3.1\07.FuelTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\obj\Debug\netcoreapp3.1\07.FuelTank.AssemblyInfoInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\obj\Debug\netcoreapp3.1\07.FuelTank.AssemblyInfo.cs
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\obj\Debug\netcoreapp3.1\07.FuelTank.csproj.CoreCompileInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\obj\Debug\netcoreapp3.1\07.FuelTank.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\obj\Debug\netcoreapp3.1\07.FuelTank.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements - More Exercises\07.FuelTank\obj\Debug\netcoreapp3.1\07.FuelTank.genruntimeconfig.cache
