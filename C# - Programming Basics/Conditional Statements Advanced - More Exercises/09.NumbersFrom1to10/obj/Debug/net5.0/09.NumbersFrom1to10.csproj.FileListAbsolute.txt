@@ -1,0 +1,16 @@
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\bin\Debug\net5.0\09.NumbersFrom1to10.exe
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\bin\Debug\net5.0\09.NumbersFrom1to10.deps.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\bin\Debug\net5.0\09.NumbersFrom1to10.runtimeconfig.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\bin\Debug\net5.0\09.NumbersFrom1to10.runtimeconfig.dev.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\bin\Debug\net5.0\09.NumbersFrom1to10.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\bin\Debug\net5.0\09.NumbersFrom1to10.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\obj\Debug\net5.0\09.NumbersFrom1to10.csproj.AssemblyReference.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\obj\Debug\net5.0\09.NumbersFrom1to10.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\obj\Debug\net5.0\09.NumbersFrom1to10.AssemblyInfoInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\obj\Debug\net5.0\09.NumbersFrom1to10.AssemblyInfo.cs
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\obj\Debug\net5.0\09.NumbersFrom1to10.csproj.CoreCompileInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\obj\Debug\net5.0\09.NumbersFrom1to10.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\obj\Debug\net5.0\refint\09.NumbersFrom1to10.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\obj\Debug\net5.0\09.NumbersFrom1to10.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\obj\Debug\net5.0\09.NumbersFrom1to10.genruntimeconfig.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\09.NumbersFrom1to10\obj\Debug\net5.0\ref\09.NumbersFrom1to10.dll
