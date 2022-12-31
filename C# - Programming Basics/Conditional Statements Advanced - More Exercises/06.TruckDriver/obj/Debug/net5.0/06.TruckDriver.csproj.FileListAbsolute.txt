@@ -1,0 +1,16 @@
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\bin\Debug\net5.0\06.TruckDriver.exe
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\bin\Debug\net5.0\06.TruckDriver.deps.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\bin\Debug\net5.0\06.TruckDriver.runtimeconfig.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\bin\Debug\net5.0\06.TruckDriver.runtimeconfig.dev.json
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\bin\Debug\net5.0\06.TruckDriver.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\bin\Debug\net5.0\06.TruckDriver.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\obj\Debug\net5.0\06.TruckDriver.csproj.AssemblyReference.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\obj\Debug\net5.0\06.TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\obj\Debug\net5.0\06.TruckDriver.AssemblyInfoInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\obj\Debug\net5.0\06.TruckDriver.AssemblyInfo.cs
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\obj\Debug\net5.0\06.TruckDriver.csproj.CoreCompileInputs.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\obj\Debug\net5.0\06.TruckDriver.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\obj\Debug\net5.0\refint\06.TruckDriver.dll
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\obj\Debug\net5.0\06.TruckDriver.pdb
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\obj\Debug\net5.0\06.TruckDriver.genruntimeconfig.cache
+C:\SoftUni Sofware Education\C# - Programming Basics\Conditional Statements Advanced - More Exercises\06.TruckDriver\obj\Debug\net5.0\ref\06.TruckDriver.dll
