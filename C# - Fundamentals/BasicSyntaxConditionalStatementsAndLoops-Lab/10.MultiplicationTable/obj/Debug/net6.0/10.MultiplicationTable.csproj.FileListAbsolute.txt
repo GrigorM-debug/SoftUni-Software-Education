@@ -1,0 +1,15 @@
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.exe
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.deps.json
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.runtimeconfig.json
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.dll
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.pdb
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.csproj.AssemblyReference.cache
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.AssemblyInfoInputs.cache
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.AssemblyInfo.cs
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.dll
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\refint\10.MultiplicationTable.dll
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.pdb
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.genruntimeconfig.cache
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\net6.0\ref\10.MultiplicationTable.dll

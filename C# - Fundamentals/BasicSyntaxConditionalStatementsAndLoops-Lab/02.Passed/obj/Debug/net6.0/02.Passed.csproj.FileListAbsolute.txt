@@ -1,0 +1,15 @@
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\bin\Debug\net6.0\02.Passed.exe
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\bin\Debug\net6.0\02.Passed.deps.json
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\bin\Debug\net6.0\02.Passed.runtimeconfig.json
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\bin\Debug\net6.0\02.Passed.dll
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\bin\Debug\net6.0\02.Passed.pdb
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\obj\Debug\net6.0\02.Passed.csproj.AssemblyReference.cache
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\obj\Debug\net6.0\02.Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\obj\Debug\net6.0\02.Passed.AssemblyInfoInputs.cache
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\obj\Debug\net6.0\02.Passed.AssemblyInfo.cs
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\obj\Debug\net6.0\02.Passed.csproj.CoreCompileInputs.cache
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\obj\Debug\net6.0\02.Passed.dll
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\obj\Debug\net6.0\refint\02.Passed.dll
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\obj\Debug\net6.0\02.Passed.pdb
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\obj\Debug\net6.0\02.Passed.genruntimeconfig.cache
+C:\SoftUni Sofware Education\C# - Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02.Passed\obj\Debug\net6.0\ref\02.Passed.dll
