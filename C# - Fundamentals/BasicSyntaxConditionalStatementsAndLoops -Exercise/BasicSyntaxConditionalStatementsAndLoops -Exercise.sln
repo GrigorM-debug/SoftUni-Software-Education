@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Ages", "01.Ages\01.Ages.csproj", "{B5E19200-6E15-4254-8E43-772C9AF5286F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Ages", "01.Ages\01.Ages.csproj", "{B5E19200-6E15-4254-8E43-772C9AF5286F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Division", "02.Division\02.Division.csproj", "{4A664E2E-89BE-4E1B-AD69-8FA05D8E82FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Division", "02.Division\02.Division.csproj", "{4A664E2E-89BE-4E1B-AD69-8FA05D8E82FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Vacation", "03.Vacation\03.Vacation.csproj", "{F1AF8F1F-563A-49EA-B2C1-6282C5E85DC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Vacation", "03.Vacation\03.Vacation.csproj", "{F1AF8F1F-563A-49EA-B2C1-6282C5E85DC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PrintAndSum", "04.PrintAndSum\04.PrintAndSum.csproj", "{89278AC4-5AF0-4B7D-9490-7CD27ADD4D79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PrintAndSum", "04.PrintAndSum\04.PrintAndSum.csproj", "{89278AC4-5AF0-4B7D-9490-7CD27ADD4D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Login", "05.Login\05.Login.csproj", "{E7FDD374-0651-470E-BACB-8E1427925059}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Login", "05.Login\05.Login.csproj", "{E7FDD374-0651-470E-BACB-8E1427925059}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.TriangleOfNumbers", "08.TriangleOfNumbers\08.TriangleOfNumbers.csproj", "{FF667003-50DB-4F3A-9DFC-ED0C554D008A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.TriangleOfNumbers", "08.TriangleOfNumbers\08.TriangleOfNumbers.csproj", "{FF667003-50DB-4F3A-9DFC-ED0C554D008A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.VendingMachine", "07.VendingMachine\07.VendingMachine.csproj", "{FBA75AAF-06BF-44C1-975E-098059938E19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{FF667003-50DB-4F3A-9DFC-ED0C554D008A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF667003-50DB-4F3A-9DFC-ED0C554D008A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF667003-50DB-4F3A-9DFC-ED0C554D008A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA75AAF-06BF-44C1-975E-098059938E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA75AAF-06BF-44C1-975E-098059938E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA75AAF-06BF-44C1-975E-098059938E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA75AAF-06BF-44C1-975E-098059938E19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
