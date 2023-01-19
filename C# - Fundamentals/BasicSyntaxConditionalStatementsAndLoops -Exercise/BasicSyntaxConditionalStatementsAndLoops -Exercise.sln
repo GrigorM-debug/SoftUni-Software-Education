@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Login", "05.Login\05.Log
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.TriangleOfNumbers", "08.TriangleOfNumbers\08.TriangleOfNumbers.csproj", "{FF667003-50DB-4F3A-9DFC-ED0C554D008A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.VendingMachine", "07.VendingMachine\07.VendingMachine.csproj", "{FBA75AAF-06BF-44C1-975E-098059938E19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.VendingMachine", "07.VendingMachine\07.VendingMachine.csproj", "{FBA75AAF-06BF-44C1-975E-098059938E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PadawanEquipment", "09.PadawanEquipment\09.PadawanEquipment.csproj", "{222B254F-09B3-4C69-BC6F-DDDCB5B42739}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{FBA75AAF-06BF-44C1-975E-098059938E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBA75AAF-06BF-44C1-975E-098059938E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBA75AAF-06BF-44C1-975E-098059938E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222B254F-09B3-4C69-BC6F-DDDCB5B42739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222B254F-09B3-4C69-BC6F-DDDCB5B42739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222B254F-09B3-4C69-BC6F-DDDCB5B42739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222B254F-09B3-4C69-BC6F-DDDCB5B42739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
