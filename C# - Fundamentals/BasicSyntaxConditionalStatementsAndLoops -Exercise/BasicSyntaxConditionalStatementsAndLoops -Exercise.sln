@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.TriangleOfNumbers", "08.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.VendingMachine", "07.VendingMachine\07.VendingMachine.csproj", "{FBA75AAF-06BF-44C1-975E-098059938E19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PadawanEquipment", "09.PadawanEquipment\09.PadawanEquipment.csproj", "{222B254F-09B3-4C69-BC6F-DDDCB5B42739}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.PadawanEquipment", "09.PadawanEquipment\09.PadawanEquipment.csproj", "{222B254F-09B3-4C69-BC6F-DDDCB5B42739}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.RageExpenses", "10.RageExpenses\10.RageExpenses.csproj", "{AF741E74-0B98-461B-AABE-026A2683A064}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.RageExpenses", "10.RageExpenses\10.RageExpenses.csproj", "{AF741E74-0B98-461B-AABE-026A2683A064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.RageExpensesWithLoop", "10.RageExpensesWithLoop\10.RageExpensesWithLoop.csproj", "{002EC741-21AA-4543-9BF2-9F19251ECBE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{AF741E74-0B98-461B-AABE-026A2683A064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF741E74-0B98-461B-AABE-026A2683A064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF741E74-0B98-461B-AABE-026A2683A064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002EC741-21AA-4543-9BF2-9F19251ECBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002EC741-21AA-4543-9BF2-9F19251ECBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002EC741-21AA-4543-9BF2-9F19251ECBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002EC741-21AA-4543-9BF2-9F19251ECBE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

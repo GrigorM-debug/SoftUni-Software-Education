@@ -1,21 +1,13 @@
 ﻿int lostGame = int.Parse(Console.ReadLine());
-double headsetPrice = double.Parse(Console.ReadLine());   
-double mousePrice = double.Parse(Console.ReadLine()); 
-double keyboardPrice = double.Parse(Console.ReadLine());  
-double displayPrice = double.Parse(Console.ReadLine());
+decimal headsetPrice = decimal.Parse(Console.ReadLine());   
+decimal mousePrice = decimal.Parse(Console.ReadLine()); 
+decimal keyboardPrice = decimal.Parse(Console.ReadLine());  
+decimal displayPrice = decimal.Parse(Console.ReadLine());
 
-int trashedHeadset = 0;
-int trashedMouse = 0;
-int trashedKeyboard = 0;
-int trashedDisplay = 0;
+decimal trashedHeadset = (lostGame / 2) * headsetPrice;
+decimal trashedMouse = (lostGame / 3) * mousePrice;
+decimal trashedKeyboard = (lostGame / 6) * keyboardPrice;
+decimal trashedDisplay = (lostGame / 12) * displayPrice;
 
-
-
-double keyboardTotalPrice = trashedKeyboard * keyboardPrice;
-double mouseTotalPrice = trashedMouse * mousePrice;
-double headsetTotalPrice = trashedHeadset * headsetPrice;
-double displayTotalPrice = trashedDisplay * displayPrice;
-
-double expenses = keyboardTotalPrice + mouseTotalPrice + headsetTotalPrice + displayTotalPrice;
-
-Console.WriteLine($"Rage expenses: {expenses:f2}lv.");
+decimal expenses = trashedHeadset + trashedMouse + trashedKeyboard + trashedDisplay; 
+Console.WriteLine($"Rage expenses: {expenses:f2} lv.");
