@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CenturiesToMinutes", "04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SpecialNumbers", "05.SpecialNumbers\05.SpecialNumbers.csproj", "{DEBBBBD3-82DB-48DA-9EE1-76DFEACFA604}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.TownInfo", "08.TownInfo\08.TownInfo.csproj", "{BC6E79C0-0A79-47DC-A029-C4A636CB4BAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DEBBBBD3-82DB-48DA-9EE1-76DFEACFA604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEBBBBD3-82DB-48DA-9EE1-76DFEACFA604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEBBBBD3-82DB-48DA-9EE1-76DFEACFA604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC6E79C0-0A79-47DC-A029-C4A636CB4BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6E79C0-0A79-47DC-A029-C4A636CB4BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6E79C0-0A79-47DC-A029-C4A636CB4BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6E79C0-0A79-47DC-A029-C4A636CB4BAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
