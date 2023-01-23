@@ -15,6 +15,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SpecialNumbers", "05.Spe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.TownInfo", "08.TownInfo\08.TownInfo.csproj", "{BC6E79C0-0A79-47DC-A029-C4A636CB4BAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.LowerToUpper", "10.LowerToUpper\10.LowerToUpper.csproj", "{24D11FF5-A8EC-41BD-81B8-F581501AC687}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D0AE5060-A7B2-4537-B397-C27CD5164CBC}"
+	ProjectSection(SolutionItems) = preProject
+		codesnippet.snippet = codesnippet.snippet
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +52,10 @@ Global
 		{BC6E79C0-0A79-47DC-A029-C4A636CB4BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC6E79C0-0A79-47DC-A029-C4A636CB4BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC6E79C0-0A79-47DC-A029-C4A636CB4BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D11FF5-A8EC-41BD-81B8-F581501AC687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D11FF5-A8EC-41BD-81B8-F581501AC687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D11FF5-A8EC-41BD-81B8-F581501AC687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D11FF5-A8EC-41BD-81B8-F581501AC687}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
