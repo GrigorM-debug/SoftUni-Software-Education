@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ConvertMetersToKilometers", "01.ConvertMetersToKilometers\01.ConvertMetersToKilometers.csproj", "{1EEB5440-A45D-45E3-B36D-A173D8D2F705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PoundsToDollars", "02.PoundsToDollars\02.PoundsToDollars.csproj", "{0FFD12E5-1D3F-42A5-BC1C-DECE6EE50AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExactSumOfRealNumbers", "03.ExactSumOfRealNumbers\03.ExactSumOfRealNumbers.csproj", "{584F0F6B-6094-4A0F-9C23-8F30B30D9A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CenturiesToMinutes", "04.CenturiesToMinutes\04.CenturiesToMinutes.csproj", "{CF7401D5-369D-40CF-A2B4-52913B420820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EEB5440-A45D-45E3-B36D-A173D8D2F705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEB5440-A45D-45E3-B36D-A173D8D2F705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEB5440-A45D-45E3-B36D-A173D8D2F705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEB5440-A45D-45E3-B36D-A173D8D2F705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFD12E5-1D3F-42A5-BC1C-DECE6EE50AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFD12E5-1D3F-42A5-BC1C-DECE6EE50AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFD12E5-1D3F-42A5-BC1C-DECE6EE50AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFD12E5-1D3F-42A5-BC1C-DECE6EE50AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584F0F6B-6094-4A0F-9C23-8F30B30D9A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584F0F6B-6094-4A0F-9C23-8F30B30D9A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584F0F6B-6094-4A0F-9C23-8F30B30D9A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584F0F6B-6094-4A0F-9C23-8F30B30D9A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF7401D5-369D-40CF-A2B4-52913B420820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7401D5-369D-40CF-A2B4-52913B420820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7401D5-369D-40CF-A2B4-52913B420820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7401D5-369D-40CF-A2B4-52913B420820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F7886B8-853A-4B65-A550-D08EFDD448BA}
+	EndGlobalSection
+EndGlobal

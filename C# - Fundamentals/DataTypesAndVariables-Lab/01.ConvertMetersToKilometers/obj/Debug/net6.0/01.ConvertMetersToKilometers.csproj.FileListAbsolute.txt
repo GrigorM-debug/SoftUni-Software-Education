@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\refint\01.ConvertMetersToKilometers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\ref\01.ConvertMetersToKilometers.dll
