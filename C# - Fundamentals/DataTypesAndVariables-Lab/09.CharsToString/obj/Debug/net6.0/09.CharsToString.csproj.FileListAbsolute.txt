@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\refint\09.CharsToString.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\net6.0\ref\09.CharsToString.dll
