@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\refint\11.RefactorVolumeOfPyramid.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\ref\11.RefactorVolumeOfPyramid.dll
