@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReversedChars", "06.Reve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.RefactorVolumeOfPyramid", "11.RefactorVolumeOfPyramid\11.RefactorVolumeOfPyramid.csproj", "{13D54E77-07E0-4E19-B122-D163CBC11B09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.RefactoringSpecialNumbers", "12.RefactoringSpecialNumbers\12.RefactoringSpecialNumbers.csproj", "{72590AF3-2443-4A9D-9A40-39E6D7EA442A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{13D54E77-07E0-4E19-B122-D163CBC11B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13D54E77-07E0-4E19-B122-D163CBC11B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13D54E77-07E0-4E19-B122-D163CBC11B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72590AF3-2443-4A9D-9A40-39E6D7EA442A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72590AF3-2443-4A9D-9A40-39E6D7EA442A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72590AF3-2443-4A9D-9A40-39E6D7EA442A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72590AF3-2443-4A9D-9A40-39E6D7EA442A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

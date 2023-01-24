@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\bin\Debug\net6.0\12.RefactoringSpecialNumbers.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\bin\Debug\net6.0\12.RefactoringSpecialNumbers.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\bin\Debug\net6.0\12.RefactoringSpecialNumbers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\bin\Debug\net6.0\12.RefactoringSpecialNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\bin\Debug\net6.0\12.RefactoringSpecialNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\obj\Debug\net6.0\12.RefactoringSpecialNumbers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\obj\Debug\net6.0\12.RefactoringSpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\obj\Debug\net6.0\12.RefactoringSpecialNumbers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\obj\Debug\net6.0\12.RefactoringSpecialNumbers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\obj\Debug\net6.0\12.RefactoringSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\obj\Debug\net6.0\12.RefactoringSpecialNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\obj\Debug\net6.0\refint\12.RefactoringSpecialNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\obj\Debug\net6.0\12.RefactoringSpecialNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\obj\Debug\net6.0\12.RefactoringSpecialNumbers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Lab\12.RefactoringSpecialNumbers\obj\Debug\net6.0\ref\12.RefactoringSpecialNumbers.dll
