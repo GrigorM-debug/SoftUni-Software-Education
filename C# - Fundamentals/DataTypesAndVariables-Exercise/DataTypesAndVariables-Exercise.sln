@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.IntegerOperations", "01.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumOfChars", "04.SumOfChars\04.SumOfChars.csproj", "{5DCEECF6-E595-4217-B451-0E8B70CBC8D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintPartOfTheASCIITable", "05.PrintPartOfTheASCIITable\05.PrintPartOfTheASCIITable.csproj", "{5C761734-3E3C-4726-A468-36DB0E1FF30D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5DCEECF6-E595-4217-B451-0E8B70CBC8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DCEECF6-E595-4217-B451-0E8B70CBC8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DCEECF6-E595-4217-B451-0E8B70CBC8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C761734-3E3C-4726-A468-36DB0E1FF30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C761734-3E3C-4726-A468-36DB0E1FF30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C761734-3E3C-4726-A468-36DB0E1FF30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C761734-3E3C-4726-A468-36DB0E1FF30D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

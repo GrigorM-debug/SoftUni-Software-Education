@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\bin\Debug\net6.0\05.PrintPartOfTheASCIITable.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\bin\Debug\net6.0\05.PrintPartOfTheASCIITable.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\bin\Debug\net6.0\05.PrintPartOfTheASCIITable.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\bin\Debug\net6.0\05.PrintPartOfTheASCIITable.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\bin\Debug\net6.0\05.PrintPartOfTheASCIITable.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\obj\Debug\net6.0\05.PrintPartOfTheASCIITable.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\obj\Debug\net6.0\05.PrintPartOfTheASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\obj\Debug\net6.0\05.PrintPartOfTheASCIITable.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\obj\Debug\net6.0\05.PrintPartOfTheASCIITable.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\obj\Debug\net6.0\05.PrintPartOfTheASCIITable.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\obj\Debug\net6.0\05.PrintPartOfTheASCIITable.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\obj\Debug\net6.0\refint\05.PrintPartOfTheASCIITable.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\obj\Debug\net6.0\05.PrintPartOfTheASCIITable.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\obj\Debug\net6.0\05.PrintPartOfTheASCIITable.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfTheASCIITable\obj\Debug\net6.0\ref\05.PrintPartOfTheASCIITable.dll
