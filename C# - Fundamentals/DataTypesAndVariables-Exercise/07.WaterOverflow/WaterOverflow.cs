@@ -17,3 +17,5 @@ for(int i = 0; i <= numberOfInput; i++)
 }
 littersInTank = sumOfQuantities; 
 Console.WriteLine(littersInTank);
+
+//Довърши тази задача

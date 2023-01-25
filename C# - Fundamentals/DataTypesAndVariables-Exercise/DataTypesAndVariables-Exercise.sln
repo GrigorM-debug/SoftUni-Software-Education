@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.WaterOverflow", "07.Wate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Elevator", "03.Elevator\03.Elevator.csproj", "{A87EEE8A-E511-4E6C-B359-5597FC2C4DDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumOfDigits", "02.SumOfDigits\02.SumOfDigits.csproj", "{BFC58BC9-4821-4007-B406-910748871875}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A87EEE8A-E511-4E6C-B359-5597FC2C4DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A87EEE8A-E511-4E6C-B359-5597FC2C4DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A87EEE8A-E511-4E6C-B359-5597FC2C4DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC58BC9-4821-4007-B406-910748871875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC58BC9-4821-4007-B406-910748871875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC58BC9-4821-4007-B406-910748871875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC58BC9-4821-4007-B406-910748871875}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

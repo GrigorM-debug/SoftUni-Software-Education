@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\bin\Debug\net6.0\02.SumOfDigits.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\bin\Debug\net6.0\02.SumOfDigits.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\bin\Debug\net6.0\02.SumOfDigits.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\bin\Debug\net6.0\02.SumOfDigits.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\bin\Debug\net6.0\02.SumOfDigits.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\obj\Debug\net6.0\02.SumOfDigits.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\obj\Debug\net6.0\02.SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\obj\Debug\net6.0\02.SumOfDigits.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\obj\Debug\net6.0\02.SumOfDigits.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\obj\Debug\net6.0\02.SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\obj\Debug\net6.0\02.SumOfDigits.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\obj\Debug\net6.0\refint\02.SumOfDigits.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\obj\Debug\net6.0\02.SumOfDigits.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\obj\Debug\net6.0\02.SumOfDigits.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\02.SumOfDigits\obj\Debug\net6.0\ref\02.SumOfDigits.dll
