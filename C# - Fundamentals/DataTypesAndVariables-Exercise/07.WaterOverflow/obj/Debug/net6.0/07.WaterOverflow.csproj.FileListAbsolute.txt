@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\net6.0\07.WaterOverflow.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\net6.0\07.WaterOverflow.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\net6.0\07.WaterOverflow.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\net6.0\07.WaterOverflow.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\net6.0\07.WaterOverflow.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\refint\07.WaterOverflow.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\ref\07.WaterOverflow.dll
