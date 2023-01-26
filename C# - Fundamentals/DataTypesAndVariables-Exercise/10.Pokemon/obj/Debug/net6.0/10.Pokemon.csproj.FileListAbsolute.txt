@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\bin\Debug\net6.0\10.Pokemon.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\bin\Debug\net6.0\10.Pokemon.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\bin\Debug\net6.0\10.Pokemon.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\bin\Debug\net6.0\10.Pokemon.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\bin\Debug\net6.0\10.Pokemon.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\obj\Debug\net6.0\refint\10.Pokemon.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\10.Pokemon\obj\Debug\net6.0\ref\10.Pokemon.dll

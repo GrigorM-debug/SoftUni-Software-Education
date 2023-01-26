@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TripleOfLatinLetters", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SpiceMustFlow", "09.SpiceMustFlow\09.SpiceMustFlow.csproj", "{6D0C090D-FBC1-4F2D-8C14-F52184521F96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Pokemon", "10.Pokemon\10.Pokemon.csproj", "{A44ACC0D-B1FC-437C-86C8-0631CDD7144E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{6D0C090D-FBC1-4F2D-8C14-F52184521F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D0C090D-FBC1-4F2D-8C14-F52184521F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D0C090D-FBC1-4F2D-8C14-F52184521F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44ACC0D-B1FC-437C-86C8-0631CDD7144E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44ACC0D-B1FC-437C-86C8-0631CDD7144E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44ACC0D-B1FC-437C-86C8-0631CDD7144E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44ACC0D-B1FC-437C-86C8-0631CDD7144E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
