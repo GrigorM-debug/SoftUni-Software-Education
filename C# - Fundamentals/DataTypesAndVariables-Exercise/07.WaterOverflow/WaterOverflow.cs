@@ -1,22 +1,19 @@
 ﻿int waterTankCapasity = 255;
-int numberOfInput = int.Parse(Console.ReadLine());
-int sumOfQuantities = 0;
+int pipesCount = int.Parse(Console.ReadLine());
+int currentVolume = 0;
 
-for (int i = 0; i <= numberOfInput; i++)
+while (pipesCount>0)
 {
     int quantitiesOfWater = int.Parse(Console.ReadLine());
 
-    sumOfQuantities += quantitiesOfWater;
-
-    if (sumOfQuantities > waterTankCapasity)
+    if (quantitiesOfWater + currentVolume  <= waterTankCapasity)
     {
-        Console.WriteLine("Insufficient capacity!");
-        sumOfQuantities = sumOfQuantities - quantitiesOfWater;
-        Console.WriteLine(sumOfQuantities);
-        continue;
+        currentVolume += quantitiesOfWater;
     }
     else
     {
-        Console.WriteLine(sumOfQuantities);
+        Console.WriteLine("Insufficient capacity!");
     }
+    pipesCount--;
 }
+Console.WriteLine(currentVolume);
