@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\bin\Debug\net6.0\06.TripleOfLatinLetters.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\bin\Debug\net6.0\06.TripleOfLatinLetters.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\bin\Debug\net6.0\06.TripleOfLatinLetters.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\bin\Debug\net6.0\06.TripleOfLatinLetters.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\bin\Debug\net6.0\06.TripleOfLatinLetters.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\obj\Debug\net6.0\06.TripleOfLatinLetters.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\obj\Debug\net6.0\06.TripleOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\obj\Debug\net6.0\06.TripleOfLatinLetters.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\obj\Debug\net6.0\06.TripleOfLatinLetters.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\obj\Debug\net6.0\06.TripleOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\obj\Debug\net6.0\06.TripleOfLatinLetters.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\obj\Debug\net6.0\refint\06.TripleOfLatinLetters.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\obj\Debug\net6.0\06.TripleOfLatinLetters.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\obj\Debug\net6.0\06.TripleOfLatinLetters.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\DataTypesAndVariables-Exercise\06.TripleOfLatinLetters\obj\Debug\net6.0\ref\06.TripleOfLatinLetters.dll
