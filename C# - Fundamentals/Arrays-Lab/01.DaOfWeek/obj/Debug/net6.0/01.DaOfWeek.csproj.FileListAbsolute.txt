@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\bin\Debug\net6.0\01.DaOfWeek.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\bin\Debug\net6.0\01.DaOfWeek.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\bin\Debug\net6.0\01.DaOfWeek.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\bin\Debug\net6.0\01.DaOfWeek.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\bin\Debug\net6.0\01.DaOfWeek.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\obj\Debug\net6.0\01.DaOfWeek.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\obj\Debug\net6.0\01.DaOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\obj\Debug\net6.0\01.DaOfWeek.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\obj\Debug\net6.0\01.DaOfWeek.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\obj\Debug\net6.0\01.DaOfWeek.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\obj\Debug\net6.0\01.DaOfWeek.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\obj\Debug\net6.0\refint\01.DaOfWeek.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\obj\Debug\net6.0\01.DaOfWeek.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\obj\Debug\net6.0\01.DaOfWeek.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\01.DaOfWeek\obj\Debug\net6.0\ref\01.DaOfWeek.dll
