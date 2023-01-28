@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\bin\Debug\net6.0\06.EvenAndOddSubstraction.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\bin\Debug\net6.0\06.EvenAndOddSubstraction.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\bin\Debug\net6.0\06.EvenAndOddSubstraction.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\bin\Debug\net6.0\06.EvenAndOddSubstraction.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\bin\Debug\net6.0\06.EvenAndOddSubstraction.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\obj\Debug\net6.0\06.EvenAndOddSubstraction.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\obj\Debug\net6.0\06.EvenAndOddSubstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\obj\Debug\net6.0\06.EvenAndOddSubstraction.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\obj\Debug\net6.0\06.EvenAndOddSubstraction.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\obj\Debug\net6.0\06.EvenAndOddSubstraction.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\obj\Debug\net6.0\06.EvenAndOddSubstraction.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\obj\Debug\net6.0\refint\06.EvenAndOddSubstraction.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\obj\Debug\net6.0\06.EvenAndOddSubstraction.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\obj\Debug\net6.0\06.EvenAndOddSubstraction.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction\obj\Debug\net6.0\ref\06.EvenAndOddSubstraction.dll
