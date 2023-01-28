@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\refint\05.SumEvenNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net6.0\ref\05.SumEvenNumbers.dll
