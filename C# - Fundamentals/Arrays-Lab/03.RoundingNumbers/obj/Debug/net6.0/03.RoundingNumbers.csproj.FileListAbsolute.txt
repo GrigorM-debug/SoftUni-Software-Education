@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\refint\03.RoundingNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\ref\03.RoundingNumbers.dll

@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\refint\02.PrintNumbersInReverseOrder.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\ref\02.PrintNumbersInReverseOrder.dll
