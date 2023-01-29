@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\refint\02.CommonElements.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\ref\02.CommonElements.dll
