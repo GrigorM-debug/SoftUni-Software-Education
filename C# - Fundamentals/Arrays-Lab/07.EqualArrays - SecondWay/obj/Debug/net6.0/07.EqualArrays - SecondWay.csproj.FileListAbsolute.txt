@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\bin\Debug\net6.0\07.EqualArrays - SecondWay.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\bin\Debug\net6.0\07.EqualArrays - SecondWay.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\bin\Debug\net6.0\07.EqualArrays - SecondWay.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\bin\Debug\net6.0\07.EqualArrays - SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\bin\Debug\net6.0\07.EqualArrays - SecondWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\obj\Debug\net6.0\07.EqualArrays - SecondWay.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\obj\Debug\net6.0\07.EqualArrays - SecondWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\obj\Debug\net6.0\07.EqualArrays - SecondWay.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\obj\Debug\net6.0\07.EqualArrays - SecondWay.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\obj\Debug\net6.0\07.EqualArrays - SecondWay.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\obj\Debug\net6.0\07.EqualArrays - SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\obj\Debug\net6.0\refint\07.EqualArrays - SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\obj\Debug\net6.0\07.EqualArrays - SecondWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\obj\Debug\net6.0\07.EqualArrays - SecondWay.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\07.EqualArrays - SecondWay\obj\Debug\net6.0\ref\07.EqualArrays - SecondWay.dll

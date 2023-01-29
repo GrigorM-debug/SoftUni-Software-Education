@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\bin\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\bin\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\bin\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\bin\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\bin\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\obj\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\obj\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\obj\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\obj\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\obj\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\obj\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\obj\Debug\net6.0\refint\06.EvenAndOddSubstraction - SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\obj\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\obj\Debug\net6.0\06.EvenAndOddSubstraction - SecondWay.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\06.EvenAndOddSubstraction - SecondWay\obj\Debug\net6.0\ref\06.EvenAndOddSubstraction - SecondWay.dll

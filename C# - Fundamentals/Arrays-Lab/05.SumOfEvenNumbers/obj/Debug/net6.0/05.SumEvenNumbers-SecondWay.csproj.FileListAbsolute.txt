@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers-SecondWay.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers-SecondWay.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers-SecondWay.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers-SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\bin\Debug\net6.0\05.SumEvenNumbers-SecondWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers-SecondWay.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers-SecondWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers-SecondWay.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers-SecondWay.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers-SecondWay.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers-SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\obj\Debug\net6.0\refint\05.SumEvenNumbers-SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers-SecondWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\obj\Debug\net6.0\05.SumEvenNumbers-SecondWay.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\05.SumOfEvenNumbers\obj\Debug\net6.0\ref\05.SumEvenNumbers-SecondWay.dll
