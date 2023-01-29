@@ -1,4 +1,5 @@
-﻿using System.Security;
+﻿using System.Reflection.Metadata.Ecma335;
+using System.Security;
 
 int[] firstArray = Console.ReadLine()
     .Split()

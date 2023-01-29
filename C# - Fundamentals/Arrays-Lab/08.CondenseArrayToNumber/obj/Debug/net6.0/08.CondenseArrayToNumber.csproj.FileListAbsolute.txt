@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\net6.0\08.CondenseArrayToNumber.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\net6.0\08.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\net6.0\08.CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\net6.0\08.CondenseArrayToNumber.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\net6.0\08.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\bin\Debug\net6.0\08.CondenseArrayToNumber.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\bin\Debug\net6.0\08.CondenseArrayToNumber.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\bin\Debug\net6.0\08.CondenseArrayToNumber.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\bin\Debug\net6.0\08.CondenseArrayToNumber.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\bin\Debug\net6.0\08.CondenseArrayToNumber.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\net6.0\08.CondenseArrayToNumber.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\net6.0\refint\08.CondenseArrayToNumber.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\net6.0\08.CondenseArrayToNumber.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\net6.0\08.CondenseArrayToNumber.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays-Lab\08.CondenseArrayToNumber\obj\Debug\net6.0\ref\08.CondenseArrayToNumber.dll
