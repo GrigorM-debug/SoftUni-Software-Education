@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\refint\04.ArrayRotation.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\ref\04.ArrayRotation.dll
