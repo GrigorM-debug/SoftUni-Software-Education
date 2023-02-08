@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\refint\05.TopIntegers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\ref\05.TopIntegers.dll

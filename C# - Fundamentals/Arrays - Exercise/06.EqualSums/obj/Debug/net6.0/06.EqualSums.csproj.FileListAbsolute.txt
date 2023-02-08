@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\bin\Debug\net6.0\06.EqualSums.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\bin\Debug\net6.0\06.EqualSums.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\bin\Debug\net6.0\06.EqualSums.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\bin\Debug\net6.0\06.EqualSums.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\bin\Debug\net6.0\06.EqualSums.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\obj\Debug\net6.0\06.EqualSums.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\obj\Debug\net6.0\06.EqualSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\obj\Debug\net6.0\06.EqualSums.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\obj\Debug\net6.0\06.EqualSums.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\obj\Debug\net6.0\06.EqualSums.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\obj\Debug\net6.0\06.EqualSums.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\obj\Debug\net6.0\refint\06.EqualSums.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\obj\Debug\net6.0\06.EqualSums.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\obj\Debug\net6.0\06.EqualSums.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\06.EqualSums\obj\Debug\net6.0\ref\06.EqualSums.dll
