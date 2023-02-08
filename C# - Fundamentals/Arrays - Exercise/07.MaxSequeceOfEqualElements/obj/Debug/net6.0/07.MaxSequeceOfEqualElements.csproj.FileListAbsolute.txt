@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\bin\Debug\net6.0\07.MaxSequeceOfEqualElements.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\bin\Debug\net6.0\07.MaxSequeceOfEqualElements.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\bin\Debug\net6.0\07.MaxSequeceOfEqualElements.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\bin\Debug\net6.0\07.MaxSequeceOfEqualElements.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\bin\Debug\net6.0\07.MaxSequeceOfEqualElements.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\obj\Debug\net6.0\07.MaxSequeceOfEqualElements.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\obj\Debug\net6.0\07.MaxSequeceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\obj\Debug\net6.0\07.MaxSequeceOfEqualElements.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\obj\Debug\net6.0\07.MaxSequeceOfEqualElements.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\obj\Debug\net6.0\07.MaxSequeceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\obj\Debug\net6.0\07.MaxSequeceOfEqualElements.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\obj\Debug\net6.0\refint\07.MaxSequeceOfEqualElements.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\obj\Debug\net6.0\07.MaxSequeceOfEqualElements.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\obj\Debug\net6.0\07.MaxSequeceOfEqualElements.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\07.MaxSequeceOfEqualElements\obj\Debug\net6.0\ref\07.MaxSequeceOfEqualElements.dll
