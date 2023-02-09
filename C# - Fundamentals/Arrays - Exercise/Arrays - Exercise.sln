@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ArrayRotation", "04.Arra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.TopIntegers", "05.TopIntegers\05.TopIntegers.csproj", "{ADC9F005-2784-4E39-A7CC-0E981B4C2B4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EqualSums", "06.EqualSums\06.EqualSums.csproj", "{A3F7CB14-59EB-4FB0-95EC-3731B3FF7027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.EqualSums", "06.EqualSums\06.EqualSums.csproj", "{A3F7CB14-59EB-4FB0-95EC-3731B3FF7027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.MaxSequeceOfEqualElements", "07.MaxSequeceOfEqualElements\07.MaxSequeceOfEqualElements.csproj", "{7B7637CF-E947-4D23-AC71-09998AF39549}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.MaxSequeceOfEqualElements", "07.MaxSequeceOfEqualElements\07.MaxSequeceOfEqualElements.csproj", "{7B7637CF-E947-4D23-AC71-09998AF39549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MagicSum", "08.MagicSum\08.MagicSum.csproj", "{A29FD38B-6645-4D46-9163-0288BA676669}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{7B7637CF-E947-4D23-AC71-09998AF39549}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B7637CF-E947-4D23-AC71-09998AF39549}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B7637CF-E947-4D23-AC71-09998AF39549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29FD38B-6645-4D46-9163-0288BA676669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29FD38B-6645-4D46-9163-0288BA676669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29FD38B-6645-4D46-9163-0288BA676669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29FD38B-6645-4D46-9163-0288BA676669}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
