@@ -1,0 +1,14 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.runtimeconfig.dev.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.genruntimeconfig.cache
