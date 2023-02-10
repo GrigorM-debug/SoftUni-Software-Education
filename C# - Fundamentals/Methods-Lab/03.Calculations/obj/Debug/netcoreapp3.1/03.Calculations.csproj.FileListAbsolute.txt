@@ -1,0 +1,14 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.runtimeconfig.dev.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.runtimeconfig.dev.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.genruntimeconfig.cache
