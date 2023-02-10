@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\bin\Debug\net6.0\10.Ladybugs.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\bin\Debug\net6.0\10.Ladybugs.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\bin\Debug\net6.0\10.Ladybugs.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\bin\Debug\net6.0\10.Ladybugs.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\bin\Debug\net6.0\10.Ladybugs.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\obj\Debug\net6.0\10.Ladybugs.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\obj\Debug\net6.0\10.Ladybugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\obj\Debug\net6.0\10.Ladybugs.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\obj\Debug\net6.0\10.Ladybugs.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\obj\Debug\net6.0\10.Ladybugs.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\obj\Debug\net6.0\10.Ladybugs.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\obj\Debug\net6.0\refint\10.Ladybugs.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\obj\Debug\net6.0\10.Ladybugs.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\obj\Debug\net6.0\10.Ladybugs.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - Exercise\10.Ladybugs\obj\Debug\net6.0\ref\10.Ladybugs.dll
