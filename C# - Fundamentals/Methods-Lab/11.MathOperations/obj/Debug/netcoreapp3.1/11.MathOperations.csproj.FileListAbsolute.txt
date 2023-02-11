@@ -1,0 +1,14 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.runtimeconfig.dev.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.runtimeconfig.dev.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.genruntimeconfig.cache
