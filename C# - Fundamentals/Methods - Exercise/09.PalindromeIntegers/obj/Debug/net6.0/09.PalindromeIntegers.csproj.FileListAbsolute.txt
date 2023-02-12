@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\bin\Debug\net6.0\09.PalindromeIntegers.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\bin\Debug\net6.0\09.PalindromeIntegers.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\bin\Debug\net6.0\09.PalindromeIntegers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\bin\Debug\net6.0\09.PalindromeIntegers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\bin\Debug\net6.0\09.PalindromeIntegers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\obj\Debug\net6.0\refint\09.PalindromeIntegers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Methods - Exercise\09.PalindromeIntegers\obj\Debug\net6.0\ref\09.PalindromeIntegers.dll
