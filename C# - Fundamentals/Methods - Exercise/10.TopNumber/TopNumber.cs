@@ -1,12 +1,11 @@
-﻿internal class TopNumber
+﻿using System.Globalization;
+
+internal class TopNumber
 {
     static void Main()
     {
-        int n = int.Parse(Console.ReadLine());
-    }
-
-    static int TopNumber(int n)
-    {
-
+        string n = Console.ReadLine();
+        bool isTopNuimber = TopNumber(n);
+        Console.WriteLine(isTopNuimber.ToString().ToLower());
     }
 }

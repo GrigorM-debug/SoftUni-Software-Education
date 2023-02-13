@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SmallestOfThreeNumbers", "01.SmallestOfThreeNumbers\01.SmallestOfThreeNumbers.csproj", "{80DF2EEA-5872-47D0-9DE9-EAB1F2D8A607}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SmallestOfThreeNumbers", "01.SmallestOfThreeNumbers\01.SmallestOfThreeNumbers.csproj", "{80DF2EEA-5872-47D0-9DE9-EAB1F2D8A607}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AddAndSubtract", "05.AddAndSubtract\05.AddAndSubtract.csproj", "{8D075C6C-FB34-435B-9FD4-3D05380BA6BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.AddAndSubtract", "05.AddAndSubtract\05.AddAndSubtract.csproj", "{8D075C6C-FB34-435B-9FD4-3D05380BA6BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.FactorialDivision", "08.FactorialDivision\08.FactorialDivision.csproj", "{EFEE70AC-4396-47EF-AA25-E770CC60A827}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.FactorialDivision", "08.FactorialDivision\08.FactorialDivision.csproj", "{EFEE70AC-4396-47EF-AA25-E770CC60A827}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.TopNumber", "10.TopNumber\10.TopNumber.csproj", "{23FA7CCD-C50F-4BA9-A9B3-6F7803316808}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.TopNumber", "10.TopNumber\10.TopNumber.csproj", "{23FA7CCD-C50F-4BA9-A9B3-6F7803316808}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PalindromeIntegers", "09.PalindromeIntegers\09.PalindromeIntegers.csproj", "{109BAA44-7C58-4F1E-AF64-03B9DF52D1CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.PalindromeIntegers", "09.PalindromeIntegers\09.PalindromeIntegers.csproj", "{109BAA44-7C58-4F1E-AF64-03B9DF52D1CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.VowelsCount", "02.VowelsCount\02.VowelsCount.csproj", "{4793716C-E95F-482D-A224-1EF7734EA011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{109BAA44-7C58-4F1E-AF64-03B9DF52D1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{109BAA44-7C58-4F1E-AF64-03B9DF52D1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{109BAA44-7C58-4F1E-AF64-03B9DF52D1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4793716C-E95F-482D-A224-1EF7734EA011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4793716C-E95F-482D-A224-1EF7734EA011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4793716C-E95F-482D-A224-1EF7734EA011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4793716C-E95F-482D-A224-1EF7734EA011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
