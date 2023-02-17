@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\refint\05.RemoveNegativesAndReverse.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\ref\05.RemoveNegativesAndReverse.dll

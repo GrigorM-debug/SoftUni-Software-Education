@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net6.0\01.SumAdjacentEqualNumbers.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net6.0\01.SumAdjacentEqualNumbers.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net6.0\01.SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net6.0\01.SumAdjacentEqualNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net6.0\01.SumAdjacentEqualNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\refint\01.SumAdjacentEqualNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\ref\01.SumAdjacentEqualNumbers.dll

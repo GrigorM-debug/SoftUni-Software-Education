@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\bin\Debug\net6.0\02.Gauss'Trick.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\bin\Debug\net6.0\02.Gauss'Trick.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\bin\Debug\net6.0\02.Gauss'Trick.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\bin\Debug\net6.0\02.Gauss'Trick.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\bin\Debug\net6.0\02.Gauss'Trick.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\obj\Debug\net6.0\02.Gauss'Trick.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\obj\Debug\net6.0\02.Gauss'Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\obj\Debug\net6.0\02.Gauss'Trick.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\obj\Debug\net6.0\02.Gauss'Trick.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\obj\Debug\net6.0\02.Gauss'Trick.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\obj\Debug\net6.0\02.Gauss'Trick.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\obj\Debug\net6.0\refint\02.Gauss'Trick.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\obj\Debug\net6.0\02.Gauss'Trick.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\obj\Debug\net6.0\02.Gauss'Trick.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\02.Gauss'Trick\obj\Debug\net6.0\ref\02.Gauss'Trick.dll
