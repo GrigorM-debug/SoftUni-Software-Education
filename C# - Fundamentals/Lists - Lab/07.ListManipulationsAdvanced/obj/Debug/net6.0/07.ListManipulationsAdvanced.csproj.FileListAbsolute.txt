@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\bin\Debug\net6.0\07.ListManipulationsAdvanced.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\bin\Debug\net6.0\07.ListManipulationsAdvanced.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\bin\Debug\net6.0\07.ListManipulationsAdvanced.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\bin\Debug\net6.0\07.ListManipulationsAdvanced.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\bin\Debug\net6.0\07.ListManipulationsAdvanced.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\obj\Debug\net6.0\07.ListManipulationsAdvanced.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\obj\Debug\net6.0\07.ListManipulationsAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\obj\Debug\net6.0\07.ListManipulationsAdvanced.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\obj\Debug\net6.0\07.ListManipulationsAdvanced.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\obj\Debug\net6.0\07.ListManipulationsAdvanced.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\obj\Debug\net6.0\07.ListManipulationsAdvanced.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\obj\Debug\net6.0\refint\07.ListManipulationsAdvanced.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\obj\Debug\net6.0\07.ListManipulationsAdvanced.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\obj\Debug\net6.0\07.ListManipulationsAdvanced.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\07.ListManipulationsAdvanced\obj\Debug\net6.0\ref\07.ListManipulationsAdvanced.dll
