@@ -2,10 +2,16 @@
     .Split()
     .Select(int.Parse)
     .ToList();
-
-for (int i =0; i < numbers.Count-1; i++)
+List<int> result = new List<int>(); 
+for (int i =0; i < numbers.Count / 2; i++)
 {
-    numbers[i] += numbers.Count - 1;
+    result.Add(numbers[i] + numbers[numbers.Count - i - 1]);
     
 }
-Console.WriteLine(string.Join(" ", numbers));
+
+if (numbers.Count % 2 != 0)
+{
+    result.Add(numbers[numbers.Count / 2]);
+}
+
+Console.WriteLine(string.Join(" ", result));
