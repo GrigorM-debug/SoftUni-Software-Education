@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\bin\Debug\net6.0\03.MergingLists.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\bin\Debug\net6.0\03.MergingLists.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\bin\Debug\net6.0\03.MergingLists.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\bin\Debug\net6.0\03.MergingLists.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\bin\Debug\net6.0\03.MergingLists.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\obj\Debug\net6.0\refint\03.MergingLists.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists - Lab\03.MergingLists\obj\Debug\net6.0\ref\03.MergingLists.dll
