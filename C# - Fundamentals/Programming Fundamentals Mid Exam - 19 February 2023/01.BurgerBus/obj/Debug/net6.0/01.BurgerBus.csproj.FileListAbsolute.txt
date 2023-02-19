@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\bin\Debug\net6.0\01.BurgerBus.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\bin\Debug\net6.0\01.BurgerBus.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\bin\Debug\net6.0\01.BurgerBus.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\bin\Debug\net6.0\01.BurgerBus.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\bin\Debug\net6.0\01.BurgerBus.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\obj\Debug\net6.0\01.BurgerBus.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\obj\Debug\net6.0\01.BurgerBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\obj\Debug\net6.0\01.BurgerBus.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\obj\Debug\net6.0\01.BurgerBus.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\obj\Debug\net6.0\01.BurgerBus.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\obj\Debug\net6.0\01.BurgerBus.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\obj\Debug\net6.0\refint\01.BurgerBus.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\obj\Debug\net6.0\01.BurgerBus.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\obj\Debug\net6.0\01.BurgerBus.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\01.BurgerBus\obj\Debug\net6.0\ref\01.BurgerBus.dll

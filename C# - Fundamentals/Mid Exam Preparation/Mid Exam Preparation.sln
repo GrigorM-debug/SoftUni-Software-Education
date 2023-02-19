@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - Counter Strike", "Problem 1 - Counter Strike\Problem 1 - Counter Strike.csproj", "{D641479E-DDD8-4801-9469-D93AAB85F645}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 - Treasure Hunt", "Problem 2 - Treasure Hunt\Problem 2 - Treasure Hunt.csproj", "{43898FD9-D890-413F-AB68-44F1599AC582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 - Memory Game", "Problem 3 - Memory Game\Problem 3 - Memory Game.csproj", "{FFBC7A58-48CE-4E4F-9C95-D5135CED9E47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D641479E-DDD8-4801-9469-D93AAB85F645}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D641479E-DDD8-4801-9469-D93AAB85F645}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D641479E-DDD8-4801-9469-D93AAB85F645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43898FD9-D890-413F-AB68-44F1599AC582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43898FD9-D890-413F-AB68-44F1599AC582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43898FD9-D890-413F-AB68-44F1599AC582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43898FD9-D890-413F-AB68-44F1599AC582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBC7A58-48CE-4E4F-9C95-D5135CED9E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBC7A58-48CE-4E4F-9C95-D5135CED9E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBC7A58-48CE-4E4F-9C95-D5135CED9E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBC7A58-48CE-4E4F-9C95-D5135CED9E47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

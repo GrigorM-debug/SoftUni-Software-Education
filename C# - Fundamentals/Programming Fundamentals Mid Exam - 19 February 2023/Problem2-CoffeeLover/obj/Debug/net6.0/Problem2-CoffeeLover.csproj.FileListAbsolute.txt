@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\bin\Debug\net6.0\Problem2-CoffeeLover.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\bin\Debug\net6.0\Problem2-CoffeeLover.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\bin\Debug\net6.0\Problem2-CoffeeLover.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\bin\Debug\net6.0\Problem2-CoffeeLover.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\bin\Debug\net6.0\Problem2-CoffeeLover.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\obj\Debug\net6.0\Problem2-CoffeeLover.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\obj\Debug\net6.0\Problem2-CoffeeLover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\obj\Debug\net6.0\Problem2-CoffeeLover.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\obj\Debug\net6.0\Problem2-CoffeeLover.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\obj\Debug\net6.0\Problem2-CoffeeLover.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\obj\Debug\net6.0\Problem2-CoffeeLover.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\obj\Debug\net6.0\refint\Problem2-CoffeeLover.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\obj\Debug\net6.0\Problem2-CoffeeLover.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\obj\Debug\net6.0\Problem2-CoffeeLover.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem2-CoffeeLover\obj\Debug\net6.0\ref\Problem2-CoffeeLover.dll

@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\bin\Debug\net6.0\Problem3-DeckOfCards.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\bin\Debug\net6.0\Problem3-DeckOfCards.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\bin\Debug\net6.0\Problem3-DeckOfCards.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\bin\Debug\net6.0\Problem3-DeckOfCards.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\bin\Debug\net6.0\Problem3-DeckOfCards.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\obj\Debug\net6.0\Problem3-DeckOfCards.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\obj\Debug\net6.0\Problem3-DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\obj\Debug\net6.0\Problem3-DeckOfCards.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\obj\Debug\net6.0\Problem3-DeckOfCards.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\obj\Debug\net6.0\Problem3-DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\obj\Debug\net6.0\Problem3-DeckOfCards.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\obj\Debug\net6.0\refint\Problem3-DeckOfCards.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\obj\Debug\net6.0\Problem3-DeckOfCards.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\obj\Debug\net6.0\Problem3-DeckOfCards.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Mid Exam - 19 February 2023\Problem3-DeckOfCards\obj\Debug\net6.0\ref\Problem3-DeckOfCards.dll
