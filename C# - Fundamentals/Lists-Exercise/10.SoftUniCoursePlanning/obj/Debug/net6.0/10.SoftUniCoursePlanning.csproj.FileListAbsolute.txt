@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\bin\Debug\net6.0\10.SoftUniCoursePlanning.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\bin\Debug\net6.0\10.SoftUniCoursePlanning.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\bin\Debug\net6.0\10.SoftUniCoursePlanning.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\bin\Debug\net6.0\10.SoftUniCoursePlanning.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\bin\Debug\net6.0\10.SoftUniCoursePlanning.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\net6.0\refint\10.SoftUniCoursePlanning.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\net6.0\10.SoftUniCoursePlanning.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\10.SoftUniCoursePlanning\obj\Debug\net6.0\ref\10.SoftUniCoursePlanning.dll

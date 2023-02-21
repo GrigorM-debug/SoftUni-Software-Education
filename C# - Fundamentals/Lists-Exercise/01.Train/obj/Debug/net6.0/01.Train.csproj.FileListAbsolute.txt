@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\bin\Debug\net6.0\01.Train.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\bin\Debug\net6.0\01.Train.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\bin\Debug\net6.0\01.Train.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\bin\Debug\net6.0\01.Train.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\bin\Debug\net6.0\01.Train.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\obj\Debug\net6.0\01.Train.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\obj\Debug\net6.0\01.Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\obj\Debug\net6.0\01.Train.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\obj\Debug\net6.0\01.Train.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\obj\Debug\net6.0\01.Train.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\obj\Debug\net6.0\01.Train.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\obj\Debug\net6.0\refint\01.Train.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\obj\Debug\net6.0\01.Train.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\obj\Debug\net6.0\01.Train.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\01.Train\obj\Debug\net6.0\ref\01.Train.dll

@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\bin\Debug\net6.0\Problem 2 - Treasure Hunt.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\bin\Debug\net6.0\Problem 2 - Treasure Hunt.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\bin\Debug\net6.0\Problem 2 - Treasure Hunt.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\bin\Debug\net6.0\Problem 2 - Treasure Hunt.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\bin\Debug\net6.0\Problem 2 - Treasure Hunt.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\obj\Debug\net6.0\Problem 2 - Treasure Hunt.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\obj\Debug\net6.0\Problem 2 - Treasure Hunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\obj\Debug\net6.0\Problem 2 - Treasure Hunt.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\obj\Debug\net6.0\Problem 2 - Treasure Hunt.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\obj\Debug\net6.0\Problem 2 - Treasure Hunt.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\obj\Debug\net6.0\Problem 2 - Treasure Hunt.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\obj\Debug\net6.0\refint\Problem 2 - Treasure Hunt.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\obj\Debug\net6.0\Problem 2 - Treasure Hunt.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\obj\Debug\net6.0\Problem 2 - Treasure Hunt.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Mid Exam Preparation\Problem 2 - Treasure Hunt\obj\Debug\net6.0\ref\Problem 2 - Treasure Hunt.dll

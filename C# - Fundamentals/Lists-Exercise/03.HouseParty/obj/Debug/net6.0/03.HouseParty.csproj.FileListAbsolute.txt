@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\bin\Debug\net6.0\03.HouseParty.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\bin\Debug\net6.0\03.HouseParty.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\bin\Debug\net6.0\03.HouseParty.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\bin\Debug\net6.0\03.HouseParty.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\bin\Debug\net6.0\03.HouseParty.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\net6.0\03.HouseParty.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\net6.0\03.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\net6.0\03.HouseParty.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\net6.0\03.HouseParty.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\net6.0\03.HouseParty.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\net6.0\03.HouseParty.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\net6.0\refint\03.HouseParty.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\net6.0\03.HouseParty.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\net6.0\03.HouseParty.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\net6.0\ref\03.HouseParty.dll
