@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ChangeList", "02.ChangeL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.SoftUniCoursePlanning", "10.SoftUniCoursePlanning\10.SoftUniCoursePlanning.csproj", "{FCF1EEED-50D5-47B3-AE4D-FD70AEF558C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.AppendArrays", "07.AppendArrays\07.AppendArrays.csproj", "{7217E3A6-84A5-4042-A383-26EABABA9F11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FCF1EEED-50D5-47B3-AE4D-FD70AEF558C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCF1EEED-50D5-47B3-AE4D-FD70AEF558C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCF1EEED-50D5-47B3-AE4D-FD70AEF558C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7217E3A6-84A5-4042-A383-26EABABA9F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7217E3A6-84A5-4042-A383-26EABABA9F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7217E3A6-84A5-4042-A383-26EABABA9F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7217E3A6-84A5-4042-A383-26EABABA9F11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
