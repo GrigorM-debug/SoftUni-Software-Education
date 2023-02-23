@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\bin\Debug\net6.0\03.Songs.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\bin\Debug\net6.0\03.Songs.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\bin\Debug\net6.0\03.Songs.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\bin\Debug\net6.0\03.Songs.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\bin\Debug\net6.0\03.Songs.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\obj\Debug\net6.0\03.Songs.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\obj\Debug\net6.0\03.Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\obj\Debug\net6.0\03.Songs.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\obj\Debug\net6.0\03.Songs.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\obj\Debug\net6.0\03.Songs.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\obj\Debug\net6.0\03.Songs.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\obj\Debug\net6.0\refint\03.Songs.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\obj\Debug\net6.0\03.Songs.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\obj\Debug\net6.0\03.Songs.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\03.Songs\obj\Debug\net6.0\ref\03.Songs.dll

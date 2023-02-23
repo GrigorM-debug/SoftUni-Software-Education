@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\obj\Debug\net6.0\refint\02.BigFactorial.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\02.BigFactorial\obj\Debug\net6.0\ref\02.BigFactorial.dll
