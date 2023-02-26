@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\obj\Debug\net6.0\06.StoreBoxes.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\obj\Debug\net6.0\06.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\obj\Debug\net6.0\06.StoreBoxes.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\obj\Debug\net6.0\06.StoreBoxes.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\obj\Debug\net6.0\06.StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\bin\Debug\net6.0\06.StoreBoxes.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\bin\Debug\net6.0\06.StoreBoxes.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\bin\Debug\net6.0\06.StoreBoxes.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\bin\Debug\net6.0\06.StoreBoxes.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\bin\Debug\net6.0\06.StoreBoxes.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\obj\Debug\net6.0\06.StoreBoxes.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\obj\Debug\net6.0\refint\06.StoreBoxes.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\obj\Debug\net6.0\06.StoreBoxes.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\obj\Debug\net6.0\06.StoreBoxes.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\06.StoreBoxes\obj\Debug\net6.0\ref\06.StoreBoxes.dll

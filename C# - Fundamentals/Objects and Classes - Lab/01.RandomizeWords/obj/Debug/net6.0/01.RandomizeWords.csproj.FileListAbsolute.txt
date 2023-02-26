@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\obj\Debug\net6.0\refint\01.RandomizeWords.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Lab\01.RandomizeWords\obj\Debug\net6.0\ref\01.RandomizeWords.dll
