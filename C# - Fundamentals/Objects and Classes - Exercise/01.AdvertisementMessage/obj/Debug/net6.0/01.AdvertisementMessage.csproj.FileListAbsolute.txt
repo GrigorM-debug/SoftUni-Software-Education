@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\bin\Debug\net6.0\01.AdvertisementMessage.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\bin\Debug\net6.0\01.AdvertisementMessage.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\bin\Debug\net6.0\01.AdvertisementMessage.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\bin\Debug\net6.0\01.AdvertisementMessage.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\bin\Debug\net6.0\01.AdvertisementMessage.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\obj\Debug\net6.0\01.AdvertisementMessage.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\obj\Debug\net6.0\01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\obj\Debug\net6.0\01.AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\obj\Debug\net6.0\01.AdvertisementMessage.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\obj\Debug\net6.0\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\obj\Debug\net6.0\01.AdvertisementMessage.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\obj\Debug\net6.0\refint\01.AdvertisementMessage.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\obj\Debug\net6.0\01.AdvertisementMessage.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\obj\Debug\net6.0\01.AdvertisementMessage.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\01.AdvertisementMessage\obj\Debug\net6.0\ref\01.AdvertisementMessage.dll
