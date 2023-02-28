@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net6.0\06.VehicleCatalogue.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net6.0\06.VehicleCatalogue.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net6.0\06.VehicleCatalogue.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net6.0\06.VehicleCatalogue.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net6.0\06.VehicleCatalogue.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net6.0\refint\06.VehicleCatalogue.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net6.0\ref\06.VehicleCatalogue.dll
