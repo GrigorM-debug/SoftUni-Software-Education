@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\bin\Debug\net6.0\04.WordFilter.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\bin\Debug\net6.0\04.WordFilter.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\bin\Debug\net6.0\04.WordFilter.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\bin\Debug\net6.0\04.WordFilter.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\bin\Debug\net6.0\04.WordFilter.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\obj\Debug\net6.0\04.WordFilter.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\obj\Debug\net6.0\04.WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\obj\Debug\net6.0\04.WordFilter.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\obj\Debug\net6.0\04.WordFilter.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\obj\Debug\net6.0\04.WordFilter.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\obj\Debug\net6.0\04.WordFilter.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\obj\Debug\net6.0\refint\04.WordFilter.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\obj\Debug\net6.0\04.WordFilter.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\obj\Debug\net6.0\04.WordFilter.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\04.WordFilter\obj\Debug\net6.0\ref\04.WordFilter.dll
