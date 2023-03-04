@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\obj\Debug\net6.0\refint\01.CountRealNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\01.CountRealNumbers\obj\Debug\net6.0\ref\01.CountRealNumbers.dll

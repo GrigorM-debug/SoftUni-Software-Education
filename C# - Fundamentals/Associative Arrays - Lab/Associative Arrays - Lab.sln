@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.WordFilter", "04.WordFilter\04.WordFilter.csproj", "{1C128DAA-4B23-46EC-B286-664ED4B007BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountRealNumbers", "01.CountRealNumbers\01.CountRealNumbers.csproj", "{BBCA89E8-0CA9-4812-9C05-9F07DD9C2BB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1C128DAA-4B23-46EC-B286-664ED4B007BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C128DAA-4B23-46EC-B286-664ED4B007BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C128DAA-4B23-46EC-B286-664ED4B007BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCA89E8-0CA9-4812-9C05-9F07DD9C2BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCA89E8-0CA9-4812-9C05-9F07DD9C2BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCA89E8-0CA9-4812-9C05-9F07DD9C2BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCA89E8-0CA9-4812-9C05-9F07DD9C2BB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
