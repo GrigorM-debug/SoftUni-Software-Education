@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\bin\Debug\net6.0\02.OddOccurrunces.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\bin\Debug\net6.0\02.OddOccurrunces.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\bin\Debug\net6.0\02.OddOccurrunces.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\bin\Debug\net6.0\02.OddOccurrunces.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\bin\Debug\net6.0\02.OddOccurrunces.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\obj\Debug\net6.0\02.OddOccurrunces.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\obj\Debug\net6.0\02.OddOccurrunces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\obj\Debug\net6.0\02.OddOccurrunces.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\obj\Debug\net6.0\02.OddOccurrunces.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\obj\Debug\net6.0\02.OddOccurrunces.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\obj\Debug\net6.0\02.OddOccurrunces.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\obj\Debug\net6.0\refint\02.OddOccurrunces.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\obj\Debug\net6.0\02.OddOccurrunces.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\obj\Debug\net6.0\02.OddOccurrunces.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\02.OddOccurrunces\obj\Debug\net6.0\ref\02.OddOccurrunces.dll

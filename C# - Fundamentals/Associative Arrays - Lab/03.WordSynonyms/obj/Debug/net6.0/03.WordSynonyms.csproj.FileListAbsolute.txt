@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\obj\Debug\net6.0\refint\03.WordSynonyms.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Associative Arrays - Lab\03.WordSynonyms\obj\Debug\net6.0\ref\03.WordSynonyms.dll
