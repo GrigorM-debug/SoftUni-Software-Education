@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\bin\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\bin\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\bin\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\bin\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\bin\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\obj\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\obj\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\obj\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\obj\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\obj\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\obj\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\obj\Debug\net6.0\refint\05.Digits,LettersAndOthers-OtherLongerWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\obj\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\obj\Debug\net6.0\05.Digits,LettersAndOthers-OtherLongerWay.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\05.Digits,LettersAndOthers-OtherLongerWay\obj\Debug\net6.0\ref\05.Digits,LettersAndOthers-OtherLongerWay.dll

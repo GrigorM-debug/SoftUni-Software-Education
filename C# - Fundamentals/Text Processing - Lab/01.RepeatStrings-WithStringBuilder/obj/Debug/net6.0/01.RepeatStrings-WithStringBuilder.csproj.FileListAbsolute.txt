@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\bin\Debug\net6.0\01.RepeatStrings-WithStringBuilder.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\bin\Debug\net6.0\01.RepeatStrings-WithStringBuilder.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\bin\Debug\net6.0\01.RepeatStrings-WithStringBuilder.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\bin\Debug\net6.0\01.RepeatStrings-WithStringBuilder.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\bin\Debug\net6.0\01.RepeatStrings-WithStringBuilder.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\obj\Debug\net6.0\01.RepeatStrings-WithStringBuilder.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\obj\Debug\net6.0\01.RepeatStrings-WithStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\obj\Debug\net6.0\01.RepeatStrings-WithStringBuilder.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\obj\Debug\net6.0\01.RepeatStrings-WithStringBuilder.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\obj\Debug\net6.0\01.RepeatStrings-WithStringBuilder.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\obj\Debug\net6.0\01.RepeatStrings-WithStringBuilder.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\obj\Debug\net6.0\refint\01.RepeatStrings-WithStringBuilder.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\obj\Debug\net6.0\01.RepeatStrings-WithStringBuilder.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\obj\Debug\net6.0\01.RepeatStrings-WithStringBuilder.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.RepeatStrings-WithStringBuilder\obj\Debug\net6.0\ref\01.RepeatStrings-WithStringBuilder.dll

@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\bin\Debug\net6.0\04.TextFilter.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\bin\Debug\net6.0\04.TextFilter.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\bin\Debug\net6.0\04.TextFilter.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\bin\Debug\net6.0\04.TextFilter.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\bin\Debug\net6.0\04.TextFilter.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\obj\Debug\net6.0\04.TextFilter.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\obj\Debug\net6.0\04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\obj\Debug\net6.0\04.TextFilter.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\obj\Debug\net6.0\04.TextFilter.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\obj\Debug\net6.0\04.TextFilter.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\obj\Debug\net6.0\04.TextFilter.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\obj\Debug\net6.0\refint\04.TextFilter.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\obj\Debug\net6.0\04.TextFilter.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\obj\Debug\net6.0\04.TextFilter.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\04.TextFilter\obj\Debug\net6.0\ref\04.TextFilter.dll

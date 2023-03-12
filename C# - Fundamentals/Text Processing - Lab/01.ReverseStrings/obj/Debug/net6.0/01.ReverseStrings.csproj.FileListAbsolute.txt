@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\obj\Debug\net6.0\refint\01.ReverseStrings.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\01.ReverseStrings\obj\Debug\net6.0\ref\01.ReverseStrings.dll

@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\obj\Debug\net6.0\refint\02.RepeatStrings.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Lab\02.RepeatStrings\obj\Debug\net6.0\ref\02.RepeatStrings.dll
