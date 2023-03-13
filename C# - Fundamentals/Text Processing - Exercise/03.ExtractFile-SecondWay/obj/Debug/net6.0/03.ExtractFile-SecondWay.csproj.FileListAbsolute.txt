@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\bin\Debug\net6.0\03.ExtractFile-SecondWay.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\bin\Debug\net6.0\03.ExtractFile-SecondWay.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\bin\Debug\net6.0\03.ExtractFile-SecondWay.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\bin\Debug\net6.0\03.ExtractFile-SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\bin\Debug\net6.0\03.ExtractFile-SecondWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\obj\Debug\net6.0\03.ExtractFile-SecondWay.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\obj\Debug\net6.0\03.ExtractFile-SecondWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\obj\Debug\net6.0\03.ExtractFile-SecondWay.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\obj\Debug\net6.0\03.ExtractFile-SecondWay.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\obj\Debug\net6.0\03.ExtractFile-SecondWay.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\obj\Debug\net6.0\03.ExtractFile-SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\obj\Debug\net6.0\refint\03.ExtractFile-SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\obj\Debug\net6.0\03.ExtractFile-SecondWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\obj\Debug\net6.0\03.ExtractFile-SecondWay.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile-SecondWay\obj\Debug\net6.0\ref\03.ExtractFile-SecondWay.dll

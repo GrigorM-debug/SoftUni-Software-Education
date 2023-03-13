@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\obj\Debug\net6.0\refint\03.ExtractFile.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\03.ExtractFile\obj\Debug\net6.0\ref\03.ExtractFile.dll

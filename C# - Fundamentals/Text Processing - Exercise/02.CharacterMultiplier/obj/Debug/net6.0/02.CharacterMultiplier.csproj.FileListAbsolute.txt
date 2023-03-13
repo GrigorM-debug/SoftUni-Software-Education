@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net6.0\refint\02.CharacterMultiplier.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier\obj\Debug\net6.0\ref\02.CharacterMultiplier.dll

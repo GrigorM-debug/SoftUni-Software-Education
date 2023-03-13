@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\bin\Debug\net6.0\02.CharacterMultiplier-SecondWay.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\bin\Debug\net6.0\02.CharacterMultiplier-SecondWay.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\bin\Debug\net6.0\02.CharacterMultiplier-SecondWay.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\bin\Debug\net6.0\02.CharacterMultiplier-SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\bin\Debug\net6.0\02.CharacterMultiplier-SecondWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\obj\Debug\net6.0\02.CharacterMultiplier-SecondWay.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\obj\Debug\net6.0\02.CharacterMultiplier-SecondWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\obj\Debug\net6.0\02.CharacterMultiplier-SecondWay.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\obj\Debug\net6.0\02.CharacterMultiplier-SecondWay.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\obj\Debug\net6.0\02.CharacterMultiplier-SecondWay.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\obj\Debug\net6.0\02.CharacterMultiplier-SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\obj\Debug\net6.0\refint\02.CharacterMultiplier-SecondWay.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\obj\Debug\net6.0\02.CharacterMultiplier-SecondWay.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\obj\Debug\net6.0\02.CharacterMultiplier-SecondWay.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\02.CharacterMultiplier-SecondWay\obj\Debug\net6.0\ref\02.CharacterMultiplier-SecondWay.dll
