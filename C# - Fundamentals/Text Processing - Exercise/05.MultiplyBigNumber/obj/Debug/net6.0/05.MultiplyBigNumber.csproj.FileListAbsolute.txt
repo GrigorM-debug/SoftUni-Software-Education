@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\refint\05.MultiplyBigNumber.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\ref\05.MultiplyBigNumber.dll

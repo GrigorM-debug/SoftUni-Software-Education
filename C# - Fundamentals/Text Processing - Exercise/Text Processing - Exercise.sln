@@ -5,17 +5,19 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ValidUsernames", "01.ValidUsernames\01.ValidUsernames.csproj", "{AA2AF1D4-1741-4826-9D44-ABC6E0D488F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReplaceRepeatingChars", "06.ReplaceRepeatingChars\06.ReplaceRepeatingChars.csproj", "{7AA224B2-A24D-489D-BBB0-E453329A0415}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ReplaceRepeatingChars", "06.ReplaceRepeatingChars\06.ReplaceRepeatingChars.csproj", "{7AA224B2-A24D-489D-BBB0-E453329A0415}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExtractFile", "03.ExtractFile\03.ExtractFile.csproj", "{595EEE5F-0E66-4002-89BF-5D9100D98629}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ExtractFile", "03.ExtractFile\03.ExtractFile.csproj", "{595EEE5F-0E66-4002-89BF-5D9100D98629}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExtractFile-SecondWay", "03.ExtractFile-SecondWay\03.ExtractFile-SecondWay.csproj", "{1C3DC5CE-B032-4D9F-8A50-52D5B340ECD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ExtractFile-SecondWay", "03.ExtractFile-SecondWay\03.ExtractFile-SecondWay.csproj", "{1C3DC5CE-B032-4D9F-8A50-52D5B340ECD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CaesarCipher", "04.CaesarCipher\04.CaesarCipher.csproj", "{75831F29-3842-45B9-A0FD-3DECB269E9C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CaesarCipher", "04.CaesarCipher\04.CaesarCipher.csproj", "{75831F29-3842-45B9-A0FD-3DECB269E9C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CharacterMultiplier", "02.CharacterMultiplier\02.CharacterMultiplier.csproj", "{90017D82-6F42-42EA-AA4E-61F0C4B3E616}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CharacterMultiplier", "02.CharacterMultiplier\02.CharacterMultiplier.csproj", "{90017D82-6F42-42EA-AA4E-61F0C4B3E616}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CharacterMultiplier-SecondWay", "02.CharacterMultiplier-SecondWay\02.CharacterMultiplier-SecondWay.csproj", "{19147333-3B62-418B-BE69-3B541F176E8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CharacterMultiplier-SecondWay", "02.CharacterMultiplier-SecondWay\02.CharacterMultiplier-SecondWay.csproj", "{19147333-3B62-418B-BE69-3B541F176E8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MultiplyBigNumber", "05.MultiplyBigNumber\05.MultiplyBigNumber.csproj", "{A779B0DC-15AA-4D32-8A24-8DCEC7861C14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{19147333-3B62-418B-BE69-3B541F176E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19147333-3B62-418B-BE69-3B541F176E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19147333-3B62-418B-BE69-3B541F176E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A779B0DC-15AA-4D32-8A24-8DCEC7861C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A779B0DC-15AA-4D32-8A24-8DCEC7861C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A779B0DC-15AA-4D32-8A24-8DCEC7861C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A779B0DC-15AA-4D32-8A24-8DCEC7861C14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
