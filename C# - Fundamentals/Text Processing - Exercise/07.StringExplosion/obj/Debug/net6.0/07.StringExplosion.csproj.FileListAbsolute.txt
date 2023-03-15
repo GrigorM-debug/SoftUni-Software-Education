@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\bin\Debug\net6.0\07.StringExplosion.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\bin\Debug\net6.0\07.StringExplosion.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\bin\Debug\net6.0\07.StringExplosion.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\bin\Debug\net6.0\07.StringExplosion.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\bin\Debug\net6.0\07.StringExplosion.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\obj\Debug\net6.0\refint\07.StringExplosion.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\obj\Debug\net6.0\07.StringExplosion.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Text Processing - Exercise\07.StringExplosion\obj\Debug\net6.0\ref\07.StringExplosion.dll
