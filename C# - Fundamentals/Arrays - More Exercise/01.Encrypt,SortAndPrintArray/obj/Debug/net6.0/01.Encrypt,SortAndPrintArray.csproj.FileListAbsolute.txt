@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\bin\Debug\net6.0\01.Encrypt,SortAndPrintArray.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\bin\Debug\net6.0\01.Encrypt,SortAndPrintArray.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\bin\Debug\net6.0\01.Encrypt,SortAndPrintArray.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\bin\Debug\net6.0\01.Encrypt,SortAndPrintArray.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\bin\Debug\net6.0\01.Encrypt,SortAndPrintArray.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\refint\01.Encrypt,SortAndPrintArray.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Arrays - More Exercise\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\ref\01.Encrypt,SortAndPrintArray.dll
