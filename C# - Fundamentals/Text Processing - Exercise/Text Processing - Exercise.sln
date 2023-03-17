@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CharacterMultiplier-Seco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.MultiplyBigNumber", "05.MultiplyBigNumber\05.MultiplyBigNumber.csproj", "{A779B0DC-15AA-4D32-8A24-8DCEC7861C14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.StringExplosion", "07.StringExplosion\07.StringExplosion.csproj", "{98254F23-E829-48FA-A3A5-942F936852A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.StringExplosion", "07.StringExplosion\07.StringExplosion.csproj", "{98254F23-E829-48FA-A3A5-942F936852A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.LettersChangeNumbers", "08.LettersChangeNumbers\08.LettersChangeNumbers.csproj", "{528F48B5-CFD9-486D-9800-61F79E51B1EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{98254F23-E829-48FA-A3A5-942F936852A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98254F23-E829-48FA-A3A5-942F936852A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98254F23-E829-48FA-A3A5-942F936852A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528F48B5-CFD9-486D-9800-61F79E51B1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528F48B5-CFD9-486D-9800-61F79E51B1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528F48B5-CFD9-486D-9800-61F79E51B1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528F48B5-CFD9-486D-9800-61F79E51B1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
