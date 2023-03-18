@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\bin\Debug\net6.0\02.MatchPhoneNumber.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\bin\Debug\net6.0\02.MatchPhoneNumber.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\bin\Debug\net6.0\02.MatchPhoneNumber.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\bin\Debug\net6.0\02.MatchPhoneNumber.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\bin\Debug\net6.0\02.MatchPhoneNumber.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\obj\Debug\net6.0\02.MatchPhoneNumber.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\obj\Debug\net6.0\02.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\obj\Debug\net6.0\02.MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\obj\Debug\net6.0\02.MatchPhoneNumber.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\obj\Debug\net6.0\02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\obj\Debug\net6.0\02.MatchPhoneNumber.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\obj\Debug\net6.0\refint\02.MatchPhoneNumber.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\obj\Debug\net6.0\02.MatchPhoneNumber.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\obj\Debug\net6.0\02.MatchPhoneNumber.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\02.MatchPhoneNumber\obj\Debug\net6.0\ref\02.MatchPhoneNumber.dll

@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\bin\Debug\net6.0\01.MatchFullName.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\bin\Debug\net6.0\01.MatchFullName.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\bin\Debug\net6.0\01.MatchFullName.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\bin\Debug\net6.0\01.MatchFullName.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\bin\Debug\net6.0\01.MatchFullName.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\obj\Debug\net6.0\refint\01.MatchFullName.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Lab\01.MatchFullName\obj\Debug\net6.0\ref\01.MatchFullName.dll
