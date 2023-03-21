@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\bin\Debug\net6.0\03.SoftUniBarIncome.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\bin\Debug\net6.0\03.SoftUniBarIncome.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\bin\Debug\net6.0\03.SoftUniBarIncome.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\bin\Debug\net6.0\03.SoftUniBarIncome.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\bin\Debug\net6.0\03.SoftUniBarIncome.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\refint\03.SoftUniBarIncome.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\ref\03.SoftUniBarIncome.dll
