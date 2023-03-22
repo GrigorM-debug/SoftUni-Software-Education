@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\bin\Debug\net6.0\05.NetherRealms.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\bin\Debug\net6.0\05.NetherRealms.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\bin\Debug\net6.0\05.NetherRealms.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\bin\Debug\net6.0\05.NetherRealms.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\bin\Debug\net6.0\05.NetherRealms.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\obj\Debug\net6.0\refint\05.NetherRealms.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Regular Expressions - Exercise\05.NetherRealms\obj\Debug\net6.0\ref\05.NetherRealms.dll
