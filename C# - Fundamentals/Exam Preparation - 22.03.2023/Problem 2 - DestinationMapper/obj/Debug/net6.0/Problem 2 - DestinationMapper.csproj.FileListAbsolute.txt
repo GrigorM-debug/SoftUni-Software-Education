@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\obj\Debug\net6.0\Problem 2 - DestinationMapper.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\obj\Debug\net6.0\Problem 2 - DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\obj\Debug\net6.0\Problem 2 - DestinationMapper.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\obj\Debug\net6.0\Problem 2 - DestinationMapper.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\obj\Debug\net6.0\Problem 2 - DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\bin\Debug\net6.0\Problem 2 - DestinationMapper.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\bin\Debug\net6.0\Problem 2 - DestinationMapper.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\bin\Debug\net6.0\Problem 2 - DestinationMapper.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\bin\Debug\net6.0\Problem 2 - DestinationMapper.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\bin\Debug\net6.0\Problem 2 - DestinationMapper.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\obj\Debug\net6.0\Problem 2 - DestinationMapper.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\obj\Debug\net6.0\refint\Problem 2 - DestinationMapper.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\obj\Debug\net6.0\Problem 2 - DestinationMapper.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\obj\Debug\net6.0\Problem 2 - DestinationMapper.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 2 - DestinationMapper\obj\Debug\net6.0\ref\Problem 2 - DestinationMapper.dll

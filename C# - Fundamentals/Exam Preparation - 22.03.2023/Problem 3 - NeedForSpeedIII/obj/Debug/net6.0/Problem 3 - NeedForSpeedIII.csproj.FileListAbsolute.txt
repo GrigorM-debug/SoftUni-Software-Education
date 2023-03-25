@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\bin\Debug\net6.0\Problem 3 - NeedForSpeedIII.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\bin\Debug\net6.0\Problem 3 - NeedForSpeedIII.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\bin\Debug\net6.0\Problem 3 - NeedForSpeedIII.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\bin\Debug\net6.0\Problem 3 - NeedForSpeedIII.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\bin\Debug\net6.0\Problem 3 - NeedForSpeedIII.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\obj\Debug\net6.0\Problem 3 - NeedForSpeedIII.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\obj\Debug\net6.0\Problem 3 - NeedForSpeedIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\obj\Debug\net6.0\Problem 3 - NeedForSpeedIII.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\obj\Debug\net6.0\Problem 3 - NeedForSpeedIII.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\obj\Debug\net6.0\Problem 3 - NeedForSpeedIII.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\obj\Debug\net6.0\Problem 3 - NeedForSpeedIII.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\obj\Debug\net6.0\refint\Problem 3 - NeedForSpeedIII.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\obj\Debug\net6.0\Problem 3 - NeedForSpeedIII.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\obj\Debug\net6.0\Problem 3 - NeedForSpeedIII.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 3 - NeedForSpeedIII\obj\Debug\net6.0\ref\Problem 3 - NeedForSpeedIII.dll
