@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\bin\Debug\net6.0\Problem 1 - TheImitationGame.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\bin\Debug\net6.0\Problem 1 - TheImitationGame.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\bin\Debug\net6.0\Problem 1 - TheImitationGame.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\bin\Debug\net6.0\Problem 1 - TheImitationGame.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\bin\Debug\net6.0\Problem 1 - TheImitationGame.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\obj\Debug\net6.0\Problem 1 - TheImitationGame.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\obj\Debug\net6.0\Problem 1 - TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\obj\Debug\net6.0\Problem 1 - TheImitationGame.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\obj\Debug\net6.0\Problem 1 - TheImitationGame.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\obj\Debug\net6.0\Problem 1 - TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\obj\Debug\net6.0\Problem 1 - TheImitationGame.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\obj\Debug\net6.0\refint\Problem 1 - TheImitationGame.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\obj\Debug\net6.0\Problem 1 - TheImitationGame.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\obj\Debug\net6.0\Problem 1 - TheImitationGame.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 22.03.2023\Problem 1 - TheImitationGame\obj\Debug\net6.0\ref\Problem 1 - TheImitationGame.dll
