@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - WorldTour", "Problem 1 - WorldTour\Problem 1 - WorldTour.csproj", "{A226A39D-A48C-46DA-9449-D573E7ECDA26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 - MirrorWords", "Problem 2 - MirrorWords\Problem 2 - MirrorWords.csproj", "{C098F31B-E2AD-4B09-B9E3-B5F3265CC196}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A226A39D-A48C-46DA-9449-D573E7ECDA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A226A39D-A48C-46DA-9449-D573E7ECDA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A226A39D-A48C-46DA-9449-D573E7ECDA26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C098F31B-E2AD-4B09-B9E3-B5F3265CC196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C098F31B-E2AD-4B09-B9E3-B5F3265CC196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C098F31B-E2AD-4B09-B9E3-B5F3265CC196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C098F31B-E2AD-4B09-B9E3-B5F3265CC196}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\bin\Debug\net6.0\Problem 2 - MirrorWords.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\bin\Debug\net6.0\Problem 2 - MirrorWords.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\bin\Debug\net6.0\Problem 2 - MirrorWords.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\bin\Debug\net6.0\Problem 2 - MirrorWords.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\bin\Debug\net6.0\Problem 2 - MirrorWords.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\obj\Debug\net6.0\Problem 2 - MirrorWords.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\obj\Debug\net6.0\Problem 2 - MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\obj\Debug\net6.0\Problem 2 - MirrorWords.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\obj\Debug\net6.0\Problem 2 - MirrorWords.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\obj\Debug\net6.0\Problem 2 - MirrorWords.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\obj\Debug\net6.0\Problem 2 - MirrorWords.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\obj\Debug\net6.0\refint\Problem 2 - MirrorWords.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\obj\Debug\net6.0\Problem 2 - MirrorWords.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\obj\Debug\net6.0\Problem 2 - MirrorWords.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 2 - MirrorWords\obj\Debug\net6.0\ref\Problem 2 - MirrorWords.dll
