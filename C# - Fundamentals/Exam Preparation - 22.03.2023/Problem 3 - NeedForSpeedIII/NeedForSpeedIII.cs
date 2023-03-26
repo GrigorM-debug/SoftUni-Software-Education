@@ -92,7 +92,7 @@ while (command != "Stop")
 
 foreach(var (carName, car) in cars)
 {
-    Console.WriteLine($"{carName} -> Mileage: {car.Mileage} kms, Fuel in the rank: {car.Fuel} lt.");
+    Console.WriteLine($"{carName} -> Mileage: {car.Mileage} kms, Fuel in the tank: {car.Fuel} lt.");
 }
 
 class Car

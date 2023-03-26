@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\bin\Debug\net6.0\Problem 1 - WorldTour.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\bin\Debug\net6.0\Problem 1 - WorldTour.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\bin\Debug\net6.0\Problem 1 - WorldTour.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\bin\Debug\net6.0\Problem 1 - WorldTour.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\bin\Debug\net6.0\Problem 1 - WorldTour.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\obj\Debug\net6.0\Problem 1 - WorldTour.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\obj\Debug\net6.0\Problem 1 - WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\obj\Debug\net6.0\Problem 1 - WorldTour.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\obj\Debug\net6.0\Problem 1 - WorldTour.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\obj\Debug\net6.0\Problem 1 - WorldTour.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\obj\Debug\net6.0\Problem 1 - WorldTour.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\obj\Debug\net6.0\refint\Problem 1 - WorldTour.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\obj\Debug\net6.0\Problem 1 - WorldTour.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\obj\Debug\net6.0\Problem 1 - WorldTour.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 1 - WorldTour\obj\Debug\net6.0\ref\Problem 1 - WorldTour.dll
