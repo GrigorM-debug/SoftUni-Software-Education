@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\bin\Debug\net6.0\Problem 3 - ThePianist.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\bin\Debug\net6.0\Problem 3 - ThePianist.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\bin\Debug\net6.0\Problem 3 - ThePianist.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\bin\Debug\net6.0\Problem 3 - ThePianist.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\bin\Debug\net6.0\Problem 3 - ThePianist.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\obj\Debug\net6.0\Problem 3 - ThePianist.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\obj\Debug\net6.0\Problem 3 - ThePianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\obj\Debug\net6.0\Problem 3 - ThePianist.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\obj\Debug\net6.0\Problem 3 - ThePianist.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\obj\Debug\net6.0\Problem 3 - ThePianist.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\obj\Debug\net6.0\Problem 3 - ThePianist.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\obj\Debug\net6.0\refint\Problem 3 - ThePianist.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\obj\Debug\net6.0\Problem 3 - ThePianist.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\obj\Debug\net6.0\Problem 3 - ThePianist.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparattion - 24.03.2023\Problem 3 - ThePianist\obj\Debug\net6.0\ref\Problem 3 - ThePianist.dll
