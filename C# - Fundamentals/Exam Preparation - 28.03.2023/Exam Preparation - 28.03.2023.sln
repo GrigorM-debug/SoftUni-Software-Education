@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - PasswordReset", "01.PasswordReset\Problem 1 - PasswordReset.csproj", "{79EC0195-28E9-427C-912A-67C3D4F790D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 - FancyBarcodes", "02.FancyBarcodes\Problem 2 - FancyBarcodes.csproj", "{DE2261AE-E8BE-4440-B029-9BCBD79A8451}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{79EC0195-28E9-427C-912A-67C3D4F790D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79EC0195-28E9-427C-912A-67C3D4F790D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79EC0195-28E9-427C-912A-67C3D4F790D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2261AE-E8BE-4440-B029-9BCBD79A8451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2261AE-E8BE-4440-B029-9BCBD79A8451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2261AE-E8BE-4440-B029-9BCBD79A8451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2261AE-E8BE-4440-B029-9BCBD79A8451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

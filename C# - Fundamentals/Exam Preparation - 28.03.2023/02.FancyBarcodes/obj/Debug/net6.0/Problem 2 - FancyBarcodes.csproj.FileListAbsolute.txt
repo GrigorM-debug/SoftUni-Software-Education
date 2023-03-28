@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\bin\Debug\net6.0\Problem 2 - FancyBarcodes.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\bin\Debug\net6.0\Problem 2 - FancyBarcodes.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\bin\Debug\net6.0\Problem 2 - FancyBarcodes.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\bin\Debug\net6.0\Problem 2 - FancyBarcodes.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\bin\Debug\net6.0\Problem 2 - FancyBarcodes.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\obj\Debug\net6.0\Problem 2 - FancyBarcodes.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\obj\Debug\net6.0\Problem 2 - FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\obj\Debug\net6.0\Problem 2 - FancyBarcodes.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\obj\Debug\net6.0\Problem 2 - FancyBarcodes.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\obj\Debug\net6.0\Problem 2 - FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\obj\Debug\net6.0\Problem 2 - FancyBarcodes.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\obj\Debug\net6.0\refint\Problem 2 - FancyBarcodes.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\obj\Debug\net6.0\Problem 2 - FancyBarcodes.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\obj\Debug\net6.0\Problem 2 - FancyBarcodes.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\02.FancyBarcodes\obj\Debug\net6.0\ref\Problem 2 - FancyBarcodes.dll
