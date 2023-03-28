@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\bin\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\bin\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\bin\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\bin\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\bin\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\refint\Problem 3 - HeroesOfCodeAndLogicVII.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\Problem 3 - HeroesOfCodeAndLogicVII.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 28.03.2023\03.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\ref\Problem 3 - HeroesOfCodeAndLogicVII.dll
