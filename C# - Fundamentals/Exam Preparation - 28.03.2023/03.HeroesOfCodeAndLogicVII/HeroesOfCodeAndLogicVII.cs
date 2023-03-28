@@ -125,6 +125,7 @@ foreach ( var (name, hero) in heroes)
     Console.WriteLine($" HP: {hero.HealthPoints}");
     Console.WriteLine($" MP: {hero.ManaPoints}");
 }
+
 class Hero
 {
     public string Name { get; set; }
