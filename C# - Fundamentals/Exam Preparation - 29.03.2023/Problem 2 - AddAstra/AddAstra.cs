@@ -19,7 +19,7 @@ int caloriesForOneDay = 2000;
 
 int days = totalCalories/ caloriesForOneDay;
 
-Console.WriteLine($"You have food to last you for {days} days!");
+Console.WriteLine($"You have food to last you for: {days} days!");
 
 foreach(Match match in matches)
 {
