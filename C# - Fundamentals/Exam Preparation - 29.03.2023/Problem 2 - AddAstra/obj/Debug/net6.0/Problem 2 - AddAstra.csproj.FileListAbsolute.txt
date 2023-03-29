@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\bin\Debug\net6.0\Problem 2 - AddAstra.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\bin\Debug\net6.0\Problem 2 - AddAstra.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\bin\Debug\net6.0\Problem 2 - AddAstra.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\bin\Debug\net6.0\Problem 2 - AddAstra.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\bin\Debug\net6.0\Problem 2 - AddAstra.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\obj\Debug\net6.0\Problem 2 - AddAstra.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\obj\Debug\net6.0\Problem 2 - AddAstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\obj\Debug\net6.0\Problem 2 - AddAstra.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\obj\Debug\net6.0\Problem 2 - AddAstra.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\obj\Debug\net6.0\Problem 2 - AddAstra.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\obj\Debug\net6.0\Problem 2 - AddAstra.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\obj\Debug\net6.0\refint\Problem 2 - AddAstra.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\obj\Debug\net6.0\Problem 2 - AddAstra.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\obj\Debug\net6.0\Problem 2 - AddAstra.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 29.03.2023\Problem 2 - AddAstra\obj\Debug\net6.0\ref\Problem 2 - AddAstra.dll
