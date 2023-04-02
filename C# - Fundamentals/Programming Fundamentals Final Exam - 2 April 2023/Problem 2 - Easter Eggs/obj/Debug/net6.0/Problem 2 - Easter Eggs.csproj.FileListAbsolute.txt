@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\bin\Debug\net6.0\Problem 2 - Easter Eggs.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\bin\Debug\net6.0\Problem 2 - Easter Eggs.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\bin\Debug\net6.0\Problem 2 - Easter Eggs.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\bin\Debug\net6.0\Problem 2 - Easter Eggs.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\bin\Debug\net6.0\Problem 2 - Easter Eggs.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\obj\Debug\net6.0\Problem 2 - Easter Eggs.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\obj\Debug\net6.0\Problem 2 - Easter Eggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\obj\Debug\net6.0\Problem 2 - Easter Eggs.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\obj\Debug\net6.0\Problem 2 - Easter Eggs.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\obj\Debug\net6.0\Problem 2 - Easter Eggs.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\obj\Debug\net6.0\Problem 2 - Easter Eggs.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\obj\Debug\net6.0\refint\Problem 2 - Easter Eggs.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\obj\Debug\net6.0\Problem 2 - Easter Eggs.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\obj\Debug\net6.0\Problem 2 - Easter Eggs.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 2 - Easter Eggs\obj\Debug\net6.0\ref\Problem 2 - Easter Eggs.dll

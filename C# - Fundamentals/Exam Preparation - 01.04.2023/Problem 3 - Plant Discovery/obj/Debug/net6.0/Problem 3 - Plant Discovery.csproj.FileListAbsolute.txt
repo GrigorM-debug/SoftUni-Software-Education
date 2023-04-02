@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\bin\Debug\net6.0\Problem 3 - Plant Discovery.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\bin\Debug\net6.0\Problem 3 - Plant Discovery.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\bin\Debug\net6.0\Problem 3 - Plant Discovery.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\bin\Debug\net6.0\Problem 3 - Plant Discovery.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\bin\Debug\net6.0\Problem 3 - Plant Discovery.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\obj\Debug\net6.0\Problem 3 - Plant Discovery.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\obj\Debug\net6.0\Problem 3 - Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\obj\Debug\net6.0\Problem 3 - Plant Discovery.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\obj\Debug\net6.0\Problem 3 - Plant Discovery.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\obj\Debug\net6.0\Problem 3 - Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\obj\Debug\net6.0\Problem 3 - Plant Discovery.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\obj\Debug\net6.0\refint\Problem 3 - Plant Discovery.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\obj\Debug\net6.0\Problem 3 - Plant Discovery.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\obj\Debug\net6.0\Problem 3 - Plant Discovery.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Exam Preparation - 01.04.2023\Problem 3 - Plant Discovery\obj\Debug\net6.0\ref\Problem 3 - Plant Discovery.dll

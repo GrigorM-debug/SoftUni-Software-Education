@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\bin\Debug\net6.0\Problem 1 - String Game.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\bin\Debug\net6.0\Problem 1 - String Game.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\bin\Debug\net6.0\Problem 1 - String Game.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\bin\Debug\net6.0\Problem 1 - String Game.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\bin\Debug\net6.0\Problem 1 - String Game.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\obj\Debug\net6.0\Problem 1 - String Game.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\obj\Debug\net6.0\Problem 1 - String Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\obj\Debug\net6.0\Problem 1 - String Game.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\obj\Debug\net6.0\Problem 1 - String Game.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\obj\Debug\net6.0\Problem 1 - String Game.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\obj\Debug\net6.0\Problem 1 - String Game.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\obj\Debug\net6.0\refint\Problem 1 - String Game.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\obj\Debug\net6.0\Problem 1 - String Game.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\obj\Debug\net6.0\Problem 1 - String Game.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem 1 - String Game\obj\Debug\net6.0\ref\Problem 1 - String Game.dll

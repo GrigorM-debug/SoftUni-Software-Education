@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\bin\Debug\net6.0\Problem3-HeroRecruitment.exe
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\bin\Debug\net6.0\Problem3-HeroRecruitment.deps.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\bin\Debug\net6.0\Problem3-HeroRecruitment.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\bin\Debug\net6.0\Problem3-HeroRecruitment.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\bin\Debug\net6.0\Problem3-HeroRecruitment.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\obj\Debug\net6.0\Problem3-HeroRecruitment.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\obj\Debug\net6.0\Problem3-HeroRecruitment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\obj\Debug\net6.0\Problem3-HeroRecruitment.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\obj\Debug\net6.0\Problem3-HeroRecruitment.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\obj\Debug\net6.0\Problem3-HeroRecruitment.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\obj\Debug\net6.0\Problem3-HeroRecruitment.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\obj\Debug\net6.0\refint\Problem3-HeroRecruitment.dll
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\obj\Debug\net6.0\Problem3-HeroRecruitment.pdb
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\obj\Debug\net6.0\Problem3-HeroRecruitment.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Fundamentals\Programming Fundamentals Final Exam - 2 April 2023\Problem3-HeroRecruitment\obj\Debug\net6.0\ref\Problem3-HeroRecruitment.dll
