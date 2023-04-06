@@ -3,6 +3,7 @@
 string input = Console.ReadLine();
 
 string pattern = @"[@#](?<color>[a-z]{3,})[@#][^a-zA-Z\d]*\/(?<quantity>\d+)\/*";
+
 MatchCollection matches = Regex.Matches(input, pattern);
 
 foreach(Match match in matches)
