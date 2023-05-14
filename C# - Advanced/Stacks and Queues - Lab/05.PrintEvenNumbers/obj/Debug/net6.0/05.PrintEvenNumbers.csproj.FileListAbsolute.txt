@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\refint\05.PrintEvenNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\ref\05.PrintEvenNumbers.dll
