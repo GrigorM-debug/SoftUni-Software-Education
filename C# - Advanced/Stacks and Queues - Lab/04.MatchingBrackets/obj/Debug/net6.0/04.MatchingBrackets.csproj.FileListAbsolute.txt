@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\refint\04.MatchingBrackets.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\ref\04.MatchingBrackets.dll

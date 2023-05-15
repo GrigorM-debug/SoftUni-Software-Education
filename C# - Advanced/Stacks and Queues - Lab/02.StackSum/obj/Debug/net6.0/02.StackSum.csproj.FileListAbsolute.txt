@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\bin\Debug\net6.0\02.StackSum.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\bin\Debug\net6.0\02.StackSum.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\bin\Debug\net6.0\02.StackSum.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\bin\Debug\net6.0\02.StackSum.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\bin\Debug\net6.0\02.StackSum.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\refint\02.StackSum.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\ref\02.StackSum.dll
