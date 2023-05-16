@@ -6,11 +6,9 @@ Queue<string> songs = new(
 
 while (songs.Any())
 {
-    string[] tokens = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+    string[] tokens = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).ToArray();
 
     string command = tokens[0];
-
-    string song = string.Join(" ", tokens.Skip(1));
 
     switch (command)
     {
@@ -18,6 +16,8 @@ while (songs.Any())
             songs.Dequeue();
             break;
         case "Add":
+            string song = string.Join(" ", tokens.Skip(1));
+
             if (songs.Contains(song))
             {
                 Console.WriteLine($"{song} is already contained!");
