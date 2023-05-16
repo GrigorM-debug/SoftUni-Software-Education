@@ -7,6 +7,7 @@ Queue<string> trafficJam = new Queue<string>();
 string input = Console.ReadLine();
 
 int totalCarsPassed = 0;
+
 while (input != "end")
 {
     if (input != "green")
