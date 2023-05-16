@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\obj\Debug\net6.0\refint\06.SongsQueue.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\06.SongsQueue\obj\Debug\net6.0\ref\06.SongsQueue.dll
