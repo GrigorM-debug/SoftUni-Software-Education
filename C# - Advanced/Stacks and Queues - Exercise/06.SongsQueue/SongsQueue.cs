@@ -6,34 +6,31 @@ Queue<string> songs = new(
 
 while (songs.Any())
 {
-    string[] tokens = Console.ReadLine().Split();
+    string[] tokens = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
     string command = tokens[0];
 
     string song = string.Join(" ", tokens.Skip(1));
 
-    if (command == "Add")
+    switch (command)
     {
-        if (!songs.Contains(song))
+        case "Play":
+            songs.Dequeue();
+            break;
+        case "Add":
+            if (songs.Contains(song))
             {
-            songs.Enqueue(song);
-        }
-        else
-        {
-            Console.WriteLine($"{song} is already contained!");
-        }
+                Console.WriteLine($"{song} is already contained!");
+            }
+            else
+            {
+                songs.Enqueue(song);
+            }
+            break;
+        case "Show":
+            Console.WriteLine(string.Join(", ", songs));
+            break;
     }
-    else if (command == "Show")
-    {
-        Console.WriteLine(string.Join(", ", songs));
-    }
-    else if (command == "Play")
-    {
-        songs.Dequeue();
-    }
-}
-if (songs.Count == 0)
-{
-    Console.WriteLine("No more songs!");
 }
 
-//This needs somr fixes
+Console.WriteLine($"No more songs!");
