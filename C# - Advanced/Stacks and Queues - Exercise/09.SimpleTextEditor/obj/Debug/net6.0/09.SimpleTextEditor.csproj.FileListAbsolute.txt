@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\refint\09.SimpleTextEditor.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\ref\09.SimpleTextEditor.dll
