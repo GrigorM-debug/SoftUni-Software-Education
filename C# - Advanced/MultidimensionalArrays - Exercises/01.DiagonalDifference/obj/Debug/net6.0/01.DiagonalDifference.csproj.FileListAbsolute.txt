@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\bin\Debug\net6.0\01.DiagonalDifference.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\bin\Debug\net6.0\01.DiagonalDifference.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\bin\Debug\net6.0\01.DiagonalDifference.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\bin\Debug\net6.0\01.DiagonalDifference.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\bin\Debug\net6.0\01.DiagonalDifference.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\obj\Debug\net6.0\refint\01.DiagonalDifference.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\01.DiagonalDifference\obj\Debug\net6.0\ref\01.DiagonalDifference.dll

@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\bin\Debug\net6.0\03.MaximalSum.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\bin\Debug\net6.0\03.MaximalSum.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\bin\Debug\net6.0\03.MaximalSum.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\bin\Debug\net6.0\03.MaximalSum.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\bin\Debug\net6.0\03.MaximalSum.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\obj\Debug\net6.0\refint\03.MaximalSum.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\03.MaximalSum\obj\Debug\net6.0\ref\03.MaximalSum.dll

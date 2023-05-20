@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\bin\Debug\net6.0\02.SqueresInMatrix.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\bin\Debug\net6.0\02.SqueresInMatrix.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\bin\Debug\net6.0\02.SqueresInMatrix.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\bin\Debug\net6.0\02.SqueresInMatrix.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\bin\Debug\net6.0\02.SqueresInMatrix.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\obj\Debug\net6.0\02.SqueresInMatrix.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\obj\Debug\net6.0\02.SqueresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\obj\Debug\net6.0\02.SqueresInMatrix.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\obj\Debug\net6.0\02.SqueresInMatrix.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\obj\Debug\net6.0\02.SqueresInMatrix.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\obj\Debug\net6.0\02.SqueresInMatrix.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\obj\Debug\net6.0\refint\02.SqueresInMatrix.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\obj\Debug\net6.0\02.SqueresInMatrix.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\obj\Debug\net6.0\02.SqueresInMatrix.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\02.SqueresInMatrix\obj\Debug\net6.0\ref\02.SqueresInMatrix.dll
