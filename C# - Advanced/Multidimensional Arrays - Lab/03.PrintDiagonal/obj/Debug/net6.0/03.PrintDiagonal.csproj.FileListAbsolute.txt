@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\bin\Debug\net6.0\03.PrintDiagonal.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\bin\Debug\net6.0\03.PrintDiagonal.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\bin\Debug\net6.0\03.PrintDiagonal.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\bin\Debug\net6.0\03.PrintDiagonal.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\bin\Debug\net6.0\03.PrintDiagonal.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\obj\Debug\net6.0\03.PrintDiagonal.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\obj\Debug\net6.0\03.PrintDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\obj\Debug\net6.0\03.PrintDiagonal.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\obj\Debug\net6.0\03.PrintDiagonal.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\obj\Debug\net6.0\03.PrintDiagonal.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\obj\Debug\net6.0\03.PrintDiagonal.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\obj\Debug\net6.0\refint\03.PrintDiagonal.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\obj\Debug\net6.0\03.PrintDiagonal.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\obj\Debug\net6.0\03.PrintDiagonal.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\03.PrintDiagonal\obj\Debug\net6.0\ref\03.PrintDiagonal.dll

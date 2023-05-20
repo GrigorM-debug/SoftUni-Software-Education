@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\bin\Debug\net6.0\06.Jagged-ArrayModification.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\bin\Debug\net6.0\06.Jagged-ArrayModification.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\bin\Debug\net6.0\06.Jagged-ArrayModification.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\bin\Debug\net6.0\06.Jagged-ArrayModification.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\bin\Debug\net6.0\06.Jagged-ArrayModification.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\refint\06.Jagged-ArrayModification.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\ref\06.Jagged-ArrayModification.dll

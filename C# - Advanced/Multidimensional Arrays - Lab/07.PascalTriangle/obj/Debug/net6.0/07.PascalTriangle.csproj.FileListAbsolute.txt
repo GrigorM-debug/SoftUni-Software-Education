@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\bin\Debug\net6.0\07.PascalTriangle.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\bin\Debug\net6.0\07.PascalTriangle.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\bin\Debug\net6.0\07.PascalTriangle.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\bin\Debug\net6.0\07.PascalTriangle.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\bin\Debug\net6.0\07.PascalTriangle.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\net6.0\refint\07.PascalTriangle.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\net6.0\ref\07.PascalTriangle.dll

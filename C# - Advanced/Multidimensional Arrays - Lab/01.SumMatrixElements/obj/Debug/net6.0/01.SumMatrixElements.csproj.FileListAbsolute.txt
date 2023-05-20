@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\refint\01.SumMatrixElements.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\ref\01.SumMatrixElements.dll
