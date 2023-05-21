@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\obj\Debug\net6.0\refint\05.SnakeMoves.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\05.SnakeMoves\obj\Debug\net6.0\ref\05.SnakeMoves.dll
