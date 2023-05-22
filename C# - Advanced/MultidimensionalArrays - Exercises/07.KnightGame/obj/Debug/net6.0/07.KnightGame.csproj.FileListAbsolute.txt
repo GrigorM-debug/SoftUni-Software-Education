@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\bin\Debug\net6.0\07.KnightGame.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\bin\Debug\net6.0\07.KnightGame.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\bin\Debug\net6.0\07.KnightGame.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\bin\Debug\net6.0\07.KnightGame.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\bin\Debug\net6.0\07.KnightGame.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\obj\Debug\net6.0\07.KnightGame.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\obj\Debug\net6.0\07.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\obj\Debug\net6.0\07.KnightGame.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\obj\Debug\net6.0\07.KnightGame.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\obj\Debug\net6.0\07.KnightGame.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\obj\Debug\net6.0\07.KnightGame.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\obj\Debug\net6.0\refint\07.KnightGame.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\obj\Debug\net6.0\07.KnightGame.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\obj\Debug\net6.0\07.KnightGame.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\MultidimensionalArrays - Exercises\07.KnightGame\obj\Debug\net6.0\ref\07.KnightGame.dll
