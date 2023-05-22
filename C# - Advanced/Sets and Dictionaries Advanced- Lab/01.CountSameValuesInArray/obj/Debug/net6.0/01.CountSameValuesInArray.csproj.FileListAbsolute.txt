@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\obj\Debug\net6.0\refint\01.CountSameValuesInArray.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\01.CountSameValuesInArray\obj\Debug\net6.0\ref\01.CountSameValuesInArray.dll
