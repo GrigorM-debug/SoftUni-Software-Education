@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\obj\Debug\net6.0\04.ProductShop.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\obj\Debug\net6.0\04.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\obj\Debug\net6.0\04.ProductShop.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\obj\Debug\net6.0\04.ProductShop.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\obj\Debug\net6.0\04.ProductShop.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\bin\Debug\net6.0\04.ProductShop.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\bin\Debug\net6.0\04.ProductShop.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\bin\Debug\net6.0\04.ProductShop.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\bin\Debug\net6.0\04.ProductShop.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\bin\Debug\net6.0\04.ProductShop.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\obj\Debug\net6.0\04.ProductShop.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\obj\Debug\net6.0\refint\04.ProductShop.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\obj\Debug\net6.0\04.ProductShop.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\obj\Debug\net6.0\04.ProductShop.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\04.ProductShop\obj\Debug\net6.0\ref\04.ProductShop.dll

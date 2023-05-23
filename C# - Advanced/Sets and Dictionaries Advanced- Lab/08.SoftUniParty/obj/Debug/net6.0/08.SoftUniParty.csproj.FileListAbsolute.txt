@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\bin\Debug\net6.0\08.SoftUniParty.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\bin\Debug\net6.0\08.SoftUniParty.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\bin\Debug\net6.0\08.SoftUniParty.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\bin\Debug\net6.0\08.SoftUniParty.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\bin\Debug\net6.0\08.SoftUniParty.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\obj\Debug\net6.0\refint\08.SoftUniParty.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\obj\Debug\net6.0\08.SoftUniParty.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\08.SoftUniParty\obj\Debug\net6.0\ref\08.SoftUniParty.dll

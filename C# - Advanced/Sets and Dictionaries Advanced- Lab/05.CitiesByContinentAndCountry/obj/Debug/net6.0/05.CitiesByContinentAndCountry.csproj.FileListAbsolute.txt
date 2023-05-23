@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\bin\Debug\net6.0\05.CitiesByContinentAndCountry.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\bin\Debug\net6.0\05.CitiesByContinentAndCountry.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\bin\Debug\net6.0\05.CitiesByContinentAndCountry.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\bin\Debug\net6.0\05.CitiesByContinentAndCountry.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\bin\Debug\net6.0\05.CitiesByContinentAndCountry.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\obj\Debug\net6.0\05.CitiesByContinentAndCountry.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\obj\Debug\net6.0\05.CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\obj\Debug\net6.0\05.CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\obj\Debug\net6.0\05.CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\obj\Debug\net6.0\05.CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\obj\Debug\net6.0\05.CitiesByContinentAndCountry.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\obj\Debug\net6.0\refint\05.CitiesByContinentAndCountry.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\obj\Debug\net6.0\05.CitiesByContinentAndCountry.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\obj\Debug\net6.0\05.CitiesByContinentAndCountry.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\05.CitiesByContinentAndCountry\obj\Debug\net6.0\ref\05.CitiesByContinentAndCountry.dll
