@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\bin\Debug\net6.0\03.Largest3Numbers.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\bin\Debug\net6.0\03.Largest3Numbers.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\bin\Debug\net6.0\03.Largest3Numbers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\bin\Debug\net6.0\03.Largest3Numbers.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\bin\Debug\net6.0\03.Largest3Numbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\obj\Debug\net6.0\03.Largest3Numbers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\obj\Debug\net6.0\03.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\obj\Debug\net6.0\03.Largest3Numbers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\obj\Debug\net6.0\03.Largest3Numbers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\obj\Debug\net6.0\03.Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\obj\Debug\net6.0\03.Largest3Numbers.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\obj\Debug\net6.0\refint\03.Largest3Numbers.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\obj\Debug\net6.0\03.Largest3Numbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\obj\Debug\net6.0\03.Largest3Numbers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\03.Largest3Numbers\obj\Debug\net6.0\ref\03.Largest3Numbers.dll

@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\obj\Debug\net6.0\refint\06.RecordUniqueNames.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced- Lab\06.RecordUniqueNames\obj\Debug\net6.0\ref\06.RecordUniqueNames.dll
