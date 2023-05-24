@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\obj\Debug\net6.0\refint\05.CountSymbols.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\05.CountSymbols\obj\Debug\net6.0\ref\05.CountSymbols.dll

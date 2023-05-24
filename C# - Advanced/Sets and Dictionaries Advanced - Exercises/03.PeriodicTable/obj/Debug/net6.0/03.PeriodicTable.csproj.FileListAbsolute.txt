@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\obj\Debug\net6.0\refint\03.PeriodicTable.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\03.PeriodicTable\obj\Debug\net6.0\ref\03.PeriodicTable.dll

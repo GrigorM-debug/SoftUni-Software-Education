@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\obj\Debug\net6.0\refint\01.UniqueUsernames.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Sets and Dictionaries Advanced - Exercises\01.UniqueUsernames\obj\Debug\net6.0\ref\01.UniqueUsernames.dll
