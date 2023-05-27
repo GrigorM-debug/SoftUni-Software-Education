@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\refint\MergeFiles.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\ref\MergeFiles.dll

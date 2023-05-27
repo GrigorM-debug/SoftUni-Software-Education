@@ -2,7 +2,7 @@
 
 Dictionary<string, Dictionary<string, int>> colorsClothes = new();
 
-for (int i =0; i < n; i++)
+for (int i = 0; i < n; i++)
 {
     string[] tokens = Console.ReadLine()
         .Split(new string[] { " -> ", "," }, StringSplitOptions.RemoveEmptyEntries);

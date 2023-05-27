@@ -2,7 +2,7 @@
 
 Dictionary<int, int> numbersCNT = new();  
 
-for (int i =0; i < count; i++)
+for (int i = 0; i < count; i++)
 {
     int number = int.Parse(Console.ReadLine());
     if (!numbersCNT.ContainsKey(number))

@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\obj\Debug\net6.0\refint\OddLines.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Lab\OddLines\obj\Debug\net6.0\ref\OddLines.dll
