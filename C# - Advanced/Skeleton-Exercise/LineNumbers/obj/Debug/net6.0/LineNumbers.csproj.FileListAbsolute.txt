@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\bin\Debug\net6.0\LineNumbers.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\bin\Debug\net6.0\LineNumbers.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\bin\Debug\net6.0\LineNumbers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\bin\Debug\net6.0\LineNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\bin\Debug\net6.0\LineNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\refint\LineNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\LineNumbers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\LineNumbers\obj\Debug\net6.0\ref\LineNumbers.dll

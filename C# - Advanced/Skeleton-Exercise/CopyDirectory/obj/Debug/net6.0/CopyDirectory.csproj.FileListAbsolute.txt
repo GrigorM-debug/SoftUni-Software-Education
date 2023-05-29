@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\refint\CopyDirectory.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\ref\CopyDirectory.dll

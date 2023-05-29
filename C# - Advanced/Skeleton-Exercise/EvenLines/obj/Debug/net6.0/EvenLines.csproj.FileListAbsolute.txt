@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll

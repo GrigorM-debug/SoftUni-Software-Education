@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\refint\ZipAndExtract.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ref\ZipAndExtract.dll
