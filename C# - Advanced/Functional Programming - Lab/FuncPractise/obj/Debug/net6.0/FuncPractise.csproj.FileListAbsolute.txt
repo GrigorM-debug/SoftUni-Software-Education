@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\bin\Debug\net6.0\FuncPractise.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\bin\Debug\net6.0\FuncPractise.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\bin\Debug\net6.0\FuncPractise.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\bin\Debug\net6.0\FuncPractise.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\bin\Debug\net6.0\FuncPractise.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\obj\Debug\net6.0\FuncPractise.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\obj\Debug\net6.0\FuncPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\obj\Debug\net6.0\FuncPractise.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\obj\Debug\net6.0\FuncPractise.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\obj\Debug\net6.0\FuncPractise.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\obj\Debug\net6.0\FuncPractise.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\obj\Debug\net6.0\refint\FuncPractise.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\obj\Debug\net6.0\FuncPractise.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\obj\Debug\net6.0\FuncPractise.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\FuncPractise\obj\Debug\net6.0\ref\FuncPractise.dll

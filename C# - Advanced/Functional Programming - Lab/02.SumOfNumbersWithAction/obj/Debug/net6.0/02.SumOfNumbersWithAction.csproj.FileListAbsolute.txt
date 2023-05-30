@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\obj\Debug\net6.0\02.SumOfNumbersWithAction.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\obj\Debug\net6.0\02.SumOfNumbersWithAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\obj\Debug\net6.0\02.SumOfNumbersWithAction.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\obj\Debug\net6.0\02.SumOfNumbersWithAction.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\obj\Debug\net6.0\02.SumOfNumbersWithAction.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\bin\Debug\net6.0\02.SumOfNumbersWithAction.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\bin\Debug\net6.0\02.SumOfNumbersWithAction.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\bin\Debug\net6.0\02.SumOfNumbersWithAction.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\bin\Debug\net6.0\02.SumOfNumbersWithAction.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\bin\Debug\net6.0\02.SumOfNumbersWithAction.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\obj\Debug\net6.0\02.SumOfNumbersWithAction.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\obj\Debug\net6.0\refint\02.SumOfNumbersWithAction.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\obj\Debug\net6.0\02.SumOfNumbersWithAction.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\obj\Debug\net6.0\02.SumOfNumbersWithAction.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\02.SumOfNumbersWithAction\obj\Debug\net6.0\ref\02.SumOfNumbersWithAction.dll
