@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\bin\Debug\net6.0\04.AddVAT.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\bin\Debug\net6.0\04.AddVAT.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\bin\Debug\net6.0\04.AddVAT.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\bin\Debug\net6.0\04.AddVAT.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\bin\Debug\net6.0\04.AddVAT.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\refint\04.AddVAT.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\ref\04.AddVAT.dll

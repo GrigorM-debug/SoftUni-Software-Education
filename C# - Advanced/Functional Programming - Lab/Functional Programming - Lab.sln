@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CountUppercaseWords", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncPractise", "FuncPractise\FuncPractise.csproj", "{D5A26A48-209D-4B51-ADF6-B8A3BC806F15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumOfNumbersWithAction", "02.SumOfNumbersWithAction\02.SumOfNumbersWithAction.csproj", "{F8694AB1-377A-43D6-BAE6-8C130BF5D708}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumOfNumbersWithFunc", "02.SumOfNumbersWithAction\02.SumOfNumbersWithFunc.csproj", "{F8694AB1-377A-43D6-BAE6-8C130BF5D708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.AddVAT", "04.AddVAT\04.AddVAT.csproj", "{87479D2F-5D0D-4235-BC55-BB82CD4AEAA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F8694AB1-377A-43D6-BAE6-8C130BF5D708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8694AB1-377A-43D6-BAE6-8C130BF5D708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8694AB1-377A-43D6-BAE6-8C130BF5D708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87479D2F-5D0D-4235-BC55-BB82CD4AEAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87479D2F-5D0D-4235-BC55-BB82CD4AEAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87479D2F-5D0D-4235-BC55-BB82CD4AEAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87479D2F-5D0D-4235-BC55-BB82CD4AEAA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
