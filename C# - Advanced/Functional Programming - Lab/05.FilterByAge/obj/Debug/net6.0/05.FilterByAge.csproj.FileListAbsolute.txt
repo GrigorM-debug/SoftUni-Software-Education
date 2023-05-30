@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\refint\05.FilterByAge.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\ref\05.FilterByAge.dll
