@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\refint\01.ActionPrint.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\ref\01.ActionPrint.dll
