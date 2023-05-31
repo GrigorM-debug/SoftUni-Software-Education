@@ -19,7 +19,7 @@ string formatType = Console.ReadLine();
 
 Func<Person, bool> filter = GetFilter(filterType, ageFilter);
 
-people= people.Where(filter).ToList();
+people  = people.Where(filter).ToList();
 
 Action<Person> printer = GetPrinter(formatType);
 
