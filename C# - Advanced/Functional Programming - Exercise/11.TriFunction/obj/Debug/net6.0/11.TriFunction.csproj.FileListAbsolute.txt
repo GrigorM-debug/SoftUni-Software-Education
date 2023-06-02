@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\refint\11.TriFunction.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\ref\11.TriFunction.dll
