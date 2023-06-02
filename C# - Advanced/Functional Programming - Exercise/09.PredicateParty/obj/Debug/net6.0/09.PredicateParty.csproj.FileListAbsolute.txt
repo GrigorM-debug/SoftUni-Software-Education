@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\bin\Debug\net6.0\09.PredicateParty.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\bin\Debug\net6.0\09.PredicateParty.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\bin\Debug\net6.0\09.PredicateParty.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\bin\Debug\net6.0\09.PredicateParty.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\bin\Debug\net6.0\09.PredicateParty.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\obj\Debug\net6.0\refint\09.PredicateParty.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Functional Programming - Exercise\09.PredicateParty\obj\Debug\net6.0\ref\09.PredicateParty.dll
