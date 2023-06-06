@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\DefiningClasses - Lab\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll
