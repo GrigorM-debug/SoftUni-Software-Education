@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\bin\Debug\net6.0\05.DateModifier.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\bin\Debug\net6.0\05.DateModifier.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\bin\Debug\net6.0\05.DateModifier.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\bin\Debug\net6.0\05.DateModifier.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\bin\Debug\net6.0\05.DateModifier.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\refint\05.DateModifier.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\ref\05.DateModifier.dll

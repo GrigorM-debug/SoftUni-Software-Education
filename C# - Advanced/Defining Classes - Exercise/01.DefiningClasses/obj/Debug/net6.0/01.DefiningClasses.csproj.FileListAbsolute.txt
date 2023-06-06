@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\bin\Debug\net6.0\01.DefiningClasses.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\bin\Debug\net6.0\01.DefiningClasses.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\bin\Debug\net6.0\01.DefiningClasses.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\bin\Debug\net6.0\01.DefiningClasses.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\bin\Debug\net6.0\01.DefiningClasses.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\obj\Debug\net6.0\01.DefiningClasses.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\obj\Debug\net6.0\01.DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\obj\Debug\net6.0\01.DefiningClasses.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\obj\Debug\net6.0\01.DefiningClasses.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\obj\Debug\net6.0\01.DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\obj\Debug\net6.0\01.DefiningClasses.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\obj\Debug\net6.0\refint\01.DefiningClasses.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\obj\Debug\net6.0\01.DefiningClasses.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\obj\Debug\net6.0\01.DefiningClasses.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\01.DefiningClasses\obj\Debug\net6.0\ref\01.DefiningClasses.dll
