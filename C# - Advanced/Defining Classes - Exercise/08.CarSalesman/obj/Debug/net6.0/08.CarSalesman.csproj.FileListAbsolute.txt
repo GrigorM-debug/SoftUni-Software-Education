@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\refint\08.CarSalesman.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\ref\08.CarSalesman.dll

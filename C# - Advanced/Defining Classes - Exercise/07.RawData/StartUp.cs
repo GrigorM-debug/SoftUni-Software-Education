@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Net.Http.Headers;
 using System.Reflection;
 
-namespace SoftUniParking
+namespace _07.RawData
 {
     public class StartUp
     {
