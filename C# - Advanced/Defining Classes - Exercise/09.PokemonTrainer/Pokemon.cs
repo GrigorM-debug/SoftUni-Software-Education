@@ -10,15 +10,11 @@ namespace _09.PokemonTrainer
 {
     public class Pokemon
     {
-        private string name;
-        private string element;
-        private int health;
-
        public Pokemon(string pokemonName, string pokemonElement, int pokemonHealth)
         {
-            Name= pokemonName;
-            element= pokemonElement;
-            health= pokemonHealth;
+            Name = pokemonName;
+            Element = pokemonElement;
+            Health = pokemonHealth;
         }
 
         public string Name { get; set; }
