@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoubleLinkedList.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoubleLinkedList.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoubleLinkedList.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\bin\Debug\net6.0\CustomDoubleLinkedList.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\bin\Debug\net6.0\CustomDoubleLinkedList.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\bin\Debug\net6.0\CustomDoubleLinkedList.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\bin\Debug\net6.0\CustomDoubleLinkedList.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\bin\Debug\net6.0\CustomDoubleLinkedList.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoubleLinkedList.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\obj\Debug\net6.0\refint\CustomDoubleLinkedList.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoubleLinkedList.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoubleLinkedList.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CustomDoubleLinkedList\CustomDoubleLinkedList\obj\Debug\net6.0\ref\CustomDoubleLinkedList.dll

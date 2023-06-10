@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using CarManufacturer;
 using System.Net.WebSockets;
+using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -28,21 +30,21 @@ namespace CarManufacturer
 
         public Car(string make, string model, int year) : this()
         {
-            this.make = make;
-            Model = model;
-            Year = year;
+            this.Make = make;
+            this.Model = model;
+            this.Year = year;
         }
 
         public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption) : this(make, model, year)
         {
-            FuelQuantity = fuelQuantity;
-            FuelConsumption = fuelConsumption;
+            this.FuelQuantity = fuelQuantity;
+            this.FuelConsumption = fuelConsumption;
         }
 
         public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption, Engine engine, Tire[] tires) : this(make, model, year, fuelQuantity, fuelConsumption)
         {
-            Engine = engine;
-            Tires = tires;
+            this.Engine = engine;
+            this.Tires = tires;
         }
 
         public string Make
@@ -105,12 +107,15 @@ namespace CarManufacturer
         {
             StringBuilder result = new StringBuilder();
 
-            result.AppendLine($"Make: {this.Make}");
-            result.AppendLine($"Model: {this.Model}");
-            result.AppendLine($"Year: {this.Year}");
-            result.AppendLine($"Fuel: {this.FuelQuantity:f2}");
+            result.AppendLine($"-- {Make} {Model}:");
+            result.AppendLine($"   Year: {Year}");
+            result.AppendLine($"   Fuel Quantity: {FuelQuantity}");
+            result.AppendLine($"   Fuel Consumption: {FuelConsumption}");
+            result.AppendLine($"   Engine Horsepower: {Engine.HorsePower}");
+            result.AppendLine($"   Tires Pressure: {Tires.Sum(tire => tire.Pressure)}");
 
             return result.ToString().Trim();
         }
+
     }
 }
