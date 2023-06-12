@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\bin\Debug\net6.0\02.GenericBoxОfInteger.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\bin\Debug\net6.0\02.GenericBoxОfInteger.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\bin\Debug\net6.0\02.GenericBoxОfInteger.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\bin\Debug\net6.0\02.GenericBoxОfInteger.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\bin\Debug\net6.0\02.GenericBoxОfInteger.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\obj\Debug\net6.0\02.GenericBoxОfInteger.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\obj\Debug\net6.0\02.GenericBoxОfInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\obj\Debug\net6.0\02.GenericBoxОfInteger.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\obj\Debug\net6.0\02.GenericBoxОfInteger.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\obj\Debug\net6.0\02.GenericBoxОfInteger.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\obj\Debug\net6.0\02.GenericBoxОfInteger.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\obj\Debug\net6.0\refint\02.GenericBoxОfInteger.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\obj\Debug\net6.0\02.GenericBoxОfInteger.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\obj\Debug\net6.0\02.GenericBoxОfInteger.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\02.GenericBoxОfInteger\obj\Debug\net6.0\ref\02.GenericBoxОfInteger.dll
