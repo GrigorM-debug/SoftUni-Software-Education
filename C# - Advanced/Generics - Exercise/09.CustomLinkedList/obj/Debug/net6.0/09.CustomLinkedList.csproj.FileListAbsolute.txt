@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\bin\Debug\net6.0\09.CustomLinkedList.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\bin\Debug\net6.0\09.CustomLinkedList.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\bin\Debug\net6.0\09.CustomLinkedList.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\bin\Debug\net6.0\09.CustomLinkedList.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\bin\Debug\net6.0\09.CustomLinkedList.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\obj\Debug\net6.0\refint\09.CustomLinkedList.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Generics - Exercise\09.CustomLinkedList\obj\Debug\net6.0\ref\09.CustomLinkedList.dll
