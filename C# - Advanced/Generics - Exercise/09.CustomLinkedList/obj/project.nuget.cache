@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cRIC1e+Bj8bC8ETq453YSN8VYBNx067S7KjR4YzGJD1a2K34/wo0oTX47fCeZDSE0+1SsjfTPLoKwqqQCkXPqQ==",
+  "dgSpecHash": "z3npIV8TOpCVQm6JBAhX4ZnQD41BRVQwEI/DHyGmAISSjvEXqU5+fFcEvnRGQV9rqB/PabgH5rZ4H8yffx3vpA==",
   "success": true,
-  "projectFilePath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Generics - Exercise\\09.CustomLinkedList\\09.CustomLinkedList.csproj",
+  "projectFilePath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Generics - Exercise\\09.CustomLinkedList\\CustomDoublyLinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -7,7 +7,7 @@ using System.Xml.Linq;
 
 namespace _09.CustomLinkedList
 {
-    public class DoublyLinkedList<T>
+    public class CustomDoublyLinkedList<T>
     {
         private class ListNode
         {

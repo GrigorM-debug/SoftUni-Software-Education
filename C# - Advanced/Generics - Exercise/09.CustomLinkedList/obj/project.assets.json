@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Generics - Exercise\\09.CustomLinkedList\\09.CustomLinkedList.csproj",
-      "projectName": "09.CustomLinkedList",
-      "projectPath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Generics - Exercise\\09.CustomLinkedList\\09.CustomLinkedList.csproj",
+      "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Generics - Exercise\\09.CustomLinkedList\\CustomDoublyLinkedList.csproj",
+      "projectName": "CustomDoublyLinkedList",
+      "projectPath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Generics - Exercise\\09.CustomLinkedList\\CustomDoublyLinkedList.csproj",
       "packagesPath": "C:\\Users\\grigo\\.nuget\\packages\\",
       "outputPath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Generics - Exercise\\09.CustomLinkedList\\obj\\",
       "projectStyle": "PackageReference",

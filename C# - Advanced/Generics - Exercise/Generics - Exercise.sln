@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Tuple", "07.Tuple\07.Tup
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Threeuple", "08.Threeuple\08.Threeuple.csproj", "{C4CA4459-1DC0-435A-AA2B-097BA8A87846}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CustomLinkedList", "09.CustomLinkedList\09.CustomLinkedList.csproj", "{901A598B-7355-4E74-A469-E43C9D35D845}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDoublyLinkedList", "09.CustomLinkedList\CustomDoublyLinkedList.csproj", "{901A598B-7355-4E74-A469-E43C9D35D845}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

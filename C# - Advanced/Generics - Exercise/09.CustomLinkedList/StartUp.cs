@@ -1,6 +1,6 @@
 ﻿using _09.CustomLinkedList;
 
-DoublyLinkedList<int> list = new();
+CustomDoublyLinkedList<int> list = new();
 
 list.AddFirst(3);
 list.AddFirst(2);
@@ -16,7 +16,7 @@ list.ForEach(i => Console.Write(i + " "));
 Console.WriteLine();
 Console.WriteLine(list.Count);
 
-DoublyLinkedList<string> stringList = new();
+CustomDoublyLinkedList<string> stringList = new();
 
 stringList.AddFirst("some");
 stringList.AddFirst("random");
