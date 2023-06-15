@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\bin\Debug\net6.0\03.Stack.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\bin\Debug\net6.0\03.Stack.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\bin\Debug\net6.0\03.Stack.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\bin\Debug\net6.0\03.Stack.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\bin\Debug\net6.0\03.Stack.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\obj\Debug\net6.0\03.Stack.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\obj\Debug\net6.0\03.Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\obj\Debug\net6.0\03.Stack.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\obj\Debug\net6.0\03.Stack.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\obj\Debug\net6.0\03.Stack.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\obj\Debug\net6.0\03.Stack.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\obj\Debug\net6.0\refint\03.Stack.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\obj\Debug\net6.0\03.Stack.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\obj\Debug\net6.0\03.Stack.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\03.Stack\obj\Debug\net6.0\ref\03.Stack.dll
