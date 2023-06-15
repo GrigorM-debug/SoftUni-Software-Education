@@ -14,7 +14,7 @@ while((command = Console.ReadLine()) != "END")
         case "Push":
             int[] numbersToPush = tokens.Skip(1).Select(int.Parse).ToArray();
 
-            foreach(var item in numbersToPush)
+           foreach(var item in numbersToPush)
             {
                 customStack.Push(item);
             }

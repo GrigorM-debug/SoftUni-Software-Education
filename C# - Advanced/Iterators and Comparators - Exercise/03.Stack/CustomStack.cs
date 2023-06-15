@@ -40,7 +40,7 @@ namespace _03.Stack
 
         public T Pop()
         {
-            if (items.Length == 0)
+            if (Count == 0)
             {
                 throw new InvalidOperationException("No elements");
             }
@@ -68,6 +68,9 @@ namespace _03.Stack
             }
         }
 
-        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
     }
 }
