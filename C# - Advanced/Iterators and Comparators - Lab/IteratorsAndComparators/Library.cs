@@ -19,12 +19,12 @@ namespace IteratorsAndComparators
 
         public IEnumerator<Book> GetEnumerator()
         {
-            return new LibraryIterator(books);
+            return new LibraryIterator(books.OrderBy(b => b, new BookComparator()).ToList());
         }
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            return new LibraryIterator(books);
+            return new LibraryIterator(books.OrderBy(b => b, new BookComparator()).ToList());
         }
 
         private class LibraryIterator : IEnumerator<Book>
