@@ -28,5 +28,15 @@ while((command = Console.ReadLine()) != "END")
                 Console.WriteLine(ex.Message);
             }
             break;
+        case "PrintAll":
+            try
+            {
+                listyIterator.PrintAll();
+            }
+            catch (InvalidOperationException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            break;
     }
 }
