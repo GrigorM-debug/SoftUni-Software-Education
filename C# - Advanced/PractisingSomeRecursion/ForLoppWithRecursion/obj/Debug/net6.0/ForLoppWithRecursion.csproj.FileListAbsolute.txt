@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\bin\Debug\net6.0\ForLoppWithRecursion.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\bin\Debug\net6.0\ForLoppWithRecursion.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\bin\Debug\net6.0\ForLoppWithRecursion.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\bin\Debug\net6.0\ForLoppWithRecursion.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\bin\Debug\net6.0\ForLoppWithRecursion.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\obj\Debug\net6.0\ForLoppWithRecursion.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\obj\Debug\net6.0\ForLoppWithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\obj\Debug\net6.0\ForLoppWithRecursion.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\obj\Debug\net6.0\ForLoppWithRecursion.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\obj\Debug\net6.0\ForLoppWithRecursion.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\obj\Debug\net6.0\ForLoppWithRecursion.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\obj\Debug\net6.0\refint\ForLoppWithRecursion.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\obj\Debug\net6.0\ForLoppWithRecursion.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\obj\Debug\net6.0\ForLoppWithRecursion.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\ForLoppWithRecursion\obj\Debug\net6.0\ref\ForLoppWithRecursion.dll

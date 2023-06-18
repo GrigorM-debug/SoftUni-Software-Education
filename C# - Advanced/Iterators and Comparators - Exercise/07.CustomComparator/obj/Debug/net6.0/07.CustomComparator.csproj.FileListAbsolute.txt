@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\bin\Debug\net6.0\07.CustomComparator.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\bin\Debug\net6.0\07.CustomComparator.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\bin\Debug\net6.0\07.CustomComparator.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\bin\Debug\net6.0\07.CustomComparator.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\bin\Debug\net6.0\07.CustomComparator.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\net6.0\refint\07.CustomComparator.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Iterators and Comparators - Exercise\07.CustomComparator\obj\Debug\net6.0\ref\07.CustomComparator.dll

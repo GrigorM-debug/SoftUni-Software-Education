@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoppWithRecursion", "ForLoppWithRecursion\ForLoppWithRecursion.csproj", "{8FB0E8C4-08F2-4200-ABFC-94F65C7B7984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySumWithRecursion", "ArraySumWithRecursion\ArraySumWithRecursion.csproj", "{6CD56C67-4E19-45FF-84A9-33BEAFA5D1DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB0E8C4-08F2-4200-ABFC-94F65C7B7984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB0E8C4-08F2-4200-ABFC-94F65C7B7984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB0E8C4-08F2-4200-ABFC-94F65C7B7984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB0E8C4-08F2-4200-ABFC-94F65C7B7984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD56C67-4E19-45FF-84A9-33BEAFA5D1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD56C67-4E19-45FF-84A9-33BEAFA5D1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD56C67-4E19-45FF-84A9-33BEAFA5D1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD56C67-4E19-45FF-84A9-33BEAFA5D1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE6086E-4CDC-4781-B22A-FEA8E9AD2A91}
+	EndGlobalSection
+EndGlobal

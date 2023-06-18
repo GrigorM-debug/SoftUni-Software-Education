@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\refint\AutomotiveRepairShop.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\ref\AutomotiveRepairShop.dll

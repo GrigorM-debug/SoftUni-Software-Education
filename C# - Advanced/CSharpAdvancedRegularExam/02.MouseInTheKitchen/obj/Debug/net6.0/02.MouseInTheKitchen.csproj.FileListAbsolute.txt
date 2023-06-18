@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\bin\Debug\net6.0\02.MouseInTheKitchen.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\bin\Debug\net6.0\02.MouseInTheKitchen.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\bin\Debug\net6.0\02.MouseInTheKitchen.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\bin\Debug\net6.0\02.MouseInTheKitchen.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\bin\Debug\net6.0\02.MouseInTheKitchen.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\obj\Debug\net6.0\refint\02.MouseInTheKitchen.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\CSharpAdvancedRegularExam\02.MouseInTheKitchen\obj\Debug\net6.0\ref\02.MouseInTheKitchen.dll
