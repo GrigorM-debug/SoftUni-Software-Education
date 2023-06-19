@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\bin\Debug\net6.0\FibonacciiWithRecursion.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\bin\Debug\net6.0\FibonacciiWithRecursion.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\bin\Debug\net6.0\FibonacciiWithRecursion.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\bin\Debug\net6.0\FibonacciiWithRecursion.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\bin\Debug\net6.0\FibonacciiWithRecursion.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\obj\Debug\net6.0\FibonacciiWithRecursion.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\obj\Debug\net6.0\FibonacciiWithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\obj\Debug\net6.0\FibonacciiWithRecursion.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\obj\Debug\net6.0\FibonacciiWithRecursion.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\obj\Debug\net6.0\FibonacciiWithRecursion.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\obj\Debug\net6.0\FibonacciiWithRecursion.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\obj\Debug\net6.0\refint\FibonacciiWithRecursion.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\obj\Debug\net6.0\FibonacciiWithRecursion.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\obj\Debug\net6.0\FibonacciiWithRecursion.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\FibonacciiWithRecursion\obj\Debug\net6.0\ref\FibonacciiWithRecursion.dll

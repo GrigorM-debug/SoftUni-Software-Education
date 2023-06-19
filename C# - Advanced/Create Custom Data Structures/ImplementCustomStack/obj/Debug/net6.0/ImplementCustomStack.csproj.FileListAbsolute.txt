@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\bin\Debug\net6.0\ImplementCustomStack.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\bin\Debug\net6.0\ImplementCustomStack.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\bin\Debug\net6.0\ImplementCustomStack.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\bin\Debug\net6.0\ImplementCustomStack.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\bin\Debug\net6.0\ImplementCustomStack.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\obj\Debug\net6.0\ImplementCustomStack.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\obj\Debug\net6.0\ImplementCustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\obj\Debug\net6.0\ImplementCustomStack.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\obj\Debug\net6.0\ImplementCustomStack.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\obj\Debug\net6.0\ImplementCustomStack.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\obj\Debug\net6.0\ImplementCustomStack.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\obj\Debug\net6.0\refint\ImplementCustomStack.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\obj\Debug\net6.0\ImplementCustomStack.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\obj\Debug\net6.0\ImplementCustomStack.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\ImplementCustomStack\obj\Debug\net6.0\ref\ImplementCustomStack.dll

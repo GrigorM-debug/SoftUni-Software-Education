@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoppWithRecursion", "For
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySumWithRecursion", "ArraySumWithRecursion\ArraySumWithRecursion.csproj", "{6CD56C67-4E19-45FF-84A9-33BEAFA5D1DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFactorialWithRecursion", "NFactorialWithRecursion\NFactorialWithRecursion.csproj", "{907922A5-D079-4D6A-AA58-E8D34EC1CAFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciiWithRecursion", "FibonacciiWithRecursion\FibonacciiWithRecursion.csproj", "{C9D698E4-CB37-4585-9996-6EC11E78AB11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6CD56C67-4E19-45FF-84A9-33BEAFA5D1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CD56C67-4E19-45FF-84A9-33BEAFA5D1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CD56C67-4E19-45FF-84A9-33BEAFA5D1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907922A5-D079-4D6A-AA58-E8D34EC1CAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907922A5-D079-4D6A-AA58-E8D34EC1CAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907922A5-D079-4D6A-AA58-E8D34EC1CAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907922A5-D079-4D6A-AA58-E8D34EC1CAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D698E4-CB37-4585-9996-6EC11E78AB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D698E4-CB37-4585-9996-6EC11E78AB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D698E4-CB37-4585-9996-6EC11E78AB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D698E4-CB37-4585-9996-6EC11E78AB11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

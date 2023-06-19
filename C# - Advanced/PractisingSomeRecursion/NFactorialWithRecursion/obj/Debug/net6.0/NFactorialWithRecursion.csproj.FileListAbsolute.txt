@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\bin\Debug\net6.0\NFactorialWithRecursion.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\bin\Debug\net6.0\NFactorialWithRecursion.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\bin\Debug\net6.0\NFactorialWithRecursion.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\bin\Debug\net6.0\NFactorialWithRecursion.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\bin\Debug\net6.0\NFactorialWithRecursion.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\obj\Debug\net6.0\NFactorialWithRecursion.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\obj\Debug\net6.0\NFactorialWithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\obj\Debug\net6.0\NFactorialWithRecursion.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\obj\Debug\net6.0\NFactorialWithRecursion.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\obj\Debug\net6.0\NFactorialWithRecursion.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\obj\Debug\net6.0\NFactorialWithRecursion.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\obj\Debug\net6.0\refint\NFactorialWithRecursion.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\obj\Debug\net6.0\NFactorialWithRecursion.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\obj\Debug\net6.0\NFactorialWithRecursion.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\PractisingSomeRecursion\NFactorialWithRecursion\obj\Debug\net6.0\ref\NFactorialWithRecursion.dll

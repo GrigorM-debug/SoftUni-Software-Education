@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\bin\Debug\net6.0\Implement the CustomList Class.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\bin\Debug\net6.0\Implement the CustomList Class.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\bin\Debug\net6.0\Implement the CustomList Class.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\bin\Debug\net6.0\Implement the CustomList Class.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\bin\Debug\net6.0\Implement the CustomList Class.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\obj\Debug\net6.0\Implement the CustomList Class.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\obj\Debug\net6.0\Implement the CustomList Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\obj\Debug\net6.0\Implement the CustomList Class.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\obj\Debug\net6.0\Implement the CustomList Class.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\obj\Debug\net6.0\Implement the CustomList Class.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\obj\Debug\net6.0\Implement the CustomList Class.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\obj\Debug\net6.0\refint\Implement the CustomList Class.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\obj\Debug\net6.0\Implement the CustomList Class.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\obj\Debug\net6.0\Implement the CustomList Class.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Create Custom Data Structures\Implement the CustomList Class\obj\Debug\net6.0\ref\Implement the CustomList Class.dll
