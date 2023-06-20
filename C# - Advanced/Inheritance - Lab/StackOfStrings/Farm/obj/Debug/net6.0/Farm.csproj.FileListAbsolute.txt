@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\bin\Debug\net6.0\Farm.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\bin\Debug\net6.0\Farm.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\bin\Debug\net6.0\Farm.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\bin\Debug\net6.0\Farm.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\bin\Debug\net6.0\Farm.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\obj\Debug\net6.0\Farm.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\obj\Debug\net6.0\Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\obj\Debug\net6.0\Farm.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\obj\Debug\net6.0\Farm.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\obj\Debug\net6.0\Farm.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\obj\Debug\net6.0\Farm.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\obj\Debug\net6.0\refint\Farm.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\obj\Debug\net6.0\Farm.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\obj\Debug\net6.0\Farm.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\Farm\obj\Debug\net6.0\ref\Farm.dll

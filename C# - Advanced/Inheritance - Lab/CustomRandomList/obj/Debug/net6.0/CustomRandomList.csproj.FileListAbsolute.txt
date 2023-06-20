@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\bin\Debug\net6.0\CustomRandomList.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\bin\Debug\net6.0\CustomRandomList.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\bin\Debug\net6.0\CustomRandomList.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\refint\CustomRandomList.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\CustomRandomList\obj\Debug\net6.0\ref\CustomRandomList.dll

@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.exe
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.deps.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\refint\StackOfStrings.dll
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.pdb
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - Advanced\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\ref\StackOfStrings.dll
