@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\bin\Debug\net6.0\Zoo.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\bin\Debug\net6.0\Zoo.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\bin\Debug\net6.0\Zoo.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\bin\Debug\net6.0\Zoo.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\obj\Debug\net6.0\Zoo.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\obj\Debug\net6.0\Zoo.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\obj\Debug\net6.0\Zoo.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Zoo\obj\Debug\net6.0\ref\Zoo.dll

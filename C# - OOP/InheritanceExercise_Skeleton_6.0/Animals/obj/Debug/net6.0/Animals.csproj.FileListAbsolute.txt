@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\ref\Animals.dll
