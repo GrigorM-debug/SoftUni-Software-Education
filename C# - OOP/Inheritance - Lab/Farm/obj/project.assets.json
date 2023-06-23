@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\Farm\\Farm.csproj",
+      "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\Farm\\Farm.csproj",
       "projectName": "Farm",
-      "projectPath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\Farm\\Farm.csproj",
+      "projectPath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\Farm\\Farm.csproj",
       "packagesPath": "C:\\Users\\grigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\Farm\\obj\\",
+      "outputPath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\Farm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grigo\\AppData\\Roaming\\NuGet\\NuGet.Config",

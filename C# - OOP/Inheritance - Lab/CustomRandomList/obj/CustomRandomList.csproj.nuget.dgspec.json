@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\CustomRandomList\\CustomRandomList.csproj": {}
+    "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\CustomRandomList\\CustomRandomList.csproj": {}
   },
   "projects": {
-    "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\CustomRandomList\\CustomRandomList.csproj": {
+    "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\CustomRandomList\\CustomRandomList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\CustomRandomList\\CustomRandomList.csproj",
+        "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\CustomRandomList\\CustomRandomList.csproj",
         "projectName": "CustomRandomList",
-        "projectPath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\CustomRandomList\\CustomRandomList.csproj",
+        "projectPath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\CustomRandomList\\CustomRandomList.csproj",
         "packagesPath": "C:\\Users\\grigo\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\CustomRandomList\\obj\\",
+        "outputPath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\CustomRandomList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grigo\\AppData\\Roaming\\NuGet\\NuGet.Config",

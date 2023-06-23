@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\StackOfStrings\\StackOfStrings.csproj",
+      "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\StackOfStrings\\StackOfStrings.csproj",
       "projectName": "StackOfStrings",
-      "projectPath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\StackOfStrings\\StackOfStrings.csproj",
+      "projectPath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\StackOfStrings\\StackOfStrings.csproj",
       "packagesPath": "C:\\Users\\grigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\StackOfStrings\\obj\\",
+      "outputPath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\StackOfStrings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grigo\\AppData\\Roaming\\NuGet\\NuGet.Config",

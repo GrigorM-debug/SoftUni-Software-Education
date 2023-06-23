@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e4RNwfXxyGBZZIc4izyui5bzQJmhOoq9TSVafI6ARHOzNtz0jXbkhS2eE0IVexEvdk5eMOzgbkzXClaIw6RH2g==",
+  "dgSpecHash": "lf04/0N3mYl3btu2gVuAZldF+KHx2VaunNMxCsMy1ASpzw5PQlK6IPp9PS0uf2vLipvwwMc0BnnJUQWDHu3kHQ==",
   "success": true,
-  "projectFilePath": "C:\\Github\\SoftUni-Software-Education\\C# - Advanced\\Inheritance - Lab\\CustomRandomList\\CustomRandomList.csproj",
+  "projectFilePath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Inheritance - Lab\\CustomRandomList\\CustomRandomList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
