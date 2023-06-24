@@ -1,4 +1,6 @@
-﻿namespace PersonsInfo
+﻿using System.Runtime.CompilerServices;
+
+namespace PersonsInfo
 {
     public class StartUp
     {
@@ -6,7 +8,9 @@
         {
             int n = int.Parse(Console.ReadLine());
 
-            List<Person> people = new List<Person>();
+            List<Person> persons = new List<Person>();
+
+            Team team = new Team("SoftUni");
 
             for (int i = 0; i < n; i++)
             {
@@ -15,25 +19,37 @@
                 int age = int.Parse(personArgs[2]);
                 decimal salary = decimal.Parse(personArgs[3]);
 
-                try
-                {
-                    Person person = new Person(personArgs[0],       personArgs[1], age, salary);
+                Person person = new Person(personArgs[0], personArgs[1], age, salary);
 
-                    people.Add(person);
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
+                persons.Add(person);
+                
+                //try
+                //{
+                //    Person person = new Person(personArgs[0],       personArgs[1], age, salary);
+
+                //    people.Add(person);
+                //}
+                //catch (Exception ex)
+                //{
+                //    Console.WriteLine(ex.Message);
+                //}
+
             }
-
-            decimal percentage = decimal.Parse(Console.ReadLine());
-
-            foreach (Person person in people)
+            foreach (Person person in persons)
             {
-                person.IncreaseSalary(percentage);
-                Console.WriteLine(person.ToString());
+                team.AddPlayer(person);
             }
+
+            Console.WriteLine($"First team has {team.FirstTeam.Count} players.");
+
+            Console.WriteLine($"Reserve team has {team.ReserveTeam.Count} players.");
+            //decimal percentage = decimal.Parse(Console.ReadLine());
+
+            //foreach (Person person in people)
+            //{
+            //    person.IncreaseSalary(percentage);
+            //    Console.WriteLine(person.ToString());
+            //}
         }
     }
 }

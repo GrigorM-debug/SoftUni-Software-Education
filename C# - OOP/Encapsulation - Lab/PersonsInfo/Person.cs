@@ -30,9 +30,9 @@ namespace PersonsInfo
             }
             private set
             {
-                if(value != null && value.Length < 3)
+                if (value != null && value.Length <= 3)
                 {
-                    throw new ArgumentException("First name cannot contain fewer than 3 symbols!");
+                    throw new ArgumentException("first name cannot contain fewer than 3 symbols!");
                 }
 
                 this.firstName = value;
@@ -64,7 +64,7 @@ namespace PersonsInfo
             }
             private set
             {
-                if(value != null && value <= 0)
+                if (value != null && value <= 0)
                 {
                     throw new ArgumentException("Age cannot be zero or a negative integer!");
                 }
@@ -80,10 +80,10 @@ namespace PersonsInfo
             }
             private set
             {
-                if(value != null && value < 650)
-                {
-                    throw new ArgumentException("Salary cannot be less than 650 leva!");
-                }
+                //if(value != null && value < 650)
+                //{
+                //    throw new ArgumentException("Salary cannot be less than 650 leva!");
+                //}
 
                 this.salary = value;
             }
@@ -91,14 +91,14 @@ namespace PersonsInfo
 
         public void IncreaseSalary(decimal percentage)
         {
-            if(this.Age >= 30)
-            {
-                this.Salary += this.Salary * percentage / 100;
-            }
-            else
-            {
-                this.Salary += this.Salary * percentage / 200;
-            }
+            //if(this.Age >= 30)
+            //{
+            //    this.Salary += this.Salary * percentage / 100;
+            //}
+            //else
+            //{
+            //    this.Salary += this.Salary * percentage / 200;
+            //}
         }
         public override string ToString()
         {
