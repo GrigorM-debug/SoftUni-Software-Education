@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Encapsulation - Exercises\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll
