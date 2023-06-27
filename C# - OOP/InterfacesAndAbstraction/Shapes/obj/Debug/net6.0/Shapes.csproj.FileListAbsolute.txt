@@ -1,0 +1,30 @@
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Trakia University - Software Engeneering\C++ - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\ref\Shapes.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\ref\Shapes.dll
