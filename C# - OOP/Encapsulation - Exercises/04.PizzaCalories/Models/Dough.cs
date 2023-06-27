@@ -32,9 +32,9 @@ namespace PizzaCalories.Models
         {
             get => weight;
 
-            set
+            private set
             {
-                if(value < 1 || value > 200)
+                if(value < 0 || value > 200)
                 {
                     throw new ArgumentException("Dough weight should be in the range [1..200].");
                 }
@@ -46,27 +46,27 @@ namespace PizzaCalories.Models
         public string FlourType
         {
             get => flourType;
-            set
+            private set
             {
                 if (!flourTypesCalories.ContainsKey(value.ToLower()))
                 {
                     throw new ArgumentException("Invalid type of dough.");
                 }
-                this.flourType = value;
+                this.flourType = value.ToLower();
             }
         }
 
         public string BakingTechnique
         {
-            get=> bakingTechnique;
-            set
+            get => bakingTechnique;
+            private set
             {
                 if (!bakingTechniqueCalories.ContainsKey(value.ToLower()))
                 {
                     throw new ArgumentException("Incalid type of dough.");
                 }
 
-                this.bakingTechnique = value;
+                this.bakingTechnique = value.ToLower();
             }
         }
 

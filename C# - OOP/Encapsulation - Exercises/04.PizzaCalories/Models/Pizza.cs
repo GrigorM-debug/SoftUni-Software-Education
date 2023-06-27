@@ -22,7 +22,7 @@ namespace PizzaCalories.Models
         {
             get => name;
 
-            set
+            private set
             {
                 if(value.Length < 1 || value.Length > 15)
                 {
@@ -36,7 +36,7 @@ namespace PizzaCalories.Models
         public Dough Dough
         {
             get;
-            set;
+            private set;
         }
 
         public void AddTopping(Topping topping)

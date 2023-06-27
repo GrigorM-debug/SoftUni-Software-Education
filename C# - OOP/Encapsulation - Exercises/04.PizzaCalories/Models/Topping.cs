@@ -26,7 +26,7 @@ namespace PizzaCalories.Models
         {
             get => type;
 
-            set
+            private set
             {
                 if(!toppingTypesCalories.ContainsKey(value.ToLower()))
                 {
@@ -41,7 +41,7 @@ namespace PizzaCalories.Models
         {
             get=> weight;
 
-            set
+            private set
             {
                 if(value < 1 || value > 50)
                 {
