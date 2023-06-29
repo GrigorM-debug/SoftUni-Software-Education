@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll
