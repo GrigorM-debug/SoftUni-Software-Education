@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\refint\04.BorderControl.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\ref\04.BorderControl.dll
