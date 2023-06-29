@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "552kelyOl+vepR7F0qGcSIvyJkvb/rt/gcsCOlRTqQJOm04j4esavfs806nD3UCRc1A1DCVTUkQ+gpp04JHUQg==",
+  "dgSpecHash": "DDIWqT0V1ThlKpyH3B3CQKvSpKEI16LzcWaxJA9P5Hflmq5KeUvdzjjZuJ8D+/AHpwHSMcYtBt8KxACigu7mrg==",
   "success": true,
-  "projectFilePath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Interfaces and Abstraction - Exercise\\04.BorderControl\\04.BorderControl.csproj",
+  "projectFilePath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Interfaces and Abstraction - Exercise\\04.BorderControl\\BorderControl.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

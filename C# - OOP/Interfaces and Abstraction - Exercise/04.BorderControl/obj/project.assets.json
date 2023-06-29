@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Interfaces and Abstraction - Exercise\\04.BorderControl\\04.BorderControl.csproj",
-      "projectName": "04.BorderControl",
-      "projectPath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Interfaces and Abstraction - Exercise\\04.BorderControl\\04.BorderControl.csproj",
+      "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Interfaces and Abstraction - Exercise\\04.BorderControl\\BorderControl.csproj",
+      "projectName": "BorderControl",
+      "projectPath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Interfaces and Abstraction - Exercise\\04.BorderControl\\BorderControl.csproj",
       "packagesPath": "C:\\Users\\grigo\\.nuget\\packages\\",
       "outputPath": "C:\\Github\\SoftUni-Software-Education\\C# - OOP\\Interfaces and Abstraction - Exercise\\04.BorderControl\\obj\\",
       "projectStyle": "PackageReference",

@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo", "PersonInfo\Pe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Telephony", "03.Telephony\03.Telephony.csproj", "{4BB0F0FD-7BEF-45D9-A8D8-BFD20D271020}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BorderControl", "04.BorderControl\04.BorderControl.csproj", "{318E2500-0E56-4927-9754-C42A1A06401F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "04.BorderControl\BorderControl.csproj", "{318E2500-0E56-4927-9754-C42A1A06401F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
