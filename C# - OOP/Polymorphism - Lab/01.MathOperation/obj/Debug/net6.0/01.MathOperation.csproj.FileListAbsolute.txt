@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\bin\Debug\net6.0\01.MathOperation.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\bin\Debug\net6.0\01.MathOperation.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\bin\Debug\net6.0\01.MathOperation.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\bin\Debug\net6.0\01.MathOperation.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\bin\Debug\net6.0\01.MathOperation.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\refint\01.MathOperation.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\ref\01.MathOperation.dll
