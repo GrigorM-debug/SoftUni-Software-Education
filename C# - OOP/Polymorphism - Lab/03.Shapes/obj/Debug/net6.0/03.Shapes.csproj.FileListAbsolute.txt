@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\obj\Debug\net6.0\refint\03.Shapes.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Polymorphism - Lab\03.Shapes\obj\Debug\net6.0\ref\03.Shapes.dll
