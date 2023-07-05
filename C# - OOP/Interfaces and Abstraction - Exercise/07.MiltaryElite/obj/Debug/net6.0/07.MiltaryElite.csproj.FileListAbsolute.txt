@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\obj\Debug\net6.0\07.MiltaryElite.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\obj\Debug\net6.0\07.MiltaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\obj\Debug\net6.0\07.MiltaryElite.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\obj\Debug\net6.0\07.MiltaryElite.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\obj\Debug\net6.0\07.MiltaryElite.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\bin\Debug\net6.0\07.MiltaryElite.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\bin\Debug\net6.0\07.MiltaryElite.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\bin\Debug\net6.0\07.MiltaryElite.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\bin\Debug\net6.0\07.MiltaryElite.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\bin\Debug\net6.0\07.MiltaryElite.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\obj\Debug\net6.0\07.MiltaryElite.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\obj\Debug\net6.0\refint\07.MiltaryElite.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\obj\Debug\net6.0\07.MiltaryElite.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\obj\Debug\net6.0\07.MiltaryElite.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Interfaces and Abstraction - Exercise\07.MiltaryElite\obj\Debug\net6.0\ref\07.MiltaryElite.dll
