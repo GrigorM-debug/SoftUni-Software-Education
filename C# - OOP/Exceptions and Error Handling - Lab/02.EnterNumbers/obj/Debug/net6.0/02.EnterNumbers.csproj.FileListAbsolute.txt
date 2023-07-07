@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\refint\02.EnterNumbers.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\ref\02.EnterNumbers.dll
