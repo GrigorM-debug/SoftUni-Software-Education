@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\bin\Debug\net6.0\03.Cards.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\bin\Debug\net6.0\03.Cards.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\bin\Debug\net6.0\03.Cards.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\bin\Debug\net6.0\03.Cards.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\bin\Debug\net6.0\03.Cards.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\obj\Debug\net6.0\03.Cards.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\obj\Debug\net6.0\03.Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\obj\Debug\net6.0\03.Cards.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\obj\Debug\net6.0\03.Cards.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\obj\Debug\net6.0\03.Cards.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\obj\Debug\net6.0\03.Cards.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\obj\Debug\net6.0\refint\03.Cards.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\obj\Debug\net6.0\03.Cards.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\obj\Debug\net6.0\03.Cards.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\Exceptions and Error Handling - Lab\03.Cards\obj\Debug\net6.0\ref\03.Cards.dll
