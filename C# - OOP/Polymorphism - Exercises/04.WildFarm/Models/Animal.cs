@@ -26,6 +26,7 @@ namespace WildFarm.Models
         protected abstract double WeighMultiplier { get;  }
 
         protected abstract ICollection<Type> PreferredFoodTypes { get; }
+
         public abstract string ProduceSound();
 
         public void Eat(IFood food)
