@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\obj\Debug\net6.0\refint\01.Stealer.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\ReflectionAndAttributes - Lab\01.Stealer\obj\Debug\net6.0\ref\01.Stealer.dll
