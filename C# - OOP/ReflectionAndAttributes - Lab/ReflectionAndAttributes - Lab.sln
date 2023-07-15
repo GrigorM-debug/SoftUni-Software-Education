@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Stealer", "01.Stealer\01.Stealer.csproj", "{BADD3009-4B7A-46A8-9CCC-6C349F8433DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CreateAttribute", "05.CreateAttribute\05.CreateAttribute.csproj", "{BCFF5C9B-DC49-42DB-AE5A-DEE07D6B379C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BADD3009-4B7A-46A8-9CCC-6C349F8433DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BADD3009-4B7A-46A8-9CCC-6C349F8433DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BADD3009-4B7A-46A8-9CCC-6C349F8433DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFF5C9B-DC49-42DB-AE5A-DEE07D6B379C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFF5C9B-DC49-42DB-AE5A-DEE07D6B379C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFF5C9B-DC49-42DB-AE5A-DEE07D6B379C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFF5C9B-DC49-42DB-AE5A-DEE07D6B379C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
