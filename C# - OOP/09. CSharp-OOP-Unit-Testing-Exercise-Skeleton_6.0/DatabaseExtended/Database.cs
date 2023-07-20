@@ -30,7 +30,7 @@ namespace ExtendedDatabase
             for (int i = 0; i < data.Length; i++)
             {
                 this.Add(data[i]);
-            }
+            }   
 
             this.count = data.Length;
         }
