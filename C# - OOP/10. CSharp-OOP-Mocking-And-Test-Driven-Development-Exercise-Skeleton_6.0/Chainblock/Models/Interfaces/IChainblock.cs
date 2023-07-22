@@ -5,11 +5,13 @@ namespace Chainblock.Models.Interfaces
 {
     public interface IChainblock
     {
-        int Count { get; set; }
+        int Count { get; }
 
         void Add(ITransaction tx);
 
         bool Contains(int id);
+
+        bool Contains(ITransaction tx);
 
         void ChangeTransactionStatus(int id, TransactionStatus newStatus);
 
