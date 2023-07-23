@@ -5,15 +5,17 @@ using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using System.Transactions;
 
 namespace Chainblock.Models
 {
     public class ChainBlock : IChainblock
     {
         IDictionary<int, ITransaction> transactions;
-        
+
         public ChainBlock()
         {
             transactions = new Dictionary<int, ITransaction>();
@@ -23,7 +25,7 @@ namespace Chainblock.Models
 
         public void Add(ITransaction tx)
         {
-            if(Contains(tx.Id
+            if (Contains(tx.Id
                 ))
             {
                 throw new ArgumentException(
@@ -32,7 +34,7 @@ namespace Chainblock.Models
             transactions.Add(tx.Id, tx);
         }
 
-        public void ChangeTransactionStatus(int id, TransactionStatus newStatus)
+        public void ChangeTransactionStatus(int id, Enums.TransactionStatus newStatus)
         {
             if (!transactions.ContainsKey(id))
             {
@@ -50,17 +52,24 @@ namespace Chainblock.Models
         public bool Contains(ITransaction tx)
         => Contains(tx.Id);
 
-        public IEnumerable<ITransaction> GetAllInAmountRange(double lo, double hi)
+        public IEnumerable<ITransaction> GetAllInAmountRange(decimal lo, decimal hi)
         {
-            throw new NotImplementedException();
+            IEnumerable<ITransaction> result = transactions.Values
+            .Where(t => t.Amount >= lo && t.Amount <= hi);
+
+            return result;
         }
 
         public IEnumerable<ITransaction> GetAllOrderedByAmountDescendingThenById()
         {
-            throw new NotImplementedException();
+            IEnumerable<ITransaction> result = transactions.Values
+                .OrderByDescending(tx => tx.Amount)
+                .ThenBy(tx => tx.Id);
+
+            return result;
         }
 
-        public IEnumerable<string> GetAllReceiversWithTransactionStatus(TransactionStatus status)
+        public IEnumerable<string> GetAllReceiversWithTransactionStatus(Enums.TransactionStatus status)
         {
             if (!transactions.Any())
             {
@@ -82,7 +91,7 @@ namespace Chainblock.Models
             return result;
         }
 
-        public IEnumerable<string> GetAllSendersWithTransactionStatus(TransactionStatus status)
+        public IEnumerable<string> GetAllSendersWithTransactionStatus(Enums.TransactionStatus status)
         {
             if (!transactions.Any())
             {
@@ -115,27 +124,96 @@ namespace Chainblock.Models
             return transactions[id];
         }
 
-        public IEnumerable<ITransaction> GetByReceiverAndAmountRange(string receiver, double lo, double hi)
+        public IEnumerable<ITransaction> GetByReceiverAndAmountRange(string receiver, decimal lo, decimal hi)
         {
-            throw new NotImplementedException();
+            if (!transactions.Any())
+            {
+                throw new InvalidOperationException(
+                    string.Format(ChainBlockExceptionsMessages.TransactionWithReceiverDoesNotExit, receiver)
+                    ); 
+            }
+
+            IEnumerable<ITransaction> result = transactions.Values
+            .Where(t => t.To == receiver && t.Amount >= lo && t.Amount < hi)
+            .OrderByDescending(t => t.Amount)
+            .ThenBy(t => t.Id);
+
+            if (!result.Any())
+            {
+                throw new InvalidOperationException(
+                    string.Format(ChainBlockExceptionsMessages.TransactionWithReceiverDoesNotExit, receiver)
+                    );
+            }
+
+            return result;
         }
 
         public IEnumerable<ITransaction> GetByReceiverOrderedByAmountThenById(string receiver)
         {
-            throw new NotImplementedException();
+            if(!transactions.Any())
+            {
+                throw new InvalidOperationException(
+                    string.Format(ChainBlockExceptionsMessages.TransactionWithReceiverDoesNotExit, receiver)
+                    );
+            }
+
+            IEnumerable<ITransaction> result = transactions.Values.Where(t => t.To == receiver)
+            .OrderByDescending(t => t.Amount)
+            .ThenBy(t => t.Id);
+
+            if (!result.Any())
+            {
+                throw new InvalidOperationException(
+                    string.Format(ChainBlockExceptionsMessages.TransactionWithReceiverDoesNotExit, receiver)
+                    );
+            }
+
+            return result;
         }
 
-        public IEnumerable<ITransaction> GetBySenderAndMinimumAmountDescending(string sender, double amount)
+        public IEnumerable<ITransaction> GetBySenderAndMinimumAmountDescending(string sender, decimal amount)
         {
-            throw new NotImplementedException();
+            if (!transactions.Any())
+            {
+                throw new InvalidOperationException(
+                    string.Format(ChainBlockExceptionsMessages.TransactionWithSenderDoesNotExist, sender)
+                    );
+            }
+
+            IEnumerable<ITransaction> result = transactions.Values.Where(tx => tx.From == sender && tx.Amount > amount).OrderByDescending(tx=> tx.Amount);
+
+            if (!result.Any())
+            {
+                throw new InvalidOperationException(
+                    string.Format(ChainBlockExceptionsMessages.TransactionWithSenderDoesNotExist, sender)
+                    );
+            }
+
+            return result;
         }
 
         public IEnumerable<ITransaction> GetBySenderOrderedByAmountDescending(string sender)
         {
-            throw new NotImplementedException();
+            if (!transactions.Any())
+            {
+                throw new InvalidOperationException(
+                    string.Format(ChainBlockExceptionsMessages.TransactionWithSenderDoesNotExist, sender)
+                    ); 
+            }
+
+            IEnumerable<ITransaction> result = transactions.Values.Where(tx => tx.From == sender).OrderByDescending(tx => tx.Amount);
+
+            if (!result.Any())
+            {
+                throw new InvalidOperationException(
+                    string.Format(ChainBlockExceptionsMessages.TransactionWithSenderDoesNotExist, sender)
+                    );
+            }
+
+            return result;
         }
 
-        public IEnumerable<ITransaction> GetByTransactionStatus(TransactionStatus status)
+        public IEnumerable<ITransaction> GetByTransactionStatus(Enums.TransactionStatus status)
         {
             if (!transactions.Any())
             {
@@ -145,7 +223,7 @@ namespace Chainblock.Models
 
             IEnumerable<ITransaction> result = transactions.Values.Where(t => t.Status == status).OrderByDescending(t => t.Amount);
 
-            if(!result.Any())
+            if (!result.Any())
             {
                 throw new InvalidOperationException(
                     string.Format(ChainBlockExceptionsMessages.TransactionsWithStatusDoesNotExist, status));
@@ -154,20 +232,20 @@ namespace Chainblock.Models
             return result;
         }
 
-        public IEnumerable<ITransaction> GetByTransactionStatusAndMaximumAmount(TransactionStatus status, double amount)
+        public IEnumerable<ITransaction> GetByTransactionStatusAndMaximumAmount(Enums.TransactionStatus status, decimal amount)
         {
             throw new NotImplementedException();
         }
 
         public void RemoveTransactionById(int id)
         {
-            if(!transactions.ContainsKey(id))
+            if (!transactions.ContainsKey(id))
             {
                 throw new InvalidOperationException(
                     string.Format(ChainBlockExceptionsMessages.TransactionDoesNotExist, id));
             }
 
-            transactions.Remove(id);    
+            transactions.Remove(id);
         }
     }
 }

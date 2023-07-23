@@ -368,6 +368,311 @@ namespace Chainblock.Tests
             Assert.AreEqual(
                 string.Format(ChainBlockExceptionsMessages.TransactionsWithStatusDoesNotExist, status), ex.Message);
         }
+
+        [TestCase(TransactionStatus.Successfull, TransactionStatus.Failed)]
+        [TestCase(TransactionStatus.Aborted, TransactionStatus.Failed)]
+        [TestCase(TransactionStatus.Unauthorised, TransactionStatus.Failed)]
+        [TestCase(TransactionStatus.Failed, TransactionStatus.Failed)]
+        public void GetAllOrderedByAmountDecendingThenByIdShouldReturnTheCollectionOrderedProperly(TransactionStatus getStatus, TransactionStatus otherStatus)
+        {
+            IEnumerable<ITransaction> transactionsToAppend = new List<ITransaction>()
+        {
+                new Transaction(1, getStatus, "Ivan", "Peter", 100),
+                new Transaction(2, getStatus, "Ivan", "Asen", 500),
+                new Transaction(3, otherStatus, "Andrey", "Gosho", 700)
+            };
+
+            foreach (ITransaction tx in transactionsToAppend)
+            {
+                chainBlock.Add(tx);
+            }
+
+            IEnumerable<ITransaction> expectedOutput = transactionsToAppend
+                .OrderByDescending(tx => tx.Amount)
+                .ThenBy(tx => tx.Id);
+
+            IEnumerable<ITransaction> actualOutput = chainBlock
+                .GetAllOrderedByAmountDescendingThenById();
+
+            CollectionAssert.AreEqual(expectedOutput, actualOutput);
+        }
+
+        [Test]
+        public void GetAllOrderedByAmountDescendingThenByIdShouldReturnEmptyCollectionWhenCollectionIsEmpty()
+        {
+            IEnumerable<ITransaction> transactions = chainBlock
+                .GetAllOrderedByAmountDescendingThenById();
+
+            Assert.IsEmpty(transactions);
+        }
+
+        [Test]
+        public void GetAllInAmountRangeMethodShouldReturnEmptyCollectionIfCollectionIsEmpty()
+        {
+            IEnumerable<ITransaction> transactions = chainBlock
+                .GetAllInAmountRange(100, 200);
+
+            Assert.IsEmpty(transactions);
+        }
+
+        [TestCase(TransactionStatus.Successfull, TransactionStatus.Failed)]
+        [TestCase(TransactionStatus.Aborted, TransactionStatus.Failed)]
+        [TestCase(TransactionStatus.Unauthorised, TransactionStatus.Failed)]
+        [TestCase(TransactionStatus.Failed, TransactionStatus.Failed)]
+        public void GetAllAmountInRangeMethodShouldWorkProperly(TransactionStatus getStatus, TransactionStatus otherStatus)
+        {
+            decimal minRange = 100m;
+            decimal maxRange = 200m;
+
+            IEnumerable<ITransaction> transactionsToAppend = new List<ITransaction>()
+            {
+                new Transaction(1, getStatus, "Ivan", "Peter", 100),
+                new Transaction(2, getStatus, "Ivan", "Asen", 500),
+                new Transaction(3, otherStatus, "Andrey", "Gosho", 700),
+                new Transaction(4, otherStatus, "Pesho", "Stefan", 200),
+                new Transaction(5, getStatus, "Mohamed", "Ali", 150)
+            };
+
+            foreach (ITransaction tx in transactionsToAppend)
+            {
+                chainBlock.Add(tx);
+            }
+
+            IEnumerable<ITransaction> expectedResult = transactionsToAppend
+            .Where(t => t.Amount >= minRange && t.Amount <= maxRange);
+
+            IEnumerable<ITransaction> actualResult = chainBlock.GetAllInAmountRange(minRange, maxRange);
+
+            CollectionAssert.AreEqual(expectedResult, actualResult);
+        }
+
+        [TestCase("Ivan")]
+        [TestCase("Pesho")]
+        [TestCase("Stefan")]
+        [TestCase("Goshko")]
+        [TestCase("Mohamed")]
+        public void GetByReceiverAndAmountRangeMethodShouldWorkProperly(string receiver)
+        {
+            decimal minRange = 100m;
+            decimal maxRange = 700m;
+
+            IEnumerable<ITransaction> transactionsToAppend = new List<ITransaction>()
+            {
+                new Transaction(1, TransactionStatus.Successfull, "Ivan", receiver, 100),
+                new Transaction(2, TransactionStatus.Successfull, "Ivan", receiver, 500),
+                new Transaction(3, TransactionStatus.Unauthorised, "Andrey", receiver, 700),
+                new Transaction(4, TransactionStatus.Failed, "Pesho", receiver, 200),
+                new Transaction(5, TransactionStatus.Aborted, "Ali", receiver, 150)
+            };
+
+            foreach (ITransaction tx in transactionsToAppend)
+            {
+                chainBlock.Add(tx);
+            }
+
+            IEnumerable<ITransaction> expectedResult = transactionsToAppend.
+            Where(t => t.To == receiver && t.Amount >= minRange && t.Amount < maxRange)
+            .OrderByDescending(t => t.Amount)
+            .ThenBy(t => t.Id);
+
+            IEnumerable<ITransaction> actualResult = chainBlock.GetByReceiverAndAmountRange(receiver, minRange, maxRange);
+
+            CollectionAssert.AreEqual(expectedResult, actualResult);
+        }
+
+        [TestCase("Ivan")]
+        [TestCase("Pesho")]
+        [TestCase("Stefan")]
+        [TestCase("Goshko")]
+        [TestCase("Mohamed")]
+        public void GetByReceiverAndAmountRangeShouldThrowExceptionIfCollectionIsEmpty(string receiver)
+        {
+            decimal minRange = 100m;
+            decimal maxRange = 500m;
+
+            InvalidOperationException ex = Assert.Throws<InvalidOperationException>(() => chainBlock.GetByReceiverAndAmountRange(receiver, minRange, maxRange));
+
+            Assert.AreEqual(
+                string.Format(ChainBlockExceptionsMessages.TransactionWithReceiverDoesNotExit, receiver), ex.Message);
+        }
+
+        [TestCase("Ivan")]
+        [TestCase("Stefan")]
+        [TestCase("Goshko")]
+        [TestCase("Mohamed")]
+        public void GetByReceiverAndAmountRangeShouldThrowExceptionIfTransactionIsNotFound(string receiver)
+        {
+            chainBlock.Add(transaction);
+
+            InvalidOperationException ex = Assert.Throws<InvalidOperationException>(() => chainBlock.GetByReceiverAndAmountRange(receiver, 10, 15));
+
+            Assert.AreEqual(
+                string.Format(ChainBlockExceptionsMessages.TransactionWithReceiverDoesNotExit, receiver), ex.Message);
+        }
+
+        [TestCase("Ivan")]
+        [TestCase("Pesho")]
+        [TestCase("Stefan")]
+        [TestCase("Goshko")]
+        [TestCase("Mohamed")]
+        public void GetByReceiverOrderedByAmountThenByIdMethodShouldWorkProperly(string receiver)
+        {
+            IEnumerable<ITransaction> transactionsToAppend = new List<ITransaction>()
+            {
+                new Transaction(1, TransactionStatus.Successfull, "Ivan", receiver, 100),
+                new Transaction(2, TransactionStatus.Successfull, "Ivan", receiver, 500),
+                new Transaction(3, TransactionStatus.Unauthorised, "Andrey", receiver, 700),
+                new Transaction(4, TransactionStatus.Failed, "Pesho", receiver, 200),
+                new Transaction(5, TransactionStatus.Aborted, "Ali", receiver, 150)
+            };
+
+            foreach (ITransaction tx in transactionsToAppend)
+            {
+                chainBlock.Add(tx);
+            }
+
+            IEnumerable<ITransaction> expectedResult = transactionsToAppend.
+            Where(t => t.To == receiver)
+            .OrderByDescending(t => t.Amount)
+            .ThenBy(t => t.Id);
+
+            IEnumerable<ITransaction> actualResult = chainBlock.GetByReceiverOrderedByAmountThenById(receiver);
+
+            CollectionAssert.AreEqual(expectedResult, actualResult);
+        }
+
+        [TestCase("Ivan")]
+        [TestCase("Pesho")]
+        [TestCase("Stefan")]
+        [TestCase("Goshko")]
+        [TestCase("Mohamed")]
+        public void GetByReceiverOrderedByAmountThenByIdMethodShouldThrowExceptionIfCollectionIsEmpty(string receiver)
+        {
+            InvalidOperationException ex = Assert.Throws<InvalidOperationException>(() => chainBlock.GetByReceiverOrderedByAmountThenById(receiver));
+
+            Assert.AreEqual(
+                string.Format(ChainBlockExceptionsMessages.TransactionWithReceiverDoesNotExit, receiver), ex.Message);
+        }
+
+        [TestCase("Ivan")]
+        [TestCase("Stefan")]
+        [TestCase("Goshko")]
+        [TestCase("Mohamed")]
+        public void GetByReceiverOrderedByAmountThenByIdMethodShouldThrowExceptionIfCollectionIsNotFound(string receiver)
+        {
+            chainBlock.Add(transaction);
+
+            InvalidOperationException ex = Assert.Throws<InvalidOperationException>(() => chainBlock.GetByReceiverOrderedByAmountThenById(receiver));
+
+            Assert.AreEqual(
+                string.Format(ChainBlockExceptionsMessages.TransactionWithReceiverDoesNotExit, receiver), ex.Message);
+        }
+
+        [TestCase("Ivan")]
+        [TestCase("Pesho")]
+        [TestCase("Stefan")]
+        [TestCase("Goshko")]
+        [TestCase("Mohamed")]
+        public void GetBySenderOrderedByAmountDescendingMethodShouldWorkProperly(string sender)
+        {
+            IEnumerable<ITransaction> transactionsToAppend = new List<ITransaction>()
+            {
+                new Transaction(1, TransactionStatus.Successfull, sender, "Ali", 100),
+                new Transaction(2, TransactionStatus.Successfull, sender, "Hasan", 500),
+                new Transaction(3, TransactionStatus.Unauthorised, sender, "ss", 700),
+                new Transaction(4, TransactionStatus.Failed, sender, "wdwd", 200),
+                new Transaction(5, TransactionStatus.Aborted, sender, "wdfwf", 150)
+            };
+
+            foreach(var transaction in transactionsToAppend)
+            {
+                chainBlock.Add(transaction);
+            }
+
+            IEnumerable<ITransaction> expectedResult = transactionsToAppend.Where(tx => tx.From== sender).OrderByDescending(tx => tx.Amount);
+
+            IEnumerable<ITransaction> actualResult = chainBlock.GetBySenderOrderedByAmountDescending(sender);
+
+            CollectionAssert.AreEqual(expectedResult, actualResult);
+        }
+
+        [Test]
+        public void GetBySenderOrderedByAmountDescendingMethodShouldThrowExceptionIfCollectionIsEmpty()
+        {
+            InvalidOperationException ex = Assert.Throws<InvalidOperationException>(() => chainBlock.GetBySenderOrderedByAmountDescending("Ivan"));
+
+            Assert.AreEqual(
+                string.Format(ChainBlockExceptionsMessages.TransactionWithSenderDoesNotExist, "Ivan"), ex.Message);
+        }
+
+        [TestCase("Pesho")]
+        [TestCase("Stefan")]
+        [TestCase("Goshko")]
+        [TestCase("Mohamed")]
+        public void GetBySenderOrderedByDescendingMethodShouldThrowExceptionIfCollectionIsNotFound(string sender)
+        {
+            chainBlock.Add(transaction);
+
+            InvalidOperationException ex = Assert.Throws<InvalidOperationException>(() => chainBlock.GetBySenderOrderedByAmountDescending(sender));
+
+            Assert.AreEqual(
+                string.Format(ChainBlockExceptionsMessages.TransactionWithSenderDoesNotExist, sender), ex.Message);
+        }
+
+        [TestCase("Ivan", 20)]
+        [TestCase("Pesho", 40)]
+        [TestCase("Stefan", 100)]
+        [TestCase("Goshko", 300)]
+        [TestCase("Mohamed", 10)]
+        public void GetBySenderAndMinimumAmountDescendingMethodShouldWorkProperly(string sender, decimal minAmount)
+        {
+            IEnumerable<ITransaction> transactionsToAppend = new List<ITransaction>()
+            {
+                new Transaction(1, TransactionStatus.Successfull, sender, "Ali", 100),
+                new Transaction(2, TransactionStatus.Successfull, sender, "Hasan", 500),
+                new Transaction(3, TransactionStatus.Unauthorised, sender, "ss", 700),
+                new Transaction(4, TransactionStatus.Failed, sender, "wdwd", 200),
+                new Transaction(5, TransactionStatus.Aborted, sender, "wdfwf", 150)
+            };
+
+            foreach (var transaction in transactionsToAppend)
+            {
+                chainBlock.Add(transaction);
+            }
+
+            IEnumerable<ITransaction> expectedResult = transactionsToAppend.Where(tx => tx.From == sender && tx.Amount > minAmount).OrderByDescending(tx => tx.Amount);
+
+            IEnumerable<ITransaction> actualResult = chainBlock.GetBySenderAndMinimumAmountDescending(sender, minAmount);
+
+            CollectionAssert.AreEqual(expectedResult, actualResult);
+        }
+
+        [Test]
+        public void GetBySenderAndMinimumAmountDescendingMethodShouldThrowExceptionIfCollectionIsEmpty()
+        {
+            string sender = "Ivan";
+
+            InvalidOperationException exception = Assert.Throws<InvalidOperationException>(() => chainBlock.GetBySenderAndMinimumAmountDescending(sender, 100));
+
+            Assert.AreEqual(
+                string.Format(ChainBlockExceptionsMessages.TransactionWithSenderDoesNotExist, sender), exception.Message
+                );
+        }
+
+        [TestCase("Pesho", 20)]
+        [TestCase("Stefan", 100)]
+        [TestCase("Goshko", 300)]
+        [TestCase("Mohamed", 10)]
+        public void GetBySenderAndMinimumAmountDescendingShouldThrowExceptionIfTransactionIsNotFound(string sender, decimal minAmount)
+        {
+            chainBlock.Add(transaction);
+
+            InvalidOperationException exception = Assert.Throws<InvalidOperationException>(() => chainBlock.GetBySenderAndMinimumAmountDescending(sender, minAmount));
+
+            Assert.AreEqual(
+                string.Format(ChainBlockExceptionsMessages.TransactionWithSenderDoesNotExist, sender), exception.Message
+                );
+        }
     }
 }
 

@@ -13,5 +13,9 @@ namespace Chainblock.Exceptions
         public const string TransactionDoesNotExist = "Transaction with if: {0} does not exist!";
 
         public const string TransactionsWithStatusDoesNotExist = "Transactions with status: {0} does not exist";
+
+        public const string TransactionWithReceiverDoesNotExit = "Transaction with receiver: {0} does not exist";
+
+        public const string TransactionWithSenderDoesNotExist = "Transaction with sender: {0} does not exist";
     }
 }
