@@ -234,7 +234,9 @@ namespace Chainblock.Models
 
         public IEnumerable<ITransaction> GetByTransactionStatusAndMaximumAmount(Enums.TransactionStatus status, decimal amount)
         {
-            throw new NotImplementedException();
+            IEnumerable<ITransaction> result = transactions.Values.Where(tx => tx.Status == status && tx.Amount <= amount).OrderByDescending(tx => tx.Amount);
+
+            return result;
         }
 
         public void RemoveTransactionById(int id)

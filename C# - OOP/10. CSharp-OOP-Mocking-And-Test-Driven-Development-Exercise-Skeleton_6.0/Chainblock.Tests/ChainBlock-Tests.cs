@@ -673,6 +673,43 @@ namespace Chainblock.Tests
                 string.Format(ChainBlockExceptionsMessages.TransactionWithSenderDoesNotExist, sender), exception.Message
                 );
         }
+
+        [TestCase(TransactionStatus.Successfull, 400)]
+        [TestCase(TransactionStatus.Aborted, 300)]
+        [TestCase(TransactionStatus.Failed, 100)]
+        [TestCase(TransactionStatus.Unauthorised, 200)]
+        [TestCase(TransactionStatus.Unauthorised, 150.44)]
+        public void GetByTransactionStatusAndMaximumAmountMethodShouldWorkProperly(TransactionStatus status, decimal maxAmount)
+        {
+            IEnumerable<ITransaction> transactionsToAppend = new List<ITransaction>()
+            {
+                new Transaction(1, status, "Ivan", "Ali", 100),
+                new Transaction(2, status, "Ali", "Hasan", 500),
+                new Transaction(3, status, "Mohamed", "ss", 700),
+                new Transaction(4, status, "Stefan", "wdwd", 200),
+                new Transaction(5, status, "gosho", "wdfwf", 150)
+            };
+
+            foreach (var transaction in transactionsToAppend)
+            {
+                chainBlock.Add(transaction);
+            }
+
+            IEnumerable<ITransaction> expectedResult = transactionsToAppend.Where(tx=>tx.Status == status && tx.Amount <= maxAmount).OrderByDescending(tx=>tx.Amount);
+
+            IEnumerable<ITransaction> actualResult = chainBlock.GetByTransactionStatusAndMaximumAmount(status, maxAmount);
+
+            CollectionAssert.AreEqual(expectedResult, actualResult);
+        }
+
+        [Test]
+        public void GetByTransactionStatusAndMaximumAmountMethodShouldReturnEmptyCollectionIdCollectionIsEmptyOrNotFound()
+        {
+            IEnumerable<ITransaction> transactions = chainBlock
+                .GetByTransactionStatusAndMaximumAmount(TransactionStatus.Unauthorised, 100);
+
+            Assert.IsEmpty(transactions);
+        }
     }
 }
 
