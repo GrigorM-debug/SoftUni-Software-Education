@@ -1,0 +1,5 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\02.Facade\obj\Debug\net6.0\02.Facade.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\02.Facade\obj\Debug\net6.0\02.Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\02.Facade\obj\Debug\net6.0\02.Facade.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\02.Facade\obj\Debug\net6.0\02.Facade.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\02.Facade\obj\Debug\net6.0\02.Facade.csproj.CoreCompileInputs.cache

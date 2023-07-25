@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\bin\Debug\net6.0\03.CommandPattern.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\bin\Debug\net6.0\03.CommandPattern.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\bin\Debug\net6.0\03.CommandPattern.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\bin\Debug\net6.0\03.CommandPattern.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\bin\Debug\net6.0\03.CommandPattern.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\obj\Debug\net6.0\03.CommandPattern.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\obj\Debug\net6.0\03.CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\obj\Debug\net6.0\03.CommandPattern.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\obj\Debug\net6.0\03.CommandPattern.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\obj\Debug\net6.0\03.CommandPattern.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\obj\Debug\net6.0\03.CommandPattern.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\obj\Debug\net6.0\refint\03.CommandPattern.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\obj\Debug\net6.0\03.CommandPattern.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\obj\Debug\net6.0\03.CommandPattern.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\03.CommandPattern\obj\Debug\net6.0\ref\03.CommandPattern.dll

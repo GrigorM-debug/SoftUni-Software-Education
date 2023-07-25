@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\bin\Debug\net6.0\01.Singleton.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\bin\Debug\net6.0\01.Singleton.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\bin\Debug\net6.0\01.Singleton.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\bin\Debug\net6.0\01.Singleton.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\bin\Debug\net6.0\01.Singleton.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\obj\Debug\net6.0\01.Singleton.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\obj\Debug\net6.0\01.Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\obj\Debug\net6.0\01.Singleton.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\obj\Debug\net6.0\01.Singleton.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\obj\Debug\net6.0\01.Singleton.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\obj\Debug\net6.0\01.Singleton.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\obj\Debug\net6.0\refint\01.Singleton.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\obj\Debug\net6.0\01.Singleton.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\obj\Debug\net6.0\01.Singleton.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\DesignPatterns - Lab\ConsoleApp1\obj\Debug\net6.0\ref\01.Singleton.dll
