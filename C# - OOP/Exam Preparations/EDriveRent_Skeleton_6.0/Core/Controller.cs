@@ -19,9 +19,9 @@ namespace EDriveRent.Core
 {
     public class Controller : IController
     {
-        private  IRepository<IUser> users;
-        private IRepository<IVehicle> vehicles;
-        private IRepository<IRoute> routes;
+        private readonly IRepository<IUser> users;
+        private readonly IRepository<IVehicle> vehicles;
+        private readonly IRepository<IRoute> routes;
 
         public Controller()
         {
@@ -33,29 +33,37 @@ namespace EDriveRent.Core
         {
             int routeId = this.routes.GetAll().Count + 1;
 
-            IRoute existingRoute = this.routes
+            var route = this.routes
                 .GetAll()
-                .FirstOrDefault(r => r.StartPoint == startPoint && r.EndPoint == endPoint);
+                .FirstOrDefault(r => r.StartPoint == startPoint && r.EndPoint == endPoint && r.Length == length) ;
 
-            if (existingRoute != null)
+            if (route != null)
             {
-                if (existingRoute.Length == length)
-                {
-                    return string.Format(OutputMessages.RouteExisting, startPoint, endPoint, length);
-                }
-                else if (existingRoute.Length < length)
-                {
-                    return string.Format(OutputMessages.RouteIsTooLong, startPoint, endPoint);
-                }
-                else if (existingRoute.Length > length)
-                {
-                    existingRoute.LockRoute();
-                }
+                return string.Format(OutputMessages.RouteExisting,startPoint, endPoint, routeId) ;
             }
-            IRoute newRoute = new Route(startPoint, endPoint, length, routeId);
+
+            route = this.routes
+                .GetAll()
+                .FirstOrDefault(r => r.StartPoint == startPoint && r.EndPoint == endPoint && r.Length <length);
+
+            if(route != null)
+            {
+                return string.Format(OutputMessages.RouteIsTooLong, startPoint, endPoint, routeId);
+            }
+
+            route = this.routes.GetAll().FirstOrDefault(r=> r.StartPoint == startPoint && r.EndPoint == endPoint && r.Length > length);
+
+            if(route != null )
+            {
+                route.LockRoute();
+            }
+
+            Route newRoute = new(startPoint, endPoint, length, routeId) ;
+
             this.routes.AddModel(newRoute);
 
             return string.Format(OutputMessages.NewRouteAdded, startPoint, endPoint, length);
+
         }
         public string MakeTrip(string drivingLicenseNumber, string licensePlateNumber, string routeId, bool isAccidentHappened)
         {
@@ -109,15 +117,14 @@ namespace EDriveRent.Core
 
         public string RepairVehicles(int count)
         {
-            var vehiclesToRepai = vehicles.GetAll().Where(x=> x.IsDamaged).OrderBy(x=> x.Brand).ThenBy(x=> x.Model).Take(count).ToList();
+            var damagedVehicles = this.vehicles.GetAll().Where(x=> x.IsDamaged).OrderBy(v => v.Brand).ThenBy(v => v.Model).Take(count).ToList();
 
-            foreach(var vehicle in vehiclesToRepai)
+            foreach (var vehicle in damagedVehicles)
             {
-                vehicle.Recharge();
                 vehicle.ChangeStatus();
+                vehicle.Recharge();
             }
-
-            return string.Format(OutputMessages.RepairedVehicles, vehiclesToRepai.Count);
+            return $"{damagedVehicles.Count} vehicles are successfully repaired!";
         }
 
         public string UploadVehicle(string vehicleType, string brand, string model, string licensePlateNumber)
@@ -127,25 +134,29 @@ namespace EDriveRent.Core
                 return string.Format(OutputMessages.VehicleTypeNotAccessible, vehicleType);
             }
 
-            var alreadyExist = vehicles.FindById(licensePlateNumber);
+            var vehicle = vehicles.FindById(licensePlateNumber);
 
-            if (alreadyExist != null)
+            if (vehicle != null)
             {
                 return $"{licensePlateNumber} belongs to another vehicle.";
             }
-
-            IVehicle vehicle= null;
-
-            if (vehicleType == "CargoVan")
+            else
             {
-                vehicle = new CargoVan(brand, model, licensePlateNumber);
+                //IVehicle vehicle = null;
+
+                if (vehicleType == "CargoVan")
+                {
+                    vehicle = new CargoVan(brand, model, licensePlateNumber);
+                }
+                else if (vehicleType == "PassengerCar")
+                {
+                    vehicle = new PassengerCar(brand, model, licensePlateNumber);
+                }
+
+                this.vehicles.AddModel(vehicle);
+
+                return string.Format(OutputMessages.VehicleAddedSuccessfully, brand, model, licensePlateNumber);
             }
-            else if (vehicleType == "PassengerCar")
-            {
-                vehicle = new PassengerCar(brand, model, licensePlateNumber);
-            }
-            vehicles.AddModel(vehicle);
-            return string.Format(OutputMessages.VehicleAddedSuccessfully, brand, model, licensePlateNumber);
         }
 
         public string UsersReport()
@@ -154,7 +165,7 @@ namespace EDriveRent.Core
 
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine("***E - Drive - Rent * **");
+            sb.AppendLine("*** E-Drive-Rent ***");
             foreach(var user in usersSorted)
             {
                 sb.AppendLine(user.ToString());

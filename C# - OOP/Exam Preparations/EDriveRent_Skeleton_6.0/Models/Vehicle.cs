@@ -18,14 +18,14 @@ namespace EDriveRent.Models
         private int batteryLevel;
         private bool isDamaged;
 
-        public Vehicle(string brand, string model, double maxMileage, string licensePlateNumber)
+        protected Vehicle(string brand, string model, double maxMileage, string licensePlateNumber)
         {
-            this.brand = brand;
-            this.model = model;
-            this.maxMileage = maxMileage;
-            this.licensePlateNumber = licensePlateNumber;
-            this.batteryLevel = 100;
-            this.isDamaged = false;
+            this.Brand = brand;
+            this.Model = model;
+            this.MaxMileage = maxMileage;
+            this.LicensePlateNumber = licensePlateNumber;
+            this.BatteryLevel = 100;
+            this.IsDamaged = false;
         }
 
         public string Brand
@@ -54,7 +54,14 @@ namespace EDriveRent.Models
             }
         }
 
-        public double MaxMileage { get; private set; }
+        public double MaxMileage
+        {
+            get => this.maxMileage;
+            private set
+            {
+                this.maxMileage = value;
+            }
+        }
 
         public string LicensePlateNumber
         {
@@ -69,48 +76,61 @@ namespace EDriveRent.Models
             }
         }
 
-        public int BatteryLevel { get; private  set; }
+        public int BatteryLevel
+        {
+            get => this.batteryLevel;
+            private set
+            {
+                batteryLevel = value;
+            }
+        }
 
-        public bool IsDamaged => this.isDamaged;
+        public bool IsDamaged
+        {
+            get=> this.isDamaged;   
+            private set
+            {
+                isDamaged = value;
+            }
+        }
 
         public void ChangeStatus()
         {
             if(this.IsDamaged == true)
             {
-                this.isDamaged = false;
+                this.IsDamaged = false;
             }
 
-            this.isDamaged = true;
+            this.IsDamaged = true;
         }
 
         public void Drive(double mileage)
         {
-            double percentage = Math.Round((mileage / this.maxMileage) * 100);
-            this.batteryLevel -= (int)percentage;
+            this.BatteryLevel -= (int)Math.Round(mileage / MaxMileage * 100);
 
-            if (this.GetType().Name == nameof(CargoVan))
+            if(this.GetType() == typeof(CargoVan))
             {
-                this.batteryLevel -= 5;
+                this.BatteryLevel -= 5;
             }
         }
 
         public void Recharge()
         {
-            this.batteryLevel = 100;
+            this.BatteryLevel = 100;
         }
 
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"{Brand} {Model} License plate: {LicensePlateNumber} Battery: {BatteryLevel}% Status:");
-           if(IsDamaged)
-            {
-                sb.Append("damaged");
-            }
-            else
-            {
-                sb.Append("OK");
-            }
+            sb.AppendLine($"{Brand} {Model} License plate: {LicensePlateNumber} Battery: {BatteryLevel}% Status: {(IsDamaged ? "damaged" : "OK")}");
+           ////if(IsDamaged)
+           //// {
+           ////     sb.Append("damaged");
+           //// }
+           //// else
+           //// {
+           ////     sb.Append("OK");
+           //// }
 
             return sb.ToString().TrimEnd();
         }

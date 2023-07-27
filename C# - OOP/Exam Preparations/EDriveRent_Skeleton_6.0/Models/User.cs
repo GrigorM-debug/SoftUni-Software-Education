@@ -18,11 +18,11 @@ namespace EDriveRent.Models
 
         public User(string firstName, string lastName, string drivingLicenseNumber)
         {
-            this.firstName = firstName;
-            this.lastName = lastName;
-            this.drivingLicenseNumber = drivingLicenseNumber;
-            this.rating = 0;
-            this.isBlocked = false;
+            this.FirstName = firstName;
+            this.LastName = lastName;
+            this.DrivingLicenseNumber = drivingLicenseNumber;
+            this.Rating = 0;
+            this.IsBlocked = false;
         }
 
         public string FirstName 
@@ -51,7 +51,14 @@ namespace EDriveRent.Models
             }
         }
 
-        public double Rating => rating;
+        public double Rating
+        {
+            get => this.rating; 
+            private set
+            {
+                rating = value;
+            }
+        }
 
         public string DrivingLicenseNumber
         {
@@ -66,34 +73,41 @@ namespace EDriveRent.Models
             }
         }
 
-        public bool IsBlocked => this.isBlocked;
+        public bool IsBlocked
+        {
+            get => this.isBlocked; 
+            private set
+            {
+                isBlocked = value;
+            }
+        }
 
         public void DecreaseRating()
         {
             if(this.rating < 2 )
             {
-                this.rating = 0;
-                this.isBlocked = true;
+                this.Rating = 0;
+                this.IsBlocked = true;
             }
             else
             {
-                this.rating -= 2;
+                this.Rating -= 2;
             }
         }
 
         public void IncreaseRating()
         {
-            if(this.rating > 10)
+            if(this.Rating > 10)
             {
-                this.rating = 10;
+                this.Rating = 10;
             }
 
-            this.rating += 0.5;
+            this.Rating += 0.5;
         }
 
         public override string ToString()
         {
-            return $"{FirstName} {LastName} Driving license: {drivingLicenseNumber} Rating: {rating}";
+            return $"{FirstName} {LastName} Driving license: {DrivingLicenseNumber} Rating: {Rating}";
         }
     }
 }

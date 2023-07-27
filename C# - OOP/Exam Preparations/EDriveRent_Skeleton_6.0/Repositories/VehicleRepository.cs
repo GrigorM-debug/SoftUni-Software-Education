@@ -10,7 +10,7 @@ namespace EDriveRent.Repositories
 {
     public class VehicleRepository : IRepository<IVehicle>
     {
-        private List<IVehicle> vehicles;
+        private readonly List<IVehicle> vehicles;
 
         public VehicleRepository()
         {

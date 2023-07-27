@@ -8,9 +8,9 @@ namespace EDriveRent.Models
 {
     public class PassengerCar : Vehicle
     {
-        private const double maxMileage = 450;
+        private const double MaxMileage = 450;
 
-        public PassengerCar(string brand, string model, string licensePlateNumber) : base(brand, model, maxMileage, licensePlateNumber)
+        public PassengerCar(string brand, string model, string licensePlateNumber) : base(brand, model, MaxMileage, licensePlateNumber)
         {
         }
     }

@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace VehicleGarage.Tests
 {
-    public  class GarageTest
+    [TestFixture]
+    public class GarageTest
     {
         [Test]
         public void GarageConstructor_ShouldSetCapacityAndInitializeVehiclesList()

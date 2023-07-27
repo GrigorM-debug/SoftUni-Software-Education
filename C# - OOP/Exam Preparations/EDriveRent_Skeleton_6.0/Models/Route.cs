@@ -18,11 +18,11 @@ namespace EDriveRent.Models
 
         public Route(string startPoint, string endPoint, double length, int routeId)
         {
-            this.startPoint = startPoint;
-            this.endPoint = endPoint;
-            this.length = length;
-            this.routeId = routeId;
-            this.isLocked = false;
+            this.StartPoint = startPoint;
+            this.EndPoint = endPoint;
+            this.Length = length;
+            this.RouteId = routeId;
+            //this.IsLocked = false;
         }
 
         public string StartPoint
@@ -65,13 +65,27 @@ namespace EDriveRent.Models
             }
         }
 
-        public int RouteId => this.routeId;
+        public int RouteId
+        {
+            get=> this.routeId; 
+            private set
+            {
+                routeId = value;
+            }
+        }
 
-    public bool IsLocked => this.isLocked;
+        public bool IsLocked
+        {
+            get=> this.isLocked; 
+            private set
+            {
+                isLocked = value;
+            }
+        }
 
         public void LockRoute()
         {
-            this.isLocked = true;
+            this.IsLocked = true;
         }
     }
 }
