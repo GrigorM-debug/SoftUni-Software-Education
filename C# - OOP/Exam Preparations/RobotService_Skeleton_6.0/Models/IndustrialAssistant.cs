@@ -8,10 +8,10 @@ namespace RobotService.Models
 {
     public class IndustrialAssistant : Robot
     {
-        private const int batteryCapacity = 40000;
-        private const int convertionCapacityIndex = 5000;
+        private const int IndustrialAssistantBatteryCapacity = 40000;
+        private const int IndustrialAssisitantConvertionCapacityIndex = 5000;
 
-        public IndustrialAssistant(string model) : base(model, batteryCapacity, convertionCapacityIndex)
+        public IndustrialAssistant(string model) : base(model, IndustrialAssistantBatteryCapacity, IndustrialAssisitantConvertionCapacityIndex)
         {
         }
     }

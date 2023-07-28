@@ -10,7 +10,7 @@ namespace RobotService.Repositories
 {
     public class SupplementRepository : IRepository<ISupplement>
     {
-        private List<ISupplement> supplements;
+        private readonly List<ISupplement> supplements;
 
         public SupplementRepository()
         {

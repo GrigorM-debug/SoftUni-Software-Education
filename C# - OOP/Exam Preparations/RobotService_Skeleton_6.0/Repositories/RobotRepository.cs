@@ -10,7 +10,7 @@ namespace RobotService.Repositories
 {
     public class RobotRepository : IRepository<IRobot>
     {
-        private List<IRobot> robots;
+        private readonly List<IRobot> robots;
 
         public RobotRepository()
         {
@@ -24,7 +24,7 @@ namespace RobotService.Repositories
 
         public IRobot FindByStandard(int interfaceStandard)
         {
-            return this.robots.FirstOrDefault(x => x.InterfaceStandards.Any(y => y == interfaceStandard));
+            return this.robots.FirstOrDefault(x => x.InterfaceStandards.Contains(interfaceStandard));
         }
 
         public IReadOnlyCollection<IRobot> Models()

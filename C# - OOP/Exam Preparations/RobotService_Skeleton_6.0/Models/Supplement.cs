@@ -9,17 +9,17 @@ namespace RobotService.Models
 {
     public abstract class Supplement : ISupplement
     {
-        private int interfaceStrandart;
-        private int batteryUsage;
+        //private int interfaceStrandart;
+        //private int batteryUsage;
 
-        public Supplement(int interfaceStrandart, int batteryusage)
+        protected Supplement(int interfaceStrandart, int batteryusage)
         {
-            this.interfaceStrandart = interfaceStrandart;
-            this.batteryUsage = batteryusage;
+            this.InterfaceStandard = interfaceStrandart;
+            this.BatteryUsage = batteryusage;
         }
 
-        public int InterfaceStandard {get; private set;}
+        public int InterfaceStandard { get; private set; }
 
-        public int BatteryUsage { get; private set; } 
+        public int BatteryUsage { get; private set; }
     }
 }

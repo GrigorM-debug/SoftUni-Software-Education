@@ -2,6 +2,7 @@
 using RobotService.Models;
 using RobotService.Models.Contracts;
 using RobotService.Repositories;
+using RobotService.Repositories.Contracts;
 using RobotService.Utilities.Messages;
 using System;
 using System.Collections.Generic;
@@ -16,8 +17,8 @@ namespace RobotService.Core
 {
     public class Controller : IController
     {
-        private SupplementRepository supplements;
-        private RobotRepository robots;
+        IRepository<ISupplement> supplements;
+        IRepository<IRobot> robots;
 
         public Controller()
         {
@@ -69,47 +70,48 @@ namespace RobotService.Core
 
         public string PerformService(string serviceName, int intefaceStandard, int totalPowerNeeded)
         {
-            var selectedRobots = this.robots.Models().Where(r => r.InterfaceStandards.Any(i => i == intefaceStandard)).OrderByDescending(y => y.BatteryLevel);
+            IEnumerable<IRobot> filteredRobots = robots
+            .Models()
+            .Where(r => r.InterfaceStandards.Contains(intefaceStandard))
+            .OrderByDescending(r => r.BatteryLevel);
 
-            if (selectedRobots.Count() == 0)
+            if (!filteredRobots.Any())
             {
                 return string.Format(OutputMessages.UnableToPerform, intefaceStandard);
             }
 
-            int powerSum = selectedRobots.Sum(r => r.BatteryLevel);
+            int availablePower = filteredRobots.Sum(r => r.BatteryLevel);
 
-            if (powerSum < totalPowerNeeded)
+            if (availablePower < totalPowerNeeded)
             {
-                return string.Format(OutputMessages.MorePowerNeeded, serviceName, totalPowerNeeded - powerSum);
+                return string.Format(OutputMessages.MorePowerNeeded, serviceName, totalPowerNeeded - availablePower);
             }
 
-            int usedRobotsCount = 0;
+            int robotsCounter = 0;
 
-            foreach (var robot in selectedRobots)
+            foreach (IRobot robot in filteredRobots)
             {
-                usedRobotsCount++;
+                robotsCounter++;
 
-                if (totalPowerNeeded <= robot.BatteryLevel)
+                if (robot.BatteryLevel >= totalPowerNeeded)
                 {
                     robot.ExecuteService(totalPowerNeeded);
+
                     break;
                 }
-                else
-                {
-                    totalPowerNeeded -= robot.BatteryLevel;
-                    robot.ExecuteService(robot.BatteryLevel);
-                }
 
+                totalPowerNeeded -= robot.BatteryLevel;
+                robot.ExecuteService(robot.BatteryLevel);
             }
 
-            return string.Format(OutputMessages.PerformedSuccessfully, serviceName, usedRobotsCount);
+            return string.Format(OutputMessages.PerformedSuccessfully, serviceName, robotsCounter);
         }
 
         public string Report()
         {
             StringBuilder sb = new StringBuilder();
 
-            var robotReportCollection = this.robots.Models().OrderByDescending(r => r.BatteryLevel).ThenBy(b => b.BatteryCapacity);
+            IEnumerable<IRobot> robotReportCollection = this.robots.Models().OrderByDescending(r => r.BatteryLevel).ThenBy(b => b.BatteryCapacity);
 
             foreach (var robot in robotReportCollection)
             {
@@ -121,34 +123,38 @@ namespace RobotService.Core
 
         public string RobotRecovery(string model, int minutes)
         {
-            var selectedRobots = this.robots.Models().Where(r => r.Model == model && r.BatteryLevel * 2 < r.BatteryCapacity);
-            int robotsFed = 0;
+            IEnumerable<IRobot> filteredRobots = robots
+           .Models()
+           .Where(r => r.Model == model && r.BatteryCapacity / 2 > r.BatteryLevel);
 
-            foreach (var robot in selectedRobots)
+            int robotsCount = 0;
+
+            foreach (IRobot robot in filteredRobots)
             {
+                robotsCount++;
                 robot.Eating(minutes);
-                robotsFed++;
             }
 
-            return string.Format(OutputMessages.RobotsFed, robotsFed);
+            return string.Format(OutputMessages.RobotsFed, robotsCount);
         }
 
         public string UpgradeRobot(string model, string supplementTypeName)
         {
-            ISupplement supplement = this.supplements.Models().FirstOrDefault(x => x.GetType().Name == supplementTypeName);
+            ISupplement supplement = supplements
+            .Models()
+            .FirstOrDefault(s => s.GetType().Name == supplementTypeName);
 
-            var selectedModels = this.robots.Models().Where(r => r.Model == model);
-            var stillNotUpgraded = selectedModels.Where(r => r.InterfaceStandards.All(s => s != supplement.InterfaceStandard));
-            var robotForUpgrade = stillNotUpgraded.FirstOrDefault();
+            IRobot robot = robots
+                .Models()
+                .FirstOrDefault(r => r.Model == model && !r.InterfaceStandards.Contains(supplement.InterfaceStandard));
 
-            if (robotForUpgrade == null)
+            if (robot is null)
             {
                 return string.Format(OutputMessages.AllModelsUpgraded, model);
             }
 
-
-            robotForUpgrade.InstallSupplement(supplement);
-            this.supplements.RemoveByName(supplementTypeName);
+            robot.InstallSupplement(supplement);
+            supplements.RemoveByName(supplementTypeName);
 
             return string.Format(OutputMessages.UpgradeSuccessful, model, supplementTypeName);
         }
