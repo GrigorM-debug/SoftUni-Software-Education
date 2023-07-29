@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\obj\Debug\net6.0\refint\UniversityCompetition.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\CSharpOOPRetakeExam–19December2022\UniversityCompetition\obj\Debug\net6.0\ref\UniversityCompetition.dll
