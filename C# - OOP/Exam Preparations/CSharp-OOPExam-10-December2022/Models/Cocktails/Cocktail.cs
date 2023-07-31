@@ -56,7 +56,7 @@ namespace ChristmasPastryShop.Models.Cocktails
         }
         public override string ToString()
         {
-            return $"{this.Name} ({this.Size}) - ({this.Price:f2}) lv";
+            return $"{this.Name} ({this.Size}) - {this.Price:f2} lv";
         }
     }
 }
