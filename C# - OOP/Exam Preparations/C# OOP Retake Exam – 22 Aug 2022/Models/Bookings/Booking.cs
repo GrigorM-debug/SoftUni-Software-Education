@@ -32,7 +32,7 @@ namespace BookingApp.Models.Bookings
             get => this.residenceDuration;
             private set
             {
-                if(value <= 0)
+                if(value < 1)
                 {
                     throw new ArgumentException(ExceptionMessages.DurationZeroOrLess);
                 }
@@ -78,14 +78,14 @@ namespace BookingApp.Models.Bookings
             sb.AppendLine($"Booking number: {this.BookingNumber}");
             sb.AppendLine($"Room type: {this.Room.GetType().Name}");
             sb.AppendLine($"Adults: {this.AdultsCount} Children: {this.ChildrenCount}");
-            sb.AppendLine($"Total amount paid: {TotalPaid():f2} $");
+            sb.AppendLine($"Total amount paid: {TotalPaid():F2} $");
 
             return sb.ToString().TrimEnd();
         }
 
         private double TotalPaid()
         {
-            double total = Math.Round(ResidenceDuration * this.Room.PricePerNight, 2);
+            double total = Math.Round(this.ResidenceDuration * this.Room.PricePerNight, 2);
 
             return total;
         }
