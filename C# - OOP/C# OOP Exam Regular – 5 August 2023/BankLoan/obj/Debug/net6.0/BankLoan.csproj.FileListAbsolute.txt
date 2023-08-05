@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\bin\Debug\net6.0\BankLoan.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\bin\Debug\net6.0\BankLoan.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\bin\Debug\net6.0\BankLoan.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\bin\Debug\net6.0\BankLoan.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\bin\Debug\net6.0\BankLoan.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\obj\Debug\net6.0\refint\BankLoan.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\C# OOP Exam Regular – 5 August 2023\BankLoan\obj\Debug\net6.0\ref\BankLoan.dll
