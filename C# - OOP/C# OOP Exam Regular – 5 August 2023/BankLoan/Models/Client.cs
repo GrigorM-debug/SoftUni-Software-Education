@@ -49,7 +49,7 @@ namespace BankLoan.Models
             }
         }
 
-        public virtual int Interest { get; set; }
+        public virtual int Interest { get; protected set; }
 
         public double Income
         {
