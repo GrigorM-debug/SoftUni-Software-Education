@@ -109,3 +109,11 @@ INSERT INTO [Occupancies] VALUES
 	(1, '2023-01-01', 1, 1, 20.00, 15.00, NULL),
 	(2, '2023-01-02', 2, 2, 20.00, 12.50, NULL),
 	(3, '2023-01-03', 3, 3, 20.00, 18.90, NULL)
+
+
+UPDATE [Payments]
+SET [TaxRate] = [TaxRate] * 0.97
+
+SELECT [TaxRate] FROM [Payments]
+
+TRUNCATE TABLE [Occupancies]
