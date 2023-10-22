@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 --Problem 06: University Database
 
 CREATE DATABASE Universitydb
@@ -32,4 +33,40 @@ CREATE TABLE Agenda(
 	StudentID INT FOREIGN KEY REFERENCES Students(StudentID),
 	SubjectID INT FOREIGN KEY REFERENCES Subjects(SubjectID),
 	PRIMARY KEY (StudentID, SubjectID)
+=======
+--Problem 06: University Database
+
+CREATE DATABASE Universitydb
+
+USE Universitydb
+
+CREATE TABLE Majors(
+	MajorID INT PRIMARY KEY IDENTITY,
+	Name VARCHAR(50)
+)
+
+CREATE TABLE Students(
+	StudentID INT PRIMARY KEY IDENTITY,
+	StudentNumber INT NOT NULL,
+	StudentName VARCHAR(50) NOT NULL,
+	MajorID INT FOREIGN KEY REFERENCES Majors(MajorID)
+)
+
+CREATE TABLE Payments(
+	PaymentID INT PRIMARY KEY IDENTITY,
+	PaymentDate DATE NOT NULL,
+	PaymentAmount DECIMAL(6,2) NOT NULL,
+	StudentID INT FOREIGN KEY REFERENCES Students(StudentID)
+)
+
+CREATE TABLE Subjects(
+	SubjectID INT PRIMARY KEY IDENTITY,
+	SubjectName VARCHAR(50) NOT NULL
+)
+
+CREATE TABLE Agenda(
+	StudentID INT FOREIGN KEY REFERENCES Students(StudentID),
+	SubjectID INT FOREIGN KEY REFERENCES Subjects(SubjectID),
+	PRIMARY KEY (StudentID, SubjectID)
+>>>>>>> f2e9dee17a76411a4b30b1c8ffa1c861b94a7951
 )
