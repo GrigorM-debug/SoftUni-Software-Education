@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\bin\Debug\net6.0\SimpleSnake.exe
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\bin\Debug\net6.0\SimpleSnake.deps.json
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\bin\Debug\net6.0\SimpleSnake.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\bin\Debug\net6.0\SimpleSnake.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\bin\Debug\net6.0\SimpleSnake.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\obj\Debug\net6.0\SimpleSnake.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\obj\Debug\net6.0\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\obj\Debug\net6.0\SimpleSnake.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\obj\Debug\net6.0\SimpleSnake.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\obj\Debug\net6.0\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\obj\Debug\net6.0\SimpleSnake.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\obj\Debug\net6.0\refint\SimpleSnake.dll
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\obj\Debug\net6.0\SimpleSnake.pdb
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\obj\Debug\net6.0\SimpleSnake.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\C# - OOP\SnakeGame-SoftUni\SimpleSnake\obj\Debug\net6.0\ref\SimpleSnake.dll
