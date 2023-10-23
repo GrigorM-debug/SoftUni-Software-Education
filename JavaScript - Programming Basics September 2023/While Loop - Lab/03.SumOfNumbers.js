@@ -3,12 +3,9 @@ function sumOfNumbers(input){
     let index = 1;
     let sum = 0;
 
-    while (sum != number){
+    while (sum < number){
         sum += Number(input[index]);
         index++;
-        if(sum == number){
-            break;
-        }
     }
 
     console.log(sum);
