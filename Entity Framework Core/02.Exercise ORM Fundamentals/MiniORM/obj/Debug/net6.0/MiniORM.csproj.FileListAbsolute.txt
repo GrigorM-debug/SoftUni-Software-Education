@@ -1,0 +1,12 @@
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\bin\Debug\net6.0\MiniORM.deps.json
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\bin\Debug\net6.0\MiniORM.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\bin\Debug\net6.0\MiniORM.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\obj\Debug\net6.0\MiniORM.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\obj\Debug\net6.0\MiniORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\obj\Debug\net6.0\MiniORM.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\obj\Debug\net6.0\MiniORM.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\obj\Debug\net6.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\obj\Debug\net6.0\MiniORM.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\obj\Debug\net6.0\refint\MiniORM.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\obj\Debug\net6.0\MiniORM.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\02.Exercise ORM Fundamentals\MiniORM\obj\Debug\net6.0\ref\MiniORM.dll
