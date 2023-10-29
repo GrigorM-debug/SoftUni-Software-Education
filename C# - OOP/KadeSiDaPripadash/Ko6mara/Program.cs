@@ -1,4 +1,5 @@
 ﻿using Microsoft.CognitiveServices.Speech;
+using NAudio.Wave;
 using System.Media;
 using System.Reflection.PortableExecutable;
 using System.Speech.Recognition;
@@ -14,39 +15,27 @@ public class Program
         Console.WriteLine($"Racer name: {racer.Name}");
         Console.WriteLine($"The legendary car: {racer.Car.Make} {racer.Car.Model} {racer.Car.Year}");
 
-        
         Console.OutputEncoding = Encoding.UTF8;
-        ManualResetEvent soundFinishedEvent = new ManualResetEvent(false);
+        string text = "Къде си да припадаш? \r\nЕ на Сточна гара, тука да ям.\r\nИдвай пред гаража, идвай приготвил съм ти Кошмара, идвай!\r\nОтивам към тва... до Хаджи Димитър и после отивам до Бояна там да гледам бегачките.\r\nТъкмо на Бояна ше има състезание довечера, чакам те. \r\nНямам пари за бензин.\r\nЩе ти дам 2.50 да има да си харчиш, айде.\r\n2.50, няма как да стане. Ще идваш ли нагоре да гледаме.\r\nШе дойдем аре ше се чуем горе. \r\nНали щеше да ходиш до тва бе?\r\nС Мката ли ше си или? \r\nНяма бе с голфа.\r\nЕ да та еба и тебе, аре извади я, аз ши ходим с Астрата.\r\nКво да извадиме, брат!\r\nЕ ше ходиме да си караме, кво? \r\nА!\r\nШе ходиме да караме, айде. \r\nЕ кво ши карам кат немам пари.\r\nШе сипеш 20 лева бе да еба нямам пари.\r\nБаща ти ще ти свали едно звено от ланеца. От ланеца ще свали едно да продаде. \r\nИмам некви пари дет не ми се дават за бензин ся.\r\nДобре, добре айде, айде пробит гъз, айде пробит гъз айде.";
 
-        // Start a thread for reading and printing words from the text file.
-        Thread textThread = new Thread(() =>
+        byte[] audioData = File.ReadAllBytes("ko6mara.wav");
+        MemoryStream audioStream = new MemoryStream(audioData);
+
+        SoundPlayer player = new SoundPlayer();
+        Thread.Sleep(70);
+        player.Stream = audioStream;
+        Thread.Sleep(70);
+        player.Play();
+
+        for (int i = 0; i < text.Length; i++)
         {
-            using (StreamReader reader = new StreamReader("ko6mara.txt"))
-            {
-                string[] words = reader.ReadToEnd().Split(' ');
-                foreach (var word in words)
-                {
-                    Thread.Sleep(900);
-                    Console.Write($"{word} ");
-                    Thread.Sleep(70);
-                }
-                reader.Close();
-                soundFinishedEvent.Set(); // Signal that text reading is finished.
-            }
-        });
+            //Thread.Sleep(100);
+            Console.Write($"{text[i]}");
+            Thread.Sleep(60);
+        }
+        //Thread.Sleep(100);
+        Console.ReadLine();
 
-        // Start a thread for playing the sound.
-        Thread soundThread = new Thread(() =>
-        {
-            racer.MakeSound();
-        });
-
-        // Start both threads.
-        textThread.Start();
-        soundThread.Start();
-
-        // Wait for the text reading to finish before continuing.
-        soundFinishedEvent.WaitOne();
     }
 }
 
@@ -89,11 +78,4 @@ public class Racer
     public Car Car => this.car;
 
     public string Title => this.title;
-
-    public void MakeSound()
-    {
-        SoundPlayer player = new SoundPlayer("ko6mara.wav");
-
-        player.PlaySync();
-    }
 }
