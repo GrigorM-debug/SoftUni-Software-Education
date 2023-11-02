@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "02.Football Betting.Data.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/02.Football Betting.Data.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/02.Football Betting.Data.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02.Football Betting.Data.Common/1.0.0": {
+      "type": "project",
+      "path": "../02.Football Betting.Data.Common/02.Football Betting.Data.Common.csproj",
+      "msbuildProject": "../02.Football Betting.Data.Common/02.Football Betting.Data.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "02.Football Betting.Data.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\grigo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Entity Relations - Exercises\\02.Football Betting.Data.Models\\02.Football Betting.Data.Models.csproj",
+      "projectName": "02.Football Betting.Data.Models",
+      "projectPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Entity Relations - Exercises\\02.Football Betting.Data.Models\\02.Football Betting.Data.Models.csproj",
+      "packagesPath": "C:\\Users\\grigo\\.nuget\\packages\\",
+      "outputPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Entity Relations - Exercises\\02.Football Betting.Data.Models\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\grigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Entity Relations - Exercises\\02.Football Betting.Data.Common\\02.Football Betting.Data.Common.csproj": {
+              "projectPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Entity Relations - Exercises\\02.Football Betting.Data.Common\\02.Football Betting.Data.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
