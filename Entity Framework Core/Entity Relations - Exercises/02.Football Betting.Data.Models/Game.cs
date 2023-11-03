@@ -1,23 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using _02.Football_Betting.Data.Common;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using P02_FootballBetting.Data.Common;
 
-namespace _02.Football_Betting.Data.Models
+namespace P02_FootballBetting.Data.Models
 {
     public class Game
     {
+        public Game()
+        {
+            this.PlayersStatistics = new HashSet<PlayerStatistic>();
+            this.Bets = new HashSet<Bet>(); 
+        }
+
         [Key]
         public int GameId { get; set; }
 
         [Required]
+        [ForeignKey(nameof(HomeTeam))]
         public int HomeTeamId { get; set; }
 
+        public virtual Team HomeTeam { get; set; } = null!;
+
         [Required]
+        [ForeignKey(nameof(AwayTeam))]
         public int AwayTeamId { get; set; }
+
+        public virtual Team AwayTeam { get; set; } = null!;
 
         [Required]  
         public int HomeTeamGoals { get; set; }
@@ -40,6 +48,8 @@ namespace _02.Football_Betting.Data.Models
         [MaxLength(ValidationConstants.GameResultLength)]
         public string? Result { get; set; }
 
-        //TODO: Navigation properties
+        public virtual ICollection<PlayerStatistic> PlayersStatistics { get; set; }
+
+        public virtual ICollection<Bet> Bets { get; set; }
     }
 }

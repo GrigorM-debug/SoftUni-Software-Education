@@ -1,22 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using _02.Football_Betting.Data.Common;
+﻿using System.ComponentModel.DataAnnotations;
+using P02_FootballBetting.Data.Common;
 
-namespace _02.Football_Betting.Data.Models
+namespace P02_FootballBetting.Data.Models
 {
     public class Country
     {
+        public Country()
+        {
+            this.Towns = new HashSet<Town>();
+        }
+
         [Key]
         public int CountryId { get; set; }
 
         [Required]
         [MaxLength(ValidationConstants.CountryNameMaxLength)]
-        public string Name { get; set; }
+        public string Name { get; set; } = null!;
 
-        //TODO: navigation properties
+        public virtual ICollection<Town> Towns { get; set; }
     }
 }
