@@ -1,4 +1,5 @@
-﻿using System.Security.Authentication.ExtendedProtection;
+﻿using System.Globalization;
+using System.Security.Authentication.ExtendedProtection;
 using System.Text;
 using BookShop.Models.Enums;
 
@@ -16,9 +17,12 @@ namespace BookShop
 
             //string command = Console.ReadLine();
             //int year = int.Parse(Console.ReadLine());
-            string input = Console.ReadLine();
+           // string input = Console.ReadLine();
 
-            Console.WriteLine(GetAuthorNamesEndingIn(db, input));
+           //int lengthCheck = int.Parse(Console.ReadLine());
+
+           string date = Console.ReadLine();
+            Console.WriteLine(GetBooksReleasedBefore(db, date));
         }
 
         //Exercise: 2 - Age Restriction in two ways
@@ -118,6 +122,31 @@ namespace BookShop
             return string.Join(Environment.NewLine, books);
         }
 
+        //Exercise 7: Released Before Date
+        public static string GetBooksReleasedBefore(BookShopContext context, string date)
+        {
+            DateTime parsedDate = DateTime.ParseExact(date, "dd-MM-yyyy", null);
+
+            var books = context.Books
+                .Where(b=> b.ReleaseDate.HasValue && b.ReleaseDate < parsedDate)
+                .OrderByDescending(b=>b.ReleaseDate)
+                .Select(b=> new
+                {
+                    b.Title,
+                    b.EditionType,
+                    b.Price
+                })
+                .ToArray();
+
+            var sb = new StringBuilder();
+
+            foreach (var b in books)
+            {
+                sb.AppendLine($"{b.Title} - {b.EditionType} - ${b.Price:f2}");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
 
         //Exercise: 8 - Author Search
         public static string GetAuthorNamesEndingIn(BookShopContext context, string input)
@@ -131,6 +160,108 @@ namespace BookShop
                 .ToArray();
 
             return string.Join(Environment.NewLine, authors);
+        }
+
+        //Exercise: 9 - Book Search
+        public static string GetBookTitlesContaining(BookShopContext context, string input)
+        {
+            var books = context.Books
+                .Where(b=> b.Title.ToLower().Contains(input.ToLower()))
+                .Select(b=>b.Title)
+                .OrderBy(b=>b)
+                .ToArray();
+
+            return string.Join(Environment.NewLine, books);
+        }
+
+        //Exercise: 10 - Book Search by Author
+        public static string GetBooksByAuthor(BookShopContext context, string input)
+        {
+            var books = context.Books
+                .Where(b=> b.Author.LastName.ToLower().StartsWith(input.ToLower()))
+                .OrderBy(b=> b.BookId)
+                .Select(b=> new
+                {
+                    BookTitle = b.Title,
+                    AuthorName = b.Author.FirstName + " " + b.Author.LastName
+                })
+                .ToArray();
+
+            var sb = new StringBuilder();
+
+            foreach (var book in books)
+            {
+                sb.AppendLine($"{book.BookTitle} ({book.AuthorName})");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //Exercise: 11 - Count Books
+        public static int CountBooks(BookShopContext context, int lengthCheck)
+        {
+            var booksCount = context.Books
+                .Count(b => b.Title.Length > lengthCheck);
+
+            return booksCount;
+
+            //var books = context.Books
+            //    .Where(b=> b.Title.Length > lengthCheck)
+            //    .ToList();
+
+            //return books.Count();
+        }
+
+        //Exercise: 12 - Total Book Copies
+        public static string CountCopiesByAuthor(BookShopContext context)
+        {
+            var authorsBooksCount = context.Authors
+                //.OrderByDescending(a => a.Books.Sum(b=> b.Copies))
+                .Select(a=>new
+                {
+                    AuthorName = a.FirstName + " " + a.LastName,
+                    BookCopiesCount = a.Books.Sum(b=>b.Copies)
+                })
+                .OrderByDescending(a => a.BookCopiesCount)
+                .ToArray();
+
+            var sb = new StringBuilder();
+ 
+            foreach (var a in authorsBooksCount)
+            {
+                sb.AppendLine($"{a.AuthorName} - {a.BookCopiesCount}");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //Exercise: 13 - Profit by Category
+        public static string GetTotalProfitByCategory(BookShopContext context)
+        {
+            var categories = context.Categories
+                .Select(c=> new
+                {
+                    BookCategory = c.Name,
+                    Profit = c.CategoryBooks.Sum(bc=>bc.Book.Copies * bc.Book.Price)
+                })
+                .OrderByDescending(c=> c.Profit)
+                .ThenBy(c=>c.BookCategory)
+                .ToArray();
+
+            var sb = new StringBuilder();
+
+            foreach (var c in categories)
+            {
+                sb.AppendLine($"{c.BookCategory} ${c.Profit:f2}");
+            }
+
+            return sb.ToString().TrimEnd(); 
+        }
+
+        //Exercise: 14 - Most Recent Books
+        public static string GetMostRecentBooks(BookShopContext context)
+        {
+            return null;
         }
     }
 }
