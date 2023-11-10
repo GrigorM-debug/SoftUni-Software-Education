@@ -1,0 +1,12 @@
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\bin\Debug\net6.0\BookShop.Models.deps.json
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\bin\Debug\net6.0\BookShop.Models.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\bin\Debug\net6.0\BookShop.Models.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\obj\Debug\net6.0\refint\BookShop.Models.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Models\obj\Debug\net6.0\ref\BookShop.Models.dll

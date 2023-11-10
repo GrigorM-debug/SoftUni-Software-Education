@@ -1,0 +1,17 @@
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.deps.json
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\bin\Debug\net6.0\BookShop.Data.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\bin\Debug\net6.0\BookShop.Models.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\bin\Debug\net6.0\BookShop.Data.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\bin\Debug\net6.0\BookShop.Models.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.CopyComplete
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\obj\Debug\net6.0\refint\BookShop.Initializer.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Advanced Querying - Exercises\BookShop.Initializer\obj\Debug\net6.0\ref\BookShop.Initializer.dll
