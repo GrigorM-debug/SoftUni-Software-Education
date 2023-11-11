@@ -1,12 +1,10 @@
-﻿using System.Globalization;
-using System.Security.Authentication.ExtendedProtection;
-using System.Text;
+﻿using System.Text;
+using BookShop.Initializer;
 using BookShop.Models.Enums;
 
 namespace BookShop
 {
     using Data;
-    using Initializer;
 
     public class StartUp
     {
@@ -17,12 +15,15 @@ namespace BookShop
 
             //string command = Console.ReadLine();
             //int year = int.Parse(Console.ReadLine());
-           // string input = Console.ReadLine();
+            // string input = Console.ReadLine();
 
-           //int lengthCheck = int.Parse(Console.ReadLine());
+            //int lengthCheck = int.Parse(Console.ReadLine());
 
-           string date = Console.ReadLine();
-            Console.WriteLine(GetBooksReleasedBefore(db, date));
+            //string date = Console.ReadLine();
+            //Console.WriteLine(GetMostRecentBooks(db));
+
+            //IncreasePrices(db);
+            Console.WriteLine(RemoveBooks(db));
         }
 
         //Exercise: 2 - Age Restriction in two ways
@@ -261,7 +262,74 @@ namespace BookShop
         //Exercise: 14 - Most Recent Books
         public static string GetMostRecentBooks(BookShopContext context)
         {
-            return null;
+            var bookByCategories = context.Categories
+                .Select(c => new
+                {
+                    BookCategory = c.Name,
+                    Books = c.CategoryBooks
+                        .OrderByDescending(b=>b.Book.ReleaseDate)
+                        .Select(b => new
+                        {
+                            BookTitle = b.Book.Title,
+                            ReleaseDate = b.Book.ReleaseDate.Value.Year,
+                        })
+                        //.OrderByDescending(b => b.ReleaseDate)
+                        .Take(3)
+                        .ToArray()
+                })
+                .OrderBy(c => c.BookCategory)
+                .ToArray();
+
+            var sb = new StringBuilder();
+
+            foreach (var c in bookByCategories)
+            {
+                sb.AppendLine($"--{c.BookCategory}");
+
+                foreach (var b in c.Books)
+                {
+                    sb.AppendLine($"{b.BookTitle} ({b.ReleaseDate})");
+                }
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //Exercise: 15 - Increase Prices
+        public static void IncreasePrices(BookShopContext context)
+        {
+            var booksToIncreasePrices = context.Books
+                .Where(b => b.ReleaseDate.HasValue && b.ReleaseDate.Value.Year < 2010)
+                .ToArray();
+
+            foreach (var b in booksToIncreasePrices)
+            {
+                b.Price += 5;
+            }
+
+            //context.BulkInsert(booksToIncreasePrices);
+            context.SaveChanges();
+        }
+
+        //Exercise: 16 - Remove Books
+        public static int RemoveBooks(BookShopContext context)
+        {
+            var booksCategoriesToRemove = context.BooksCategories
+                .Where(bc => bc.Book.Copies < 4200)
+                .ToArray();
+
+            var booksToRemove = context.Books
+                .Where(b=> b.Copies < 4200)
+                .ToArray();
+
+            int removedBooks = booksToRemove.Count();
+            context.BooksCategories.RemoveRange(booksCategoriesToRemove);
+            context.Books.RemoveRange(booksToRemove);
+            context.SaveChanges();
+
+            //int numberOfAffectedRows = context.SaveChanges();
+
+            return removedBooks;
         }
     }
 }
