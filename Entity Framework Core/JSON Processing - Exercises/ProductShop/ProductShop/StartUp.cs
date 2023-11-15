@@ -157,33 +157,41 @@ namespace ProductShop
         //08 - Export Users and Products
         public static string GetUsersWithProducts(ProductShopContext context)
         {
-            var users = context.Users
-                .Where(x => x.ProductsSold.Any(x => x.BuyerId != null))
-                .OrderByDescending(x => x.ProductsSold.Count)
-                .Select(x => new
-                {
-                    FirstName = x.FirstName,
-                    LastName = x.LastName,
-                    Age = x.Age,
-                    SoldProducts = x.ProductsSold.ToString(),
-                    Count = x.ProductsSold.Count,
-                        Products = x.ProductsSold
-                            .Select(p=> new
+            var usersData = new
+            {
+                usersCount = context.Users.Count(x => x.ProductsSold.Any(p=> p.BuyerId != null)),
+                users = context.Users
+                    .Where(u => u.ProductsSold.Count(p => p.BuyerId != null) >= 1)
+                    .OrderByDescending(u => u.ProductsSold.Count(x=> x.BuyerId != null))
+                    .Select(u => new
+                    {
+                        FirstName = u.FirstName,
+                        LastName = u.LastName,
+                        Age = u.Age,
+                        SoldProducts = new
                         {
-                            Name = p.Name,
-                            Price = p.Price
-                        }).ToArray()
-                })
-                .ToArray();
+                            Count = u.ProductsSold.Count(p => p.BuyerId != null),
+                            Products = u.ProductsSold
+                                .Where(p => p.BuyerId != null)
+                                //.OrderByDescending(u => u.Buyer.Count(p => p.BuyerId != null))
+                                .Select(p => new
+                                {
+                                    Name= p.Name,
+                                    Price = p.Price
+                                })
+                                .ToArray()
+                        }
+                    })
+                    .ToArray()
+            };
 
             var options = new JsonSerializerSettings()
             {
                 Formatting = Formatting.Indented,
-                ContractResolver = new Newtonsoft.Json.Serialization.CamelCasePropertyNamesContractResolver(),
-                NullValueHandling = NullValueHandling.Ignore
+                ContractResolver = new Newtonsoft.Json.Serialization.CamelCasePropertyNamesContractResolver()
             };
 
-            var json = JsonConvert.SerializeObject(users, options);
+            var json = JsonConvert.SerializeObject(usersData, options);
 
             return json;
         }
