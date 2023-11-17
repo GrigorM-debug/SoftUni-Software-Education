@@ -220,7 +220,7 @@ namespace ProductShop
             var options = new JsonSerializerSettings()
             {
                 Formatting = Formatting.Indented,
-                ContractResolver = new Newtonsoft.Json.Serialization.CamelCasePropertyNamesContractResolver(),
+                ContractResolver = new CamelCasePropertyNamesContractResolver(),
                 NullValueHandling = NullValueHandling.Ignore
             };
 
