@@ -137,9 +137,8 @@ namespace ProductShop
                 {
                     Category = x.Name,
                     ProductsCount = x.CategoriesProducts.Count,
-                    AveragePrice = x.CategoriesProducts
-                        .Average(x => x.Product.Price).ToString("f2"),
-                    TotalRevenue = x.CategoriesProducts.Sum(x=> x.Product.Price).ToString("f2")
+                    AveragePrice = (x.CategoriesProducts.Any() ? x.CategoriesProducts.Average(p=> p.Product.Price) : 0).ToString("f2"),
+                    TotalRevenue = (x.CategoriesProducts.Any() ? x.CategoriesProducts.Sum(p=> p.Product.Price) : 0).ToString("f2")
                 })
                 .ToArray();
 
@@ -191,6 +190,33 @@ namespace ProductShop
                     }
                 })
             };
+
+            var usersWithProductsOnOneLine = new
+            {
+                usersCount = context.Users.Count(x=> x.ProductsSold.Any(p=> p.BuyerId != null)),
+                users = context.Users
+                    .Where(x => x.ProductsSold.Any(x => x.BuyerId != null))
+                    .Select(u => new
+                    {
+                        u.FirstName,
+                        u.LastName,
+                        u.Age,
+                        SoldProducts = new
+                        {
+                            Count = u.ProductsSold.Count(p => p.BuyerId != null),
+                            Products = u.ProductsSold
+                                .Where(p => p.BuyerId != null)
+                                .Select(p => new
+                                {
+                                    p.Name,
+                                    p.Price
+                                }).ToArray()
+                        }
+                    })
+                    .OrderByDescending(x => x.SoldProducts.Count)
+                    .ToArray()
+            };
+
             var options = new JsonSerializerSettings()
             {
                 Formatting = Formatting.Indented,
@@ -198,7 +224,7 @@ namespace ProductShop
                 NullValueHandling = NullValueHandling.Ignore
             };
 
-            var json = JsonConvert.SerializeObject(output, options);
+            var json = JsonConvert.SerializeObject(usersWithProductsOnOneLine, options);
 
             return json;
         }
