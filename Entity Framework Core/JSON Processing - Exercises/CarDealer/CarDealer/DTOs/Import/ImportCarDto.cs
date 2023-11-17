@@ -11,7 +11,7 @@ namespace CarDealer.DTOs.Import
     {
         public ImportCarDto()
         {
-            this.PartsIds = new HashSet<int>();
+            this.PartsId = new HashSet<int>();
         }
 
         public string Make { get; set; } = null!;
@@ -19,6 +19,6 @@ namespace CarDealer.DTOs.Import
         public string Model { get; set; } = null!;
 
         public int TraveledDistance { get; set; }
-        public virtual ICollection<int> PartsIds { get; set; }
+        public virtual ICollection<int> PartsId { get; set; }
     }
 }

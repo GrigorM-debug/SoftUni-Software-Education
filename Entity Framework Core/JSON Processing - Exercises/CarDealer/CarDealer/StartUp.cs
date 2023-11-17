@@ -38,7 +38,7 @@ namespace CarDealer
 
             context.Parts.AddRange(validParts);
 
-           //context.SaveChanges();
+           context.SaveChanges();
 
             return $"Successfully imported {validParts.Length}.";
         }
@@ -61,9 +61,9 @@ namespace CarDealer
             {
                 Car currentCar = mapper.Map<Car>(carDto);
 
-                foreach (var id in carDto.PartsIds)
+                foreach (var id in carDto.PartsId)
                 {
-                    if (context.Parts.Any(p => p.Id == id))
+                    if (context.Parts.Any(p=> p.Id == id))
                     {
                         currentCar.PartsCars.Add(new PartCar
                         {
