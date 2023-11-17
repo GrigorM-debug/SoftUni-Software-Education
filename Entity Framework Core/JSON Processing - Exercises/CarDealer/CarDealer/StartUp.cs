@@ -206,7 +206,7 @@ namespace CarDealer
                     FullName = c.Name,
                     BoughtCars = c.Sales.Count(),
                     //SpendMoney = c.Sales.Sum(s => s.Car.PartsCars.Sum(pc => pc.Part.Price))
-                    SpendMoney = c.Sales.SelectMany(s => s.Car.PartsCars.Select(p => p.Part.Price)).Sum()
+                    SpendMoney = c.Sales.Sum(s => s.Car.PartsCars.Sum(p => p.Part.Price))
                 })
                 .OrderByDescending(c=> c.SpendMoney)
                 .ThenByDescending(c=> c.BoughtCars)
@@ -219,6 +219,29 @@ namespace CarDealer
             };
 
             string json = JsonConvert.SerializeObject(customers, option);
+
+            return json;
+        }
+
+        public static string GetSalesWithAppliedDiscount(CarDealerContext context)
+        {
+            var sales = context.Sales
+                .Take(10)
+                .Select(c => new
+                {
+                    car = new
+                    {
+                        c.Car.Make,
+                        c.Car.Model,
+                        c.Car.TraveledDistance
+                    },
+                    customerName = c.Customer.Name,
+                    discount = c.Discount.ToString("f2"),
+                    price = c.Car.PartsCars.Sum(p => p.Part.Price).ToString("f2"),
+                    priceWithDiscount = ((c.Car.PartsCars.Sum(pc => pc.Part.Price) * (1 - c.Discount / 100))).ToString("f2")
+                }).ToArray();
+
+            string json = JsonConvert.SerializeObject(sales, Formatting.Indented);
 
             return json;
         }
