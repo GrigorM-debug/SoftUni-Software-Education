@@ -20,6 +20,6 @@ function safari(input) {
     if (budget >= totalCost) {
         console.log(`Safari time! Money left: ${difference.toFixed(2)} lv.`);
     } else if (budget < totalCost) {
-        console.log(`"Not enough money! Money needed: ${difference.toFixed(2)} lv.`);
+        console.log(`Not enough money! Money needed: ${difference.toFixed(2)} lv.`);
     }
 }
