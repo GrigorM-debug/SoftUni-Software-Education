@@ -1,44 +1,60 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 using System.Xml.Serialization;
 
 namespace CarDealer.Utilities
 {
     public class XmlHelper
     {
-        public static T Deserialize<T>(
-            string xmlObjectsAsString,
-            string xmlRootAttributeName)
+        public T Deserialize<T>(string inputXml, string rootName)
         {
-            XmlSerializer serializer = new XmlSerializer(typeof(T[]), new XmlRootAttribute(xmlRootAttributeName));
+            XmlRootAttribute xmlRoot = new XmlRootAttribute(rootName);
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(T), xmlRoot);
 
-            var dataTransferObject = (T)serializer.Deserialize(new StringReader(xmlObjectsAsString));
+            using StringReader reader = new StringReader(inputXml);
+            T deserializedObj = (T)xmlSerializer.Deserialize(reader);
 
-            return dataTransferObject;
+            return deserializedObj;
         }
 
-        public static string Serialize<T>(
-            T dataTransferObjects,
-            string xmlRootAttributeName)
+        public T[] DeserializeCollection<T>(string inputXml, string rootName)
         {
-            XmlSerializer serializer = new XmlSerializer(typeof(T), new XmlRootAttribute(xmlRootAttributeName));
+            XmlRootAttribute xmlRoot = new XmlRootAttribute(rootName);
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(T[]), xmlRoot);
 
-            var builder = new StringBuilder();
+            using StringReader reader = new StringReader(inputXml);
+            T[] deserializedObj = (T[])xmlSerializer.Deserialize(reader);
 
-            using var write = new StringWriter(builder);
-            serializer.Serialize(write, dataTransferObjects, GetXmlNamespaces());
-
-            return builder.ToString();
+            return deserializedObj;
         }
 
-        private static XmlSerializerNamespaces GetXmlNamespaces()
+        public string Serialize<T>(T obj, string rootName)
         {
-            XmlSerializerNamespaces xmlNamespaces = new XmlSerializerNamespaces();
-            xmlNamespaces.Add(string.Empty, string.Empty);
-            return xmlNamespaces;
+            XmlRootAttribute xmlRootAttribute = new XmlRootAttribute(rootName);
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(T), xmlRootAttribute);
+
+            XmlSerializerNamespaces namespaces = new XmlSerializerNamespaces();
+            namespaces.Add(string.Empty, string.Empty);
+
+            StringBuilder sb = new StringBuilder();
+            using StringWriter writer = new StringWriter(sb);
+
+            xmlSerializer.Serialize(writer, obj, namespaces);
+            return sb.ToString().TrimEnd();
+        }
+
+        public string Serialize<T>(T[] obj, string rootName)
+        {
+            XmlRootAttribute xmlRootAttribute = new XmlRootAttribute(rootName);
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(T[]), xmlRootAttribute);
+
+            XmlSerializerNamespaces namespaces = new XmlSerializerNamespaces();
+            namespaces.Add(string.Empty, string.Empty);
+
+            StringBuilder sb = new StringBuilder();
+            using StringWriter writer = new StringWriter(sb);
+
+            xmlSerializer.Serialize(writer, obj, namespaces);
+            return sb.ToString().TrimEnd();
         }
     }
 }
