@@ -4,6 +4,8 @@ using CarDealer.DTOs.Import;
 using CarDealer.Models;
 using CarDealer.Utilities;
 using System.Linq;
+using AutoMapper.QueryableExtensions;
+using CarDealer.DTOs.Export;
 
 namespace CarDealer
 {
@@ -13,10 +15,14 @@ namespace CarDealer
         {
             var context = new CarDealerContext();
 
-            string inputXml = File.ReadAllText(@"../../../Datasets/cars.xml");
-            string output = ImportCars(context, inputXml);
+            //string inputXml = File.ReadAllText(@"../../../Datasets/sales.xml");
+            //string output = ImportSales(context, inputXml);
 
-            Console.WriteLine(output);
+            string xml = GetLocalSuppliers(context);
+
+
+            Console.WriteLine(xml);
+
         }
 
         public static string ImportSuppliers(CarDealerContext context, string inputXml)
@@ -81,7 +87,6 @@ namespace CarDealer
             return $"Successfully imported {validParts.Count}";
         }
 
-        //TODO
         public static string ImportCars(CarDealerContext context, string inputXml)
         {
             IMapper mapper = InitializeAutoMapper();
@@ -153,7 +158,84 @@ namespace CarDealer
             return $"Successfully imported {validCustomers.Count}";
         }
 
-        //TODO - Delete the database and execute methods again. Mistakes happen.
+        public static string ImportSales(CarDealerContext context, string inputXml)
+        {
+            IMapper mapper = InitializeAutoMapper();
+            XmlHelper xmlHelper = new XmlHelper();
+
+            var salesDTOs = xmlHelper.Deserialize<ImportSalesDTO[]>(inputXml, "Sales");
+
+            var validSales = new HashSet<Sale>();
+
+            foreach (var saleDTO in salesDTOs)
+            {
+                if (!context.Cars.Any(x => x.Id == saleDTO.CarId))
+                {
+                    continue;
+                }
+
+                var sale = mapper.Map<Sale>(saleDTO);
+
+                validSales.Add(sale);
+            }
+
+            context.Sales.AddRange(validSales);
+
+            context.SaveChanges();
+
+            return $"Successfully imported {validSales.Count}";
+        }
+
+        //TODO - Judge test with different imformation. The Query is correct
+        public static string GetCarsWithDistance(CarDealerContext context)
+        {
+            XmlHelper xmlHelper = new XmlHelper();
+            IMapper mapper = InitializeAutoMapper();
+
+            var cars = context.Cars
+                .Take(10)
+                .OrderBy(x => x.Make)
+                .ThenBy(x => x.Model)
+                .Where(x => x.TraveledDistance > 2000000)
+                .ProjectTo<ExportCarDTO>(mapper.ConfigurationProvider)
+                .ToArray();
+            
+            var xmlOutput = xmlHelper.Serialize(cars, "cars");
+
+            return xmlOutput;
+        }
+
+        public static string GetCarsFromMakeBmw(CarDealerContext context)
+        {
+            XmlHelper xmlHelper = new XmlHelper();
+            IMapper mapper = InitializeAutoMapper();
+
+            var cars = context.Cars
+                .Where(c => c.Make == "BMW")
+                .OrderBy(c => c.Model)
+                .ThenByDescending(c => c.TraveledDistance)
+                .ProjectTo<ExportBMWCarDTO>(mapper.ConfigurationProvider)
+                .ToArray();
+
+            var xmlOutput = xmlHelper.Serialize(cars, "cars");
+
+            return xmlOutput;
+        }
+
+        public static string GetLocalSuppliers(CarDealerContext context)
+        {
+            IMapper mapper = InitializeAutoMapper();
+            XmlHelper xmlHelper = new XmlHelper();
+
+            var suppliers = context.Suppliers
+                .Where(s => s.IsImporter == false)
+                .ProjectTo<ExportSupplersDTO>(mapper.ConfigurationProvider)
+                .ToArray();
+
+            var xmlOutput = xmlHelper.Serialize(suppliers, "suppliers");
+
+            return xmlOutput;   
+        }
         private static IMapper InitializeAutoMapper()
             => new Mapper(new MapperConfiguration(cfg =>
             {

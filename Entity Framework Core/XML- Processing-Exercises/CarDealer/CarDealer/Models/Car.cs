@@ -1,4 +1,6 @@
-﻿namespace CarDealer.Models
+﻿using System.Xml.Serialization;
+
+namespace CarDealer.Models
 {
     public class Car
     {
@@ -7,7 +9,7 @@
         public string Make { get; set; } = null!;
 
         public string Model { get; set; } = null!;
-
+        
         public long TraveledDistance { get; set; }
 
         public ICollection<Sale> Sales { get; set; } = new List<Sale>();    
