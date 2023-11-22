@@ -4,6 +4,7 @@ using CarDealer.DTOs.Export;
 using CarDealer.DTOs.Import;
 using CarDealer.Models;
 using CarDealer.Utilities;
+using Microsoft.EntityFrameworkCore.Design.Internal;
 
 namespace CarDealer
 {
@@ -33,12 +34,13 @@ namespace CarDealer
             CreateMap<Supplier, ExportSupplersDTO>()
                 .ForMember(x => x.PartsCount, y => y.MapFrom(x => x.Parts.Count));
 
-            CreateMap<Customer, ExportCustomer>()
-                .ForMember(x => x.FullName, y => y.MapFrom(f => f.Name))
-                .ForMember(x => x.BoughtCars, y => y.MapFrom(x => x.Sales.Count))
-                .ForMember(x => x.SpentMoney,
-                    y => y.MapFrom(
-                        x => x.IsYoungDriver ? x.Sales.Sum(x=> x.Select(x => x.Car.PartsCars.Select(x => x.Part.Price))) - x.Sales.Select(x=> x.Discount) : x.Sales.Sum(x => x.Select(x => x.Car.PartsCars.Select(x => x.Part.Price)))));
+            CreateMap<Part, ExportCarPartDTO>();
+
+            CreateMap<Car, ExportCarsWithParts>()
+                .ForMember(x => x.Parts,y => y.MapFrom(x =>
+                        x.PartsCars.OrderByDescending(x => x.Part.Price).Select(x => x.Part).ToArray()));
+
+
         }
     }
 }

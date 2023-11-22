@@ -8,7 +8,7 @@ using System.Xml.Serialization;
 namespace CarDealer.DTOs.Export
 {
     [XmlType("customer")]
-    public class ExportCustomer
+    public class ExportCustomerDTO
     {
         [XmlAttribute("full-name")]
         public string FullName { get; set; }
@@ -17,6 +17,6 @@ namespace CarDealer.DTOs.Export
         public int BoughtCars { get; set; }
 
         [XmlAttribute("spent-money")]
-        public decimal SpentMoney { get; set; }
+        public string SpentMoney { get; set; }
     }
 }
