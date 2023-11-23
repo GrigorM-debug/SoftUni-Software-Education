@@ -1,4 +1,5 @@
-﻿using AutoMapper;
+﻿using System.Xml.Linq;
+using AutoMapper;
 using ProductShop.Data;
 using ProductShop.DTOs.Export;
 using ProductShop.DTOs.Import;
@@ -180,35 +181,73 @@ namespace ProductShop
         {
             var xmlHelper = new XmlHelper();
 
-            var usersWithProducts = context.Users
+            //var usersWithProducts = context.Users
+            //    .Where(u => u.ProductsSold.Any())
+            //    .OrderByDescending(u => u.ProductsSold.Count)
+            //    .Take(10)
+            //    .Select(u => new ExportUsersWithProductsDTO()
+            //    {
+            //        Count = context.Users.Count(user => user.ProductsSold.Any()), // Fix for getting the count of all users with sold products
+            //        Users = context.Users
+            //            .Where(user => user.ProductsSold.Any())
+            //            .Select(p => new ExportUsersDTO()
+            //            {
+            //                FirstName = p.FirstName,
+            //                LastName = p.LastName,
+            //                Age = p.Age,
+            //                SoldProducts = new ExportSoldProductsInfoDTO()
+            //                {
+            //                    Count = p.ProductsSold.Count,
+            //                    Products = p.ProductsSold
+            //                        .Select(product => new ExportProductSoldProductDTO()
+            //                        {
+            //                            Name = product.Name,
+            //                            Price = product.Price
+            //                        })
+            //                        .OrderByDescending(product => product.Price)
+            //                        .ToArray()
+            //                }
+            //            })
+            //            .ToArray()
+            //    })
+            //    .ToArray();
+
+            var usersInfo = context
+                .Users
                 .Where(u => u.ProductsSold.Any())
                 .OrderByDescending(u => u.ProductsSold.Count)
-                .Take(10)
-                .Select(u => new ExportUsersWithProductsDTO()
+                .Select(u => new UserInfo()
                 {
                     FirstName = u.FirstName,
                     LastName = u.LastName,
                     Age = u.Age,
-                    SoldProducts = new ExportSoldProductsInfoDTO
+                    SoldProducts = new SoldProductsCount()
                     {
                         Count = u.ProductsSold.Count,
-                        Products = u.ProductsSold
-                            .Select(p => new ExportProductSoldProductDTO()
+                        Products = u.ProductsSold.Select(p => new SoldProduct()
                             {
                                 Name = p.Name,
                                 Price = p.Price
                             })
-                            .OrderByDescending(p=> p.Price)
+                            .OrderByDescending(p => p.Price)
                             .ToArray()
                     }
-                }).ToArray();
+                })
+                .Take(10)
+                .ToArray();
 
-            string xmlOuput = xmlHelper.Serialize(usersWithProducts, "users");
+            ExportUserCountDto exportUserCountDto = new ExportUserCountDto()
+            {
+                Count = context.Users.Count(u => u.ProductsSold.Any()),
+                Users = usersInfo
+            };
+
+
+            string xmlOuput = xmlHelper.Serialize(exportUserCountDto, "Users");
 
             return xmlOuput;
         }
 
-        //TODO - Try to decrease the .Zip file size for Problems: 6, 7 and 8. They are finished but Judge System says that file is too big.
         private static IMapper InitializeAutoMapper()
             => new Mapper(new MapperConfiguration(cfg =>
             {
