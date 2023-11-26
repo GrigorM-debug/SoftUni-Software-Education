@@ -57,7 +57,13 @@ namespace FastFood.Core.Controllers
         public async Task<IActionResult> All()
         {
             var orders = await _context.Orders
-                .ProjectTo<OrderAllViewModel>(_mapper.ConfigurationProvider)
+                .Select(x=> new OrderAllViewModel()
+                {
+                    OrderId = x.Id,
+                    Customer = x.Customer,
+                    Employee = x.Employee.Name,
+                    DateTime = x.DateTime.ToString()
+                })
                 .ToArrayAsync();
 
             return View(orders);
