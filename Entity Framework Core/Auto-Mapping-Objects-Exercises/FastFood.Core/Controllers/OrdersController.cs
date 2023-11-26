@@ -1,4 +1,8 @@
-﻿namespace FastFood.Core.Controllers
+﻿using AutoMapper.QueryableExtensions;
+using FastFood.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace FastFood.Core.Controllers
 {
     using System;
     using System.Linq;
@@ -30,14 +34,33 @@
         }
 
         [HttpPost]
-        public IActionResult Create(CreateOrderInputModel model)
+        public async Task<IActionResult> Create(CreateOrderInputModel model)
         {
+            if (!ModelState.IsValid)
+            {
+                return RedirectToAction("Error", "Home");
+            }
+
+            var order = new Order()
+            {
+                Customer = model.Customer,
+                EmployeeId = model.EmployeeId,
+            };
+
+            _context.Orders.Add(order);
+
+            await _context.SaveChangesAsync();
+
             return RedirectToAction("All", "Orders");
         }
 
-        public IActionResult All()
+        public async Task<IActionResult> All()
         {
-            throw new NotImplementedException();
+            var orders = await _context.Orders
+                .ProjectTo<OrderAllViewModel>(_mapper.ConfigurationProvider)
+                .ToArrayAsync();
+
+            return View(orders);
         }
     }
 }

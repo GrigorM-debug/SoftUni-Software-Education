@@ -1,4 +1,7 @@
-﻿namespace FastFood.Core.Controllers
+﻿using FastFood.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace FastFood.Core.Controllers
 {
     using System;
     using System.Linq;
@@ -19,20 +22,39 @@
             _mapper = mapper;
         }
 
-        public IActionResult Create()
+        public async Task<IActionResult> Create()
         {
-            throw new NotImplementedException();
+            var categories = await _context.Categories
+                .ProjectTo<CreateItemViewModel>(_mapper.ConfigurationProvider)
+                .ToArrayAsync();
+
+            return View(categories);
         }
 
         [HttpPost]
-        public IActionResult Create(CreateItemInputModel model)
+        public async Task<IActionResult> Create (CreateItemInputModel model)
         {
-            throw new NotImplementedException();
+            if (!ModelState.IsValid)
+            {
+                return RedirectToAction("Error", "Home");
+            }
+
+            var item = _mapper.Map<Item>(model);
+
+            _context.Items.Add(item);
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("All");
         }
 
-        public IActionResult All()
+        public async Task<IActionResult> All()
         {
-            throw new NotImplementedException();
+            var items = await _context.Items
+                .ProjectTo<ItemsAllViewModels>(_mapper.ConfigurationProvider)
+                .ToArrayAsync();
+
+            return View(items);
         }
     }
 }

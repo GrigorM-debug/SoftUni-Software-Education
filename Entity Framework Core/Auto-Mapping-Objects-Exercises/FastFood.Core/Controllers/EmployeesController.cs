@@ -24,7 +24,11 @@ namespace FastFood.Core.Controllers
         public async Task<IActionResult> Register()
         {
             var positions = await _context.Positions
-                .ProjectTo<RegisterEmployeeViewModel>(_mapper.ConfigurationProvider)
+                .Select(p=> new RegisterEmployeeViewModel()
+                {
+                    PositionId = p.Id,
+                    Name = p.Name,
+                })
                 .ToArrayAsync();
 
             
@@ -39,21 +43,37 @@ namespace FastFood.Core.Controllers
                 return RedirectToAction("Error", "Home");
             }
 
-            var employee = _mapper.Map<Employee>(model);
+            //var employee = _mapper.Map<Employee>(model);
 
+            var employee = new Employee()
+            {
+                Name = model.Name,
+                Age = model.Age,
+                Address = model.Address,
+                PositionId = model.PositionId,
+            };
 
             _context.Employees.Add(employee);
 
             await _context.SaveChangesAsync();
 
-            return View("All", "Employees");
+            return RedirectToAction("All", "Employees");
         }
 
         public async Task<IActionResult> All()
         {
+            //var employees = await _context.Employees
+            //    .ProjectTo<EmployeesAllViewModel>(_mapper.ConfigurationProvider)
+            //    .ToArrayAsync();
+
             var employees = await _context.Employees
-                .ProjectTo<EmployeesAllViewModel>(_mapper.ConfigurationProvider)
-                .ToArrayAsync();
+                .Select(e => new EmployeesAllViewModel()
+                {
+                    Name = e.Name,
+                    Age = e.Age,
+                    Address = e.Address,
+                    Position = e.Position.Name
+                }).ToArrayAsync();
 
             return View(employees);
         }
