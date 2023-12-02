@@ -23,17 +23,15 @@ namespace Medicines.DataProcessor
         {
             var patientsDtos = JsonSerializationExtension.DeserializeFromJson<ImportPatientsDto[]>(jsonString);
 
-            var validPationts = new HashSet<Patient>();
-
-            var medicineIds = context.Medicines.Select(x => x.Id).ToArray();
-
-            var sb = new StringBuilder();
-
+            var patients = new HashSet<Patient>();
+            var result = new StringBuilder();
             foreach (var patientDto in patientsDtos)
             {
-                if (!IsValid(patientDto))
+                if (!IsValid(patientDto)
+                    || !Enum.IsDefined(typeof(AgeGroup), patientDto.AgeGroup)
+                    || !Enum.IsDefined(typeof(Gender), patientDto.Gender))
                 {
-                    sb.AppendLine(ErrorMessage);
+                    result.AppendLine(ErrorMessage);
                     continue;
                 }
 
@@ -44,11 +42,11 @@ namespace Medicines.DataProcessor
                     Gender = (Gender)patientDto.Gender
                 };
 
-                foreach (var medicineId in patientDto.Medicines.Distinct())
+                foreach (var medicineId in patientDto.Medicines)
                 {
-                    if (!medicineIds.Contains(medicineId))
+                    if (patient.PatientsMedicines.Any(pm => pm.MedicineId == medicineId))
                     {
-                        sb.AppendLine(ErrorMessage); 
+                        result.AppendLine(ErrorMessage);
                         continue;
                     }
 
@@ -58,76 +56,80 @@ namespace Medicines.DataProcessor
                         MedicineId = medicineId
                     };
 
-                    if (patient.PatientsMedicines.Contains(patientMedicine))
-                    {
-                        sb.AppendLine(ErrorMessage);
-                        continue;
-                    }
-
                     patient.PatientsMedicines.Add(patientMedicine);
+                    patients.Add(patient);
                 }
 
-                sb.AppendLine(string.Format(SuccessfullyImportedPatient, patient.FullName,
-                    patient.PatientsMedicines.Count));
-
-                validPationts.Add(patient);
+                result.AppendLine(string.Format(SuccessfullyImportedPatient, patient.FullName, patient.PatientsMedicines.Count));
             }
 
-            context.AddRange(validPationts);
-
+            context.Patients.AddRange(patients);
             context.SaveChanges();
 
-            return sb.ToString().TrimEnd();
+            return result.ToString().Trim();
         }
 
         public static string ImportPharmacies(MedicinesContext context, string xmlString)
         {
             var pharmaciesDto = XmlSerializationExtension.DeserializeFromXml<ImportPharmacyDto[]>(xmlString, "Pharmacies");
 
+            var pharmacies = new HashSet<Pharmacy>();
             var result = new StringBuilder();
-
             foreach (var pharmacyDto in pharmaciesDto)
             {
-                if (!IsValid(pharmacyDto))
+                if (!IsValid(pharmacyDto)
+                    || pharmacyDto.IsNonStop != "true"
+                    && pharmacyDto.IsNonStop != "false")
                 {
-                    result.AppendLine("Invalid Data!");
+                    result.AppendLine(ErrorMessage);
                     continue;
                 }
 
-                var hasInvalidMedicine = pharmacyDto.Medicines
-                    .Any(medicineDto => !IsValid(medicineDto) || context.Medicines.Any(m => m.Name == medicineDto.Name && m.Producer == medicineDto.Producer));
-
-                if (hasInvalidMedicine)
+                var pharmacy = new Pharmacy()
                 {
-                    result.AppendLine("Invalid Data!");
-                    continue;
-                }
-
-                var pharmacy = new Pharmacy
-                {
-                    Name = pharmacyDto.Name,
-                    PhoneNumber = pharmacyDto.PhoneNumber,
                     IsNonStop = bool.Parse(pharmacyDto.IsNonStop),
-                    Medicines = pharmacyDto.Medicines
-                        .Select(medicineDto => new Medicine
-                        {
-                            Name = medicineDto.Name,
-                            Price = decimal.Parse(medicineDto.Price),
-                            Category = (Category)medicineDto.Category,
-                            ProductionDate = DateTime.ParseExact(medicineDto.ProductionDate, "yyyy-MM-dd", CultureInfo.InvariantCulture),
-                            ExpiryDate = DateTime.ParseExact(medicineDto.ExpiryDate, "yyyy-MM-dd", CultureInfo.InvariantCulture),
-                            Producer = medicineDto.Producer
-                        })
-                        .ToList()
+                    Name = pharmacyDto.Name,
+                    PhoneNumber = pharmacyDto.PhoneNumber
                 };
 
-                context.Pharmacies.Add(pharmacy);
-                context.SaveChanges();
+                foreach (var medicineDto in pharmacyDto.Medicines)
+                {
+                    DateTime productionDate;
+                    var parseProductionDate = DateTime.TryParseExact(medicineDto.ProductionDate, "yyyy-MM-dd", CultureInfo.InvariantCulture, DateTimeStyles.None, out productionDate);
 
-                result.AppendLine($"Successfully imported pharmacy - {pharmacy.Name} with {pharmacy.Medicines.Count} medicines.");
+                    DateTime expiryDate;
+                    var parseExpiryDate = DateTime.TryParseExact(medicineDto.ExpiryDate, "yyyy-MM-dd", CultureInfo.InvariantCulture, DateTimeStyles.None, out expiryDate);
+
+                    if (!IsValid(medicineDto)
+                        || productionDate >= expiryDate
+                        || pharmacy.Medicines.Any(m => m.Name == medicineDto.Name && m.Producer == medicineDto.Producer)
+                        || !Enum.IsDefined(typeof(Category), medicineDto.Category))
+                    {
+                        result.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    var medicine = new Medicine()
+                    {
+                        Category = (Category)medicineDto.Category,
+                        Name = medicineDto.Name,
+                        Price = decimal.Parse(medicineDto.Price),
+                        ProductionDate = productionDate,
+                        ExpiryDate = expiryDate,
+                        Producer = medicineDto.Producer
+                    };
+
+                    pharmacy.Medicines.Add(medicine);
+                    pharmacies.Add(pharmacy);
+                }
+
+                result.AppendLine(string.Format(SuccessfullyImportedPharmacy, pharmacy.Name, pharmacy.Medicines.Count));
             }
 
-            return result.ToString().TrimEnd();
+            context.Pharmacies.AddRange(pharmacies);
+            context.SaveChanges();
+
+            return result.ToString().Trim();
         }
 
         private static bool IsValid(object dto)

@@ -7,51 +7,53 @@ using Microsoft.EntityFrameworkCore;
 namespace Medicines.DataProcessor
 {
     using Medicines.Data;
+    using Newtonsoft.Json;
 
     public class Serializer
     {
         public static string ExportPatientsWithTheirMedicines(MedicinesContext context, string date)
         {
-            var patiens = context.Patients
-                .AsNoTracking()
-                .Where(patient => patient.PatientsMedicines.Any(medicine => medicine.Medicine.ProductionDate > DateTime.ParseExact(date, "yyyy-MM-dd", CultureInfo.InvariantCulture)))
-                .OrderByDescending(x => x.PatientsMedicines.Count)
-                .ThenBy(x =>x.FullName)
-                .Select(x => new ExportPatientsDto()
+            var parsedDate = DateTime.ParseExact(date, "yyyy-MM-dd", CultureInfo.InvariantCulture);
+
+            var patients = context.Patients
+                .Where(p => p.PatientsMedicines.Any(pm => pm.Medicine.ProductionDate > parsedDate))
+                .Select(p => new ExportPatientsDto()
                 {
-                    Gender = x.Gender.ToString().ToLower(),
-                    Name = x.FullName,
-                    AgeGroup = x.AgeGroup.ToString(),
-                    Medicines = x.PatientsMedicines
-                        .OrderByDescending(x => x.Medicine.ExpiryDate)
-                        .ThenBy(x => x.Medicine.Price)
-                        .Select(p=> new ExportMedicninesDto()
+                    Name = p.FullName,
+                    AgeGroup = p.AgeGroup,
+                    Gender = p.Gender.ToString().ToLower(),
+                    Medicines = p.PatientsMedicines
+                        .Where(pm => pm.Medicine.ProductionDate > parsedDate)
+                        .OrderByDescending(pm => pm.Medicine.ExpiryDate)
+                        .ThenBy(pm => pm.Medicine.Price)
+                        .Select(pm => new ExportMedicinesDto()
                         {
-                            Name = p.Medicine.Name,
-                            Price = p.Medicine.Price.ToString("f2", CultureInfo.InvariantCulture),
-                            Category = p.Medicine.Category.ToString().ToLower(),
-                            Producer = p.Medicine.Producer,
-                            BestBefore = p.Medicine.ExpiryDate.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture)
+                            Category = pm.Medicine.Category.ToString().ToLower(),
+                            Name = pm.Medicine.Name,
+                            Price = pm.Medicine.Price.ToString("F2", CultureInfo.InvariantCulture),
+                            Producer = pm.Medicine.Producer,
+                            BestBefore = pm.Medicine.ExpiryDate.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture)
                         })
                         .ToArray()
                 })
+                .OrderByDescending(p => p.Medicines.Length)
+                .ThenBy(p => p.Name)
                 .ToArray();
 
-            return XmlSerializationExtension.SerializeToXml<ExportPatientsDto[]>(patiens, "Patients");
+            return XmlSerializationExtension.SerializeToXml<ExportPatientsDto[]>(patients, "Patients");
         }
 
         public static string ExportMedicinesFromDesiredCategoryInNonStopPharmacies(MedicinesContext context, int medicineCategory)
         {
             var medicines = context.Medicines
-                .AsNoTracking()
                 .Where(m => m.Category == (Category)medicineCategory && m.Pharmacy.IsNonStop)
-                .OrderBy(x => x.Price)
-                .ThenBy(x => x.Name)
-                .Select(m => new ExportMedicinesDto()
+                .OrderBy(m => m.Price)
+                .ThenBy(m => m.Name)
+                .Select(m => new
                 {
                     Name = m.Name,
-                    Price = m.Price.ToString("f2"),
-                    Pharmacy = new ExportPharmacyDto()
+                    Price = m.Price.ToString("F2"),
+                    Pharmacy = new
                     {
                         Name = m.Pharmacy.Name,
                         PhoneNumber = m.Pharmacy.PhoneNumber
@@ -59,7 +61,9 @@ namespace Medicines.DataProcessor
                 })
                 .ToArray();
 
-            return JsonSerializationExtension.SerializeToJson<ExportMedicinesDto[]>(medicines);
+            var medicinesJson = JsonConvert.SerializeObject(medicines, Newtonsoft.Json.Formatting.Indented);
+
+            return medicinesJson;
         }
     }
 }

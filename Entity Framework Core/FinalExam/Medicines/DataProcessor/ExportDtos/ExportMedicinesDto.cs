@@ -1,25 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace Medicines.DataProcessor.ExportDtos
 {
+    [XmlType("Medicine")]
     public class ExportMedicinesDto
     {
-        public string Name { get; set; }
+        [XmlAttribute("Category")]
+        public string Category { get; set; } = null!;
 
-        public string Price { get; set; }
+        [XmlElement("Name")]
+        public string Name { get; set; } = null!;
 
-        public ExportPharmacyDto Pharmacy { get; set; }
-    }
+        [XmlElement("Price")] 
+        public string Price { get; set; } = null!;
 
-    public class ExportPharmacyDto
-    {
-        public string Name { get; set; }
+        [XmlElement("Producer")]
+        public string Producer { get; set; } = null!;
 
-        public string PhoneNumber { get; set; }
+        [XmlElement("BestBefore")]
+        public string BestBefore { get; set; } = null!;
     }
 }

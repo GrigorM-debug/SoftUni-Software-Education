@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
+using Medicines.Data.Models.Enums;
 
 namespace Medicines.DataProcessor.ExportDtos
 {
@@ -17,28 +18,9 @@ namespace Medicines.DataProcessor.ExportDtos
         public string Name { get; set; }
 
         [XmlElement("AgeGroup")]
-        public string AgeGroup { get; set; }
+        public AgeGroup AgeGroup { get; set; }
 
         [XmlArray("Medicines")]
-        public ExportMedicninesDto[] Medicines { get; set; }
-    }
-
-    [XmlType("Medicine")]
-    public class ExportMedicninesDto
-    {
-        [XmlElement("Name")]
-        public string Name { get; set; }
-
-        [XmlElement("Price")]
-        public string Price { get; set; }
-
-        [XmlElement("Producer")]
-        public string Producer { get; set; }
-
-        [XmlElement("BestBefore")]
-        public string BestBefore { get; set; }
-
-        [XmlAttribute("Category")]
-        public string Category { get; set; }
+        public ExportMedicinesDto[] Medicines { get; set; }
     }
 }
