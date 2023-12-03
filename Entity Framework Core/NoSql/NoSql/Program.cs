@@ -32,7 +32,21 @@ var collection = database.GetCollection<BsonDocument>("articles");
 //collection.InsertOne(newArticle);
 
 
-var updateDefinition = Builders<BsonDocument>.Update.Set("articles.$[].rating",
-    BsonDocument.Parse("{ $toDouble: '$articles.$[].rating' }") + 10);
+//var filter = Builders<BsonDocument>.Filter.Type("articles.rating", BsonType.String);
 
-collection.UpdateMany(new BsonDocument(), updateDefinition);
+//var arrayUpdate = Builders<BsonDocument>.Update.Set("articles.$.rating", 10);
+
+//collection.UpdateMany(filter, arrayUpdate);
+
+var deleteFilter = Builders<BsonDocument>.Filter.Lte("articles.rating", 50);
+collection.DeleteMany(deleteFilter);
+
+// Print names of remaining articles
+var document = collection.Find(new BsonDocument()).FirstOrDefault();
+
+var articlesArray = document["articles"].AsBsonArray;
+
+foreach (var article in articlesArray)
+{
+    Console.WriteLine(article["name"]);
+}
