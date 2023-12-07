@@ -1,0 +1,14 @@
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\bin\Debug\net6.0\EventMi.Infrastructure.deps.json
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\bin\Debug\net6.0\EventMi.Infrastructure.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\bin\Debug\net6.0\EventMi.Infrastructure.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\bin\Debug\net6.0\EventMi.Infrastructure.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\obj\Debug\net6.0\EventMi.Infrastructure.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\obj\Debug\net6.0\EventMi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\obj\Debug\net6.0\EventMi.Infrastructure.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\obj\Debug\net6.0\EventMi.Infrastructure.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\obj\Debug\net6.0\EventMi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\obj\Debug\net6.0\EventMi.Infrastructure.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\obj\Debug\net6.0\refint\EventMi.Infrastructure.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\obj\Debug\net6.0\EventMi.Infrastructure.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\obj\Debug\net6.0\EventMi.Infrastructure.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Infrastructure\obj\Debug\net6.0\ref\EventMi.Infrastructure.dll

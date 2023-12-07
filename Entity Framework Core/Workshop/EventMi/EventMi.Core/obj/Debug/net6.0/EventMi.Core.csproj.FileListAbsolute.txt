@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\bin\Debug\net6.0\EventMi.Core.deps.json
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\bin\Debug\net6.0\EventMi.Core.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\bin\Debug\net6.0\EventMi.Core.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\bin\Debug\net6.0\EventMi.Infrastructure.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\bin\Debug\net6.0\EventMi.Infrastructure.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\obj\Debug\net6.0\EventMi.Core.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\obj\Debug\net6.0\EventMi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\obj\Debug\net6.0\EventMi.Core.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\obj\Debug\net6.0\EventMi.Core.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\obj\Debug\net6.0\EventMi.Core.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\obj\Debug\net6.0\EventMi.Core.csproj.CopyComplete
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\obj\Debug\net6.0\EventMi.Core.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\obj\Debug\net6.0\refint\EventMi.Core.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\obj\Debug\net6.0\EventMi.Core.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Workshop\EventMi\EventMi.Core\obj\Debug\net6.0\ref\EventMi.Core.dll
