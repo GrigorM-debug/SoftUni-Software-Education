@@ -3,7 +3,6 @@ using EventMi.Core.Models;
 using EventMi.Infrastructure.Common;
 using EventMi.Infrastructure.Models;
 using Microsoft.EntityFrameworkCore;
-using EventMi.Core.Exceptions;
 
 namespace EventMi.Core.Services;
 
@@ -29,21 +28,18 @@ public class EventServices : IEventServices
         //    }
         //}
 
-        var exist = _repository.AllReadonly<Event>().Any(e => e.Id != eventModel.Id || e.Id == eventModel.Id && e.Name == eventModel.Name);
+        var exist = _repository.AllReadonly<Event>().Any(e => e.Id != eventModel.Id && e.Name == eventModel.Name);
 
-        if (exist)
-        {
-            throw new ArgumentException(Exceptions.Exceptions.Existing);
-        }
+        if (exist) throw new ArgumentException(Exceptions.Exceptions.Existing);
 
 
-        var newEvent = new Event()
+        var newEvent = new Event
         {
             Name = eventModel.Name,
             Start = eventModel.Start,
             End = eventModel.End,
             Place = eventModel.Place,
-            Description = eventModel.Description,
+            Description = eventModel.Description
         };
 
         await _repository.AddAsync(newEvent);
@@ -62,7 +58,7 @@ public class EventServices : IEventServices
             Start = e.Start,
             End = e.End,
             Place = e.Place,
-            Description = e.Description,
+            Description = e.Description
         });
     }
 
@@ -79,7 +75,7 @@ public class EventServices : IEventServices
             Start = ev.Start,
             End = ev.End,
             Place = ev.Place,
-            Description = ev.Description,
+            Description = ev.Description
         };
     }
 

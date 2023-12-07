@@ -2057,11 +2057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi\\EventMi.csproj",
+      "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMI\\EventMi\\EventMi.csproj",
       "projectName": "EventMi",
-      "projectPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi\\EventMi.csproj",
+      "projectPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMI\\EventMi\\EventMi.csproj",
       "packagesPath": "C:\\Users\\grigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi\\obj\\",
+      "outputPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMI\\EventMi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2078,8 +2078,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi.Core\\EventMi.Core.csproj": {
-              "projectPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi.Core\\EventMi.Core.csproj"
+            "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMI\\EventMi.Core\\EventMi.Core.csproj": {
+              "projectPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMI\\EventMi.Core\\EventMi.Core.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AHLlyYR+kEGTrM+AejuwwdwAkxdDRGmAvHrLHEiB97iyunBtw28cEOCXIY7tM7lYsnhQNAKUFHmEglN8c0abgA==",
+  "dgSpecHash": "IvAea7kKIirB+fKcxgWd6ixYrn7HOyjpx4yDIpQYp+W1z9eUbhbik9V4MQ4ODZK1+14t6nrmOJWXN9D8z45kKw==",
   "success": true,
-  "projectFilePath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi.Infrastructure\\EventMi.Infrastructure.csproj",
+  "projectFilePath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMI\\EventMi.Infrastructure\\EventMi.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grigo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\grigo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

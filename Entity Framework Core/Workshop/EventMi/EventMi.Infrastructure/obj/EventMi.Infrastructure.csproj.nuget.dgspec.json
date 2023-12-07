@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi.Infrastructure\\EventMi.Infrastructure.csproj": {}
+    "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMI\\EventMi.Infrastructure\\EventMi.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi.Infrastructure\\EventMi.Infrastructure.csproj": {
+    "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMI\\EventMi.Infrastructure\\EventMi.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi.Infrastructure\\EventMi.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMI\\EventMi.Infrastructure\\EventMi.Infrastructure.csproj",
         "projectName": "EventMi.Infrastructure",
-        "projectPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi.Infrastructure\\EventMi.Infrastructure.csproj",
+        "projectPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMI\\EventMi.Infrastructure\\EventMi.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\grigo\\.nuget\\packages\\",
         "outputPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",

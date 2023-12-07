@@ -35,6 +35,8 @@
                 <textarea asp-for="Description" class="form-control" aria-required="false" rows="4"></textarea>
                 <span asp-validation-for="Description" class="text-danger"></span>
             </div>
+            <div asp-validation-summary="All" class="text-danger"></div>
+
             <div class="mb-3 text-center">
                 <input class="btn btn-primary" type="submit" value="Add" />
             </div>

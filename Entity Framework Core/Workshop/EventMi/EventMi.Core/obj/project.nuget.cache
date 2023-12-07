@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xoPqGYkhxxrQ1lJwdGpGhSUZmOmnUyaKQu3kjL3kOL3W+eSNqaIGA1kuMarOb3tcgNT669KQpkuYUl8X+qD10Q==",
+  "dgSpecHash": "YfKOyULf8Uker7olWiWEHMo74LTCDB0Qc47kRQzVoqM+3lLpfotNo1gs5rSvdV59JwUBcCacEBHrzY/OrRXA6A==",
   "success": true,
-  "projectFilePath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMi\\EventMi.Core\\EventMi.Core.csproj",
+  "projectFilePath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Workshop\\EventMI\\EventMi.Core\\EventMi.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grigo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\grigo\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
