@@ -22,9 +22,9 @@ public class EventModel
     public DateTime End { get; set; }
 
     [Required(ErrorMessage = UserMessages.Required)]
+    [Display(Name = "Място на провеждане")]
     [StringLength(ValidationConstants.EventPlaceMaxLength, MinimumLength = ValidationConstants.EventPlaceMinLength,
         ErrorMessage = UserMessages.StringLength)]
-    [Display(Name = "Място на провеждане")]
     public string Place { get; set; } = null!;
 
     [Display(Name = "Описание на събитието")]

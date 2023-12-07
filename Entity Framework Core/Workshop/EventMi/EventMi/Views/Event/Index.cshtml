@@ -18,6 +18,7 @@
             <th scope="col">Start</th>
             <th scope="col">End</th>
             <th scope="col">Place</th>
+            <th scope="col">Description</th>
             <th scope="col">Actions</th>
         </tr>
         </thead>
@@ -30,6 +31,7 @@
                 <td>@item.Start</td>
                 <td>@item.End</td>
                 <td>@item.Place</td>
+                <td>@item.Description</td>
                 <td>
                     <div class="d-flex flex-row justify-content-around">
                         <a asp-controller="Event" asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">Details</a>

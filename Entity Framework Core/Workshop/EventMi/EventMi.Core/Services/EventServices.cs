@@ -3,6 +3,7 @@ using EventMi.Core.Models;
 using EventMi.Infrastructure.Common;
 using EventMi.Infrastructure.Models;
 using Microsoft.EntityFrameworkCore;
+using EventMi.Core.Exceptions;
 
 namespace EventMi.Core.Services;
 
@@ -18,12 +19,23 @@ public class EventServices : IEventServices
 
     public async Task<int> CreateEventAsync(EventModel eventModel)
     {
-        if (eventModel.Id > 0)
-        {
-            var exist = _repository.GetById<Event>(eventModel.Id) != null;
+        //if (eventModel.Id > 0)
+        //{
+        //    var exist = _repository.GetById<Event>(eventModel.Id) != null;
 
-            throw new ArgumentException(Exceptions.Exceptions.ExistingEvent);
+        //    if (exist)
+        //    {
+        //        throw new ArgumentException(Exceptions.Exceptions.ExistingEvent);
+        //    }
+        //}
+
+        var exist = _repository.AllReadonly<Event>().Any(e => e.Id != eventModel.Id || e.Id == eventModel.Id && e.Name == eventModel.Name);
+
+        if (exist)
+        {
+            throw new ArgumentException(Exceptions.Exceptions.Existing);
         }
+
 
         var newEvent = new Event()
         {
@@ -59,7 +71,7 @@ public class EventServices : IEventServices
         var ev = await _repository.AllReadonly<Event>()
             .FirstOrDefaultAsync(e => e.Id == eventId);
 
-        if (ev == null) throw new ArgumentException(Exceptions.Exceptions.UnExistingEvent);
+        if (ev == null) throw new ArgumentException(Exceptions.Exceptions.UnExisting);
         return new EventModel
         {
             Id = ev.Id,
@@ -76,7 +88,7 @@ public class EventServices : IEventServices
         var existingEvent = await _repository.All<Event>()
             .FirstOrDefaultAsync(e => e.Id == eventId);
 
-        if (existingEvent == null) throw new ArgumentException(Exceptions.Exceptions.UnExistingEvent);
+        if (existingEvent == null) throw new ArgumentException(Exceptions.Exceptions.UnExisting);
 
         existingEvent.Name = updatedEvent.Name;
         existingEvent.Start = updatedEvent.Start;
@@ -92,7 +104,7 @@ public class EventServices : IEventServices
         var eventToDelete = await _repository.All<Event>()
             .FirstOrDefaultAsync(e => e.Id == eventId);
 
-        if (eventToDelete == null) throw new ArgumentException(Exceptions.Exceptions.UnExistingEvent);
+        if (eventToDelete == null) throw new ArgumentException(Exceptions.Exceptions.UnExisting);
 
         _repository.Delete(eventToDelete);
 

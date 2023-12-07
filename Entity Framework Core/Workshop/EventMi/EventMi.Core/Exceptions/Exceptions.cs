@@ -2,7 +2,7 @@
 
 public static class Exceptions
 {
-    public const string UnExistingEvent = "Събитието вече съществува";
+    public const string Existing = "Събитието вече съществува";
 
-    public const string ExistingEvent = "Събитието не съществува";
+    public const string UnExisting = "Събитието не съществува";
 }
