@@ -1,0 +1,14 @@
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\bin\Debug\net6.0\EventMI.Infrastructure.deps.json
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\bin\Debug\net6.0\EventMI.Infrastructure.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\bin\Debug\net6.0\EventMI.Infrastructure.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\bin\Debug\net6.0\EventMI.Infrastructure.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\obj\Debug\net6.0\EventMI.Infrastructure.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\obj\Debug\net6.0\EventMI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\obj\Debug\net6.0\EventMI.Infrastructure.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\obj\Debug\net6.0\EventMI.Infrastructure.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\obj\Debug\net6.0\EventMI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\obj\Debug\net6.0\EventMI.Infrastructure.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\obj\Debug\net6.0\refint\EventMI.Infrastructure.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\obj\Debug\net6.0\EventMI.Infrastructure.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\obj\Debug\net6.0\EventMI.Infrastructure.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\EventMI\EventMI.Infrastructure\obj\Debug\net6.0\ref\EventMI.Infrastructure.dll

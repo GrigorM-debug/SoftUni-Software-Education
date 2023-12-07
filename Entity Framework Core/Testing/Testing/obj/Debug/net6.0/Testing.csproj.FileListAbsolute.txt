@@ -1,0 +1,15 @@
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\bin\Debug\net6.0\Testing.exe
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\bin\Debug\net6.0\Testing.deps.json
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\bin\Debug\net6.0\Testing.runtimeconfig.json
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\bin\Debug\net6.0\Testing.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\bin\Debug\net6.0\Testing.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\obj\Debug\net6.0\Testing.csproj.AssemblyReference.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\obj\Debug\net6.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\obj\Debug\net6.0\Testing.AssemblyInfoInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\obj\Debug\net6.0\Testing.AssemblyInfo.cs
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\obj\Debug\net6.0\Testing.csproj.CoreCompileInputs.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\obj\Debug\net6.0\Testing.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\obj\Debug\net6.0\refint\Testing.dll
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\obj\Debug\net6.0\Testing.pdb
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\obj\Debug\net6.0\Testing.genruntimeconfig.cache
+C:\Github\SoftUni-Software-Education\Entity Framework Core\Testing\Testing\obj\Debug\net6.0\ref\Testing.dll

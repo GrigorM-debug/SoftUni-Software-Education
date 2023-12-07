@@ -1,0 +1,8 @@
+﻿namespace EventMI.Core.Exceptions;
+
+public static class Exceptions
+{
+    public const string UnExistingEvent = "Събитието вече съществува";
+
+    public const string ExistingEvent = "Събитието не съществува";
+}
