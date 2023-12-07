@@ -25,12 +25,13 @@ public class EventServices : IEventServices
             throw new ArgumentException(Exceptions.Exceptions.ExistingEvent);
         }
 
-        var newEvent = new EventModel
+        var newEvent = new Event()
         {
             Name = eventModel.Name,
             Start = eventModel.Start,
             End = eventModel.End,
-            Place = eventModel.Place
+            Place = eventModel.Place,
+            Description = eventModel.Description,
         };
 
         await _repository.AddAsync(newEvent);
@@ -48,7 +49,8 @@ public class EventServices : IEventServices
             Name = e.Name,
             Start = e.Start,
             End = e.End,
-            Place = e.Place
+            Place = e.Place,
+            Description = e.Description,
         });
     }
 
@@ -64,7 +66,8 @@ public class EventServices : IEventServices
             Name = ev.Name,
             Start = ev.Start,
             End = ev.End,
-            Place = ev.Place
+            Place = ev.Place,
+            Description = ev.Description,
         };
     }
 
@@ -79,6 +82,7 @@ public class EventServices : IEventServices
         existingEvent.Start = updatedEvent.Start;
         existingEvent.End = updatedEvent.End;
         existingEvent.Place = updatedEvent.Place;
+        existingEvent.Description = updatedEvent.Description;
 
         return await _repository.SaveChangesAsync();
     }

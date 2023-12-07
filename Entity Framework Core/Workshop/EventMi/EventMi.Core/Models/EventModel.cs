@@ -26,4 +26,8 @@ public class EventModel
         ErrorMessage = UserMessages.StringLength)]
     [Display(Name = "Място на провеждане")]
     public string Place { get; set; } = null!;
+
+    [Display(Name = "Описание на събитието")]
+    [StringLength(ValidationConstants.EventDescriptionMaxLength, MinimumLength = ValidationConstants.EventDescriptionMinLength, ErrorMessage = UserMessages.StringLength)]
+    public string? Description { get; set; }
 }

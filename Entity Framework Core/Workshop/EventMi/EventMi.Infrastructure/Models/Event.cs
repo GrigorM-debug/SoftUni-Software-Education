@@ -34,5 +34,10 @@ public class Event : IDeletable
     [Comment("Статус на събитието")]
     public bool IsActive { get; set; } = true;
 
-    [Comment("Дата на изтриване")] public DateTime? DeletedOn { get; set; }
+    [Comment("Дата на изтриване")] 
+    public DateTime? DeletedOn { get; set; }
+
+    [Comment("Описание на събитието")]
+    [MaxLength(ValidationConstants.EventDescriptionMaxLength)]
+    public string? Description { get; set; }
 }
