@@ -1,0 +1,41 @@
+body{
+    background-color: #e4e978;
+}
+
+article{
+    padding: 5px 15px;
+    width: 700px;
+    border: 1px solid #b2ad7d;
+    margin: 15px 10px;
+    background-color: #f2f4c0;
+}
+
+/* section {
+    background-color: #f2f4c0;
+} */
+
+section article{
+    background-color: #f2f4c0;
+    width: 700px;
+    margin: 15px 10px;
+    padding: 5px 15px;
+    border: 1px solid #b2ad7d;
+}
+
+section article h1{
+    font-style: italic;
+    color: #4c7658;
+    font-size: 22px;
+}
+
+section article h2{
+    font-style: italic;
+    color: #4c7658;
+    font-size: 19px;
+}
+
+section article p{
+    font-style: italic;
+    color: #4c7658;
+}
+
