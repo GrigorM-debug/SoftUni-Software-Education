@@ -1,0 +1,27 @@
+body{
+    background-color: #f9f7cf;
+    padding: 8px 24px;
+    align-items: center;
+}
+
+header{
+    padding: 15px;
+    background-color: #f2dcbb;
+    width: 480px;
+}
+
+main{
+    padding: 15px;
+    background-color: #f9f7cf;
+    width: 480px;
+}
+
+main > p{
+    font-size: 19px;
+}
+
+footer{
+    padding: 5px 15px;
+    background-color: #f2dcbb;
+    width: 480px;
+}
