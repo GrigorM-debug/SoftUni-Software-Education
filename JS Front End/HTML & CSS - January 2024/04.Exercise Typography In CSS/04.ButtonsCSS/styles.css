@@ -26,3 +26,8 @@ a {
     text-decoration: none;
     color: rgb(251, 251, 251);
 }
+
+a.first-link{
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+}
