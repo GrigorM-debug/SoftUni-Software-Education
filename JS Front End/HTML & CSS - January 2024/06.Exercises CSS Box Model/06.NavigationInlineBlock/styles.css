@@ -1,0 +1,35 @@
+html{
+    font-family: 'Helvetica', sans-serif;
+}
+
+header h1{
+    text-transform: uppercase;
+    margin: 0;
+}
+
+header{
+    border-bottom: solid 2px black;
+    justify-content: space-between;
+    display: flex;
+    align-self: center;
+}
+
+header nav {
+    display: inline-block;
+    margin-right: 30em;
+}
+
+header nav ul{
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+header nav ul li{
+    display: inline;
+}
+
+header nav a{
+    color: lightgreen;
+    text-decoration: none;
+}
