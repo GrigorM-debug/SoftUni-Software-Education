@@ -3,9 +3,11 @@ body{
     background-color: rgb(238, 238, 238);
     margin-left: 4em;
 }
+
 img{
     width: 50%;  
 }
+
 section{
    position: absolute;
    right: -27em;
