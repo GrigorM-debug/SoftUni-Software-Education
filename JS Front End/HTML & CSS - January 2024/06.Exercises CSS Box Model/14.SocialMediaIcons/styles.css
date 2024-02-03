@@ -1,0 +1,46 @@
+ul{
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    display: inline-block;
+    border: 2px solid #CCC;
+    background-color: #CCC;
+    border-radius: 30px;
+    margin: 1em;
+}
+
+a{
+    border-radius: 50%;
+}
+
+svg{
+    fill: black;
+    width: 30px;
+    height: auto;
+    display: block;
+    cursor: pointer;
+    padding: 0.5em;
+}
+
+li:nth-child(1):hover svg{
+    fill: #3f5793;
+}
+
+li:nth-child(2):hover svg{
+    fill: #4a98e9;
+}
+
+li:nth-child(3):hover svg{
+    fill: red;
+}
+
+li:nth-child(4):hover svg{
+    fill: #0a66c2;
+}
+
+li:nth-child(5):hover svg{
+    fill: aqua;
+}
