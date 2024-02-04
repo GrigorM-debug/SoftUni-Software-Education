@@ -21,7 +21,7 @@ aside{
 }
 
 main {
-    width: 50%;
+    width: 60%;
     text-align: left;
     /* display: inline-block; */
     float: left;
@@ -29,7 +29,8 @@ main {
 
 aside{
     /* text-align: right; */
-    width: 50%;
+    width: fit-content;
+    margin-left: 10em;
 }
 
 article{
