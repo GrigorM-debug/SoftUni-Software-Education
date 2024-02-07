@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Layout - Flexbox</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: rgb(238, 238, 238);
+            margin: 3em;
+            display: flex;
+            flex-direction: column;
+        }
+
+        header {
+            border-bottom: 1px solid black;
+            padding-bottom: 0.5em;
+        }
+
+        header h1 {
+            text-transform: uppercase;
+        }
+
+        .page {
+            display: flex;
+            flex-grow: 1;
+        }
+
+        main {
+            flex: 0 0 70%; /* 70% width */
+            margin-right: 1em; /* Add margin between main and aside */
+        }
+
+        aside {
+            flex: 0 0 30%; /* 30% width */
+            background-color: lightgray;
+            padding: 0.5em;
+        }
+
+        article {
+            margin-bottom: 2em; /* Add space between articles */
+        }
+
+        blockquote {
+            font-family: Georgia, serif;
+            font-style: italic;
+            border-left: 3px solid lightgrey;
+            padding-left: 1em;
+            margin-left: auto; /* Align blockquote to the right */
+            margin-top: 0.5em; /* Add space between blockquote and paragraph */
+        }
+
+        .second-article p:nth-child(3) {
+            /* Target the third paragraph of the second article */
+            margin-bottom: 0; /* Remove bottom margin */
+            display: inline-block; /* Display blockquote next to it */
+            vertical-align: top; /* Align blockquote to the top */
+        }
+
+        .second-article blockquote {
+            margin-top: 0; /* Adjust top margin of blockquote */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Site Title</h1>
+    </header>
+
+    <div class="page">
+        <main>
+            <article>
+                <h2>Heading level 1</h2>
+
+                <img class="img1" src="images/Image1.jpg" alt="">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tempus lorem nibh, quis vehicula quam eleifend vel. Sed sagittis urna a commodo fermentum. Donec fringilla volutpat mi, non ultrices dolor ultrices quis. Quisque vel lectus vel dui fermentum ornare. Mauris at suscipit orci. Sed convallis eget nisl ac fermentum. Ut tincidunt dui velit, ut malesuada nulla lobortis at. Morbi in gravida nulla. Donec ut massa imperdiet, pulvinar nisi quis, auctor dolor. Curabitur sed facilisis nibh, a tincidunt lectus. Duis interdum nibh quis porttitor facilisis. In sit amet nulla sed nibh tristique iaculis eu nec metus.</p>
+
+                <p>Aliquam hendrerit egestas orci, at sollicitudin lectus mattis eu. Nunc elementum congue sagittis. Praesent in tempus nisl. Vestibulum consequat dapibus arcu, in ornare felis gravida et. Vestibulum ut diam lacinia, sagittis leo eu, convallis felis. Maecenas sit amet ipsum lobortis, sollicitudin sem a, blandit purus. Nulla vehicula dignissim augue id sagittis. Sed pulvinar erat non fermentum elementum. Quisque volutpat, nunc id congue finibus, dui dolor efficitur nunc, ac interdum lacus lacus in enim. Nullam mattis nulla a magna efficitur, et rhoncus nulla ullamcorper. Mauris fermentum dictum massa vitae porta. Maecenas rutrum augue eu lorem fringilla fringilla. Mauris posuere luctus libero et sodales. Donec posuere pharetra efficitur.</p>
+            </article>
+
+            <article class="second-article">
+                <h2>Heading level 2</h2>
+
+                <img class="img2" src="images/Image2.jpg" alt="">
+                <p>Ut vitae tristique magna. In hac habitasse platea dictumst. Aliquam tempor dolor in ante porta, quis convallis metus laoreet. Ut a magna mauris. Vestibulum blandit ante vitae felis gravida hendrerit. Nulla eleifend vel diam non viverra. Nullam at maximus mi. Integer luctus quis felis vitae ornare. Ut eu consequat libero.</p>
+                <p>Maecenas eleifend sapien felis, quis interdum ex tempor a. Aenean sodales, eros ac fermentum elementum, enim nisi finibus nisi, sed tempus turpis mauris ac quam. Aenean ac leo vel ante sollicitudin consequat in ut augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis sodales odio diam. Phasellus ultricies faucibus massa sit amet pharetra.</p>
+
+                <blockquote>
+                    <p>Proin sit amet est vitae mi porttitor rhoncus sed nec neque. Praesent metus quam, sagittis eu mauris a, pellentesque suscipit justo. In varius tortor a ante feugiat, quis finibus magna blandit.</p>
+                    <p class="author-name">Author Name</p>
+                </blockquote>
+            </article>
+        </main>
+
+        <aside>
+            <h2>Categories</h2>
+            <ul>
+                <li>Stuff</li>
+                <li>Something</li>
+                <li>Important</li>
+                <li>Dogs</li>
+            </ul>
+
+            <h2>Social</h2>
+
+            <ul>
+                <li>Facebook</li>
+                <li>Twitter</li>
+                <li>Google+ really?</li>
+            </ul>
+        </aside>
+    </div>
+</body>
+</html>
