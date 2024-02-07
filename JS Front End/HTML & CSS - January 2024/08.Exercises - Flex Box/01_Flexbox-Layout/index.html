@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox Layout</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        body{
+            background-color: #eee;
+            padding: 5rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2em;
+        }
+
+        body > * {
+            padding: 2rem;
+            background-color: #FFF;
+            border-radius: 0.4rem;
+            color: #000;
+            box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.3);
+        }
+
+        h1{
+            text-transform: uppercase;
+        }
+
+        header, footer{
+            flex: 1 0 100%;
+        }
+
+        main{
+            flex: 1 0 70%;
+        }
+
+        aside{
+            flex: 1 0 auto;
+        }
+
+        main, aside{
+            min-height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Header</h1>
+    </header>
+
+    <main>
+        <h1>Main</h1>
+    </main>
+
+    <aside>
+        <h1>Aside</h1>
+    </aside>
+
+    <footer>
+        <h1>Footer</h1>
+    </footer>
+</body>
+</html>
