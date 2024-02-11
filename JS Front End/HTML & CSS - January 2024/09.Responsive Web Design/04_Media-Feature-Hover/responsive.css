@@ -1,0 +1,6 @@
+@media screen and (pointer: fine){
+    code:hover{
+        color: white;
+        background-color: black;
+    }
+}
