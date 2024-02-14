@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 700px){
+  body {
+    display: block;
+  }
+  header nav {
+    display: block;
+    text-align: center;
+  }
+  nav a {
+    padding: 1em;
+    display: block;
+    text-align: center;
+  }
+}
+
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+body {
+  margin: 0px;
+  font-family: Arial;
+}
+
+header { 
+  text-align: center;
+  padding: 60px;
+  margin: 0px;
+  background-color: #1abc9c;
+  color: white;
+}
+
+nav {
+  background-color: #333;
+  padding: 14px 25px;
+}
+
+nav a {
+  color: white;
+  top: 14px 20px;
+  ruby-align: left;
+  text-decoration: none;
+}
+
+aside {
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+main {
+  background-color: white;
+  padding: 20px;
+}
+
+footer{
+  text-align: center;
+  padding: 20px;
+  background-color: #ddd;
+}
+
+/* TODO Responsive layout - when the screen is less than 700px wide, 
+make the two columns stack on top of each other instead of next to each other */
+
+/* TODO Responsive layout - If the screen is smaller than 700px, 
+display the navigation bar links as block and center the text */
+
