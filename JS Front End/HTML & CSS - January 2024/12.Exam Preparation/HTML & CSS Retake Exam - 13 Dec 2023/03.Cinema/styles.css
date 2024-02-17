@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
 @import url('https://use.fontawesome.com/releases/v5.15.4/css/all.css');
+
 *{
     padding: 0;
     margin: 0;
@@ -12,6 +13,9 @@ html{
 
 body{
     padding: 2em;
+    margin: 0 auto;
+    max-width: 9000px;
+    scroll-behavior: smooth;
 }
 
 img {
@@ -20,8 +24,15 @@ img {
     height: auto;
 }
 
-header{
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+    background-color: white; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
     display: flex;
+    /* justify-content: space-between; */
     justify-content: space-between;
 }
 
@@ -30,10 +41,10 @@ header .title-and-sub-title {
 }
 
 header .title-and-sub-title h2{
-    font-size: 3em;
+    font-size: 2.2em;
     text-transform: uppercase;
     font-weight: bold;
-    border-right: 3px solid lightgrey;
+    border-right: 2px solid lightgrey;
     padding: 0.5em;
 }
 
@@ -41,18 +52,33 @@ header .title-and-sub-title p{
     color: #696969;
     text-align: center;
     padding: 2em;
+    font-size: 12px;
+}
+
+header nav{
+    /* margin-bottom: 1em; */
+    margin-top: 2em;
+    margin-right: 6em;
 }
 
 header nav ul{
     display: flex;
     list-style: none;
-    gap: 1em;
+    gap: 0.2em;
 }
 
 header nav ul li a{
     text-decoration: none;
     text-transform: uppercase;
     color: #696969;
+    background-color: #ECECEC;
+    padding: 1em;
+    font-size: 12px;
+    /* margin: 0 0.3em; */
+}
+
+.media-with-description {
+    margin-top: 0.5em;
 }
 
 .media-with-description p{
@@ -61,24 +87,79 @@ header nav ul li a{
     padding: 4em 6em;
 }
 
+header nav ul li a:hover{
+    color: black;
+    background-color: #56DBB1;
+}
+
 /* TODO: Text with icons */
+.icons-with-info{
+    background-color: #353434;
+    display: flex;
+    padding: 4em;
+    gap: 2em;
+}
+
+.icons-with-info h3{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 1px solid white;
+    padding-bottom: 0.5em;
+    padding-top: 1em;
+    font-size: 10px;
+}
+
+.icons-with-info p{
+    padding: 1em 0;
+    text-align: center;
+    font-size: 10px;
+    color: #5B5956;
+}
+
+.icons-with-info [class*="fa"] {
+    background-color: #56DBB1;
+    color: white;
+    padding: 1em;
+    margin: 1em 0 0.5em 0; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px; 
+    height: 40px; 
+    font-size: 30px; 
+    margin: 0 auto;
+}
+
+/* .icons-with-info [class*="fas"] {
+    font-size: 30px; 
+} */
 
 .text-with-button{
     display: flex;
-    background-color: white;
-    text-align: center;
     flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    margin: 3em 0;
 }
 
 .text-with-button h2{
-    font-size: 25px;    
+    color: #5F5F5F;
+    font-size: 23px;    
 }
 
 .text-with-button p{
-    color: #696969;
+    color: #C3BCB8;
     line-height: 1;
-    font-size: 12px;
+    font-size: 10px;
     padding-bottom: 2em;
+}
+
+.text-with-button .button{
+    padding: 1em 10em;
+    font-size: 12px;
 }
 
 .text-with-button .button{
@@ -87,4 +168,40 @@ header nav ul li a{
     text-decoration: none;
     padding: 1em;
     
+}
+
+.text-container{
+    display: flex;
+    background-color: #353434;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 5em 0.5em;
+}
+
+
+.text-container .container-with-text h3{
+    color: white;
+    /* padding: 2em; */
+}
+
+.text-container .container-with-text p{
+    color: #5F5F5F;
+    font-size: 10px;
+    padding: 2em;
+}
+
+footer{
+    background-color: #1B9772;
+}
+
+footer p{
+    color: #46DBB1;
+    font-size: 10px;
+    text-align: center;
+    padding: 3em 0;
+}
+
+footer span{
+    color: #fff;
 }
