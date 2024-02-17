@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.15.4/css/all.css');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font: 14px/1.5 Ubuntu;
+}
+
+body{
+    padding: 2em;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+header .title-and-sub-title {
+    display: flex;
+}
+
+header .title-and-sub-title h2{
+    font-size: 3em;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-right: 3px solid lightgrey;
+    padding: 0.5em;
+}
+
+header .title-and-sub-title p{
+    color: #696969;
+    text-align: center;
+    padding: 2em;
+}
+
+header nav ul{
+    display: flex;
+    list-style: none;
+    gap: 1em;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #696969;
+}
+
+.media-with-description p{
+    background-color: #56DBB1;
+    text-align: center;
+    padding: 4em 6em;
+}
+
+/* TODO: Text with icons */
+
+.text-with-button{
+    display: flex;
+    background-color: white;
+    text-align: center;
+    flex-direction: column;
+}
+
+.text-with-button h2{
+    font-size: 25px;    
+}
+
+.text-with-button p{
+    color: #696969;
+    line-height: 1;
+    font-size: 12px;
+    padding-bottom: 2em;
+}
+
+.text-with-button .button{
+    color: white;
+    background-color: #974D1B;
+    text-decoration: none;
+    padding: 1em;
+    
+}
