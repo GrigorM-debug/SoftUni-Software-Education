@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 18px/1.5 'Karla', sans-serif;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+body {
+    scroll-behavior: smooth;
+    background-image: url('images/poster.jpg'); 
+    background-size:contain;
+    background-position:top;
+    background-repeat: no-repeat;
+    
+}
+
+body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    z-index: -1; 
+}
+
+h1, h2{
+    font-family: "Cormorant Infant";
+    font-size: 90px;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.site-section.banner {
+    padding-bottom: 12em;
+}
+
+.site-section.banner .container {
+    color: #FFF;
+    text-align: center;
+}
+
+.site-section.banner h2 {
+    font-size: 90px;
+    font-weight: bold;
+    padding-top: 1.5em;
+    margin-bottom: 1em;
+    /* padding-bottom: 3em; */
+}
+
+.site-section.banner p {
+    font-size: 18px;
+    text-align: center;
+    /* font-weight: bold; */
+    /* padding: 0.1em 0; */
+}
+
+.site-section {
+    padding: 2em;
+}
+
+.site-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.site-header nav {
+    z-index: 2; 
+}
+
+.site-header nav ul {
+    display: flex;
+    padding: 1em;
+    gap: 2em;
+}
+
+.site-header nav li {
+    list-style: none;
+    margin-right: 1em;
+}
+
+.site-header nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.site-title {
+    display: flex;
+    align-items: center;
+    padding: 1em;
+    z-index: 2; 
+
+}
+.site-title a {
+    display: block;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    text-indent: -200vw;
+    background-image: url('images/logo.webp');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.italic-text{
+    display: flex;
+    background-color: #F8F0E9;
+    flex-direction: column;
+    margin: 0 auto;
+    gap: 3em;
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* padding: 4em 20em; */
+}
+
+.italic-text h2{
+    font-weight: bold;
+    /* text-align: center; */
+    font-style: italic;
+    font-size: 70px;
+    line-height: 0.8;
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 0 3em;
+    padding-bottom: 1.5em;
+}
+
+.italic-text p{
+    padding-top: 2em;
+    padding-left: 5em;
+    color: #514D76;
+}
+
+.italic-text p{
+    margin-left: 10em;
+    color: #514D76;
+}
+
+.support{
+    background-color: #E14747;
+    color: white;
+    text-align: center;
+    padding: 3em;
+}
+
+.support h3{
+    padding-bottom: 1em;
+    font-size: 25px;
+}
+
+.support p{
+    text-align: center;
+}
+
+.image-section {
+    display: flex;
+    flex-direction: column;
+    background-color: #F8F0E9;
+    gap: 3em;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-section h2{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    max-width: 600px;
+    line-height: 1;
+}
+
+.image-section p{
+    margin: 0 15em;
+    max-width: 600px;
+}
+
+.image-section img{
+    max-width: 640px;
+    margin-top: 3em;
+}
+
+.buttons{
+    display: flex;
+    /* padding-bottom: 3em;
+    margin-top: 0;
+    gap: 3em; */
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttons .button{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    padding: 0.2em 1em;
+    border-radius: 0.2em;
+    text-decoration: none;
+    margin-bottom: 1em;
+}
+
+.buttons #primary-button{
+    /* margin-left: -14em;
+    padding-bottom: 0.2em; */
+    margin-bottom: 0;
+    align-self: flex-start;
+    margin-left: -12em;
+}
+
+.buttons .button:last-child {
+    margin: 3em 0;
+    align-self: center;
+}
+
+.find-container{
+    background-color: #E14747;
+    color: white;
+    text-align: center;
+    padding: 3em;
+    display: flex;
+    flex-direction: column;
+    gap:3em;
+}
+
+.find-container h2{
+    font-size: 70px;
+}
+
+.find-container p{
+    text-align: center;
+    font-size: 18px;
+}
+
+.find-container #localguide{
+    color: black;
+    background-color: #FAD87A;
+    text-decoration: none;
+    border-radius: 10em;
+    padding: 0.5em 1em;
+    margin: 0 auto;
+}
+
+.find-container #localguide a{
+    text-decoration: none;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    background-color: #352B2A;
+    padding: 3em 5em;
+}
+
+footer img{
+    width: 100px;
+    height: 50px;
+}
+
+footer h3{
+    color: white;
+    font-size: 16px;
+}
+
+footer p{
+    font-size: 14px;
+    color: #685A4F;
+}
+
