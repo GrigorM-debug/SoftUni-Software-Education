@@ -12,4 +12,4 @@ function formatGrade(grade){
     }
 }
 
-formatGrade(2.99);
+formatGrade(6);
