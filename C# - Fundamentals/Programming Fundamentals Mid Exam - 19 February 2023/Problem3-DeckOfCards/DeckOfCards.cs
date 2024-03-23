@@ -10,7 +10,7 @@ for (int i = 0; i < n; i++)
         if (cards.Contains(commandInfo[1]))
         {
             Console.WriteLine("Card is already in the deck");
-        }
+        } 
         else
         {
             cards.Add(commandInfo[1]);
