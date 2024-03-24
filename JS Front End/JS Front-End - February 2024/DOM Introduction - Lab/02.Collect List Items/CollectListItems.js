@@ -1,4 +1,4 @@
-function extractText() {
+function extractText(content) {
     const listElements = document.getElementById('items');
     const textAreaElement = document.getElementById('result');
 
