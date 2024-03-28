@@ -52,7 +52,7 @@ namespace Medicines.DataProcessor
                 .Select(m => new
                 {
                     Name = m.Name,
-                    Price = m.Price.ToString("F2"),
+                    Price = m.Price.ToString("F2", CultureInfo.InvariantCulture),
                     Pharmacy = new
                     {
                         Name = m.Pharmacy.Name,

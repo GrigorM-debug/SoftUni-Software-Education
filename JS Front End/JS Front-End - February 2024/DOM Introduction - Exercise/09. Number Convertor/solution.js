@@ -1,6 +1,7 @@
 function solve() {
     const numberInputElement = document.getElementById('input');
-    const selectMenuToElement = document.getElementById('selectMenuTo');    const buttonElement = document.querySelector('button');
+    const selectMenuToElement = document.getElementById('selectMenuTo');    
+    const buttonElement = document.querySelector('button');
     const resultElement = document.getElementById('result');
     
     const binaryOptionElement = selectMenuToElement.querySelector('option');
