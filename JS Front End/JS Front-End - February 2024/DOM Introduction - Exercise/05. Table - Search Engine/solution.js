@@ -9,9 +9,9 @@ function solve() {
       Array.from(trElements)
          .filter(trElement => {
             const tdElements = Array.from(trElement.children);
-            const mathes = tdElements.some(td => td.textContent.toLowerCase().includes(inputElement.value.toLowerCase()));
+            const matches = tdElements.some(td => td.textContent.toLowerCase().includes(inputElement.value.toLowerCase()));
 
-            if(mathes){
+            if(matches){
                trElement.classList.add('select')
             } else{
                trElement.classList.remove('select')
