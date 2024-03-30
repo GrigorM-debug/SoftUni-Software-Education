@@ -1,3 +1,14 @@
 function attachGradientEvents() {
-    console.log('TODO:...');
+    const resultElement = document.getElementById('result');
+    const gradientElement = document.getElementById('gradient');
+
+    gradientElement.addEventListener('mousemove', (event) => {
+        const currWidth = event.offsetX;
+        const elementWidth = event.target.clientWidth;
+
+        const progress = Math.floor((currWidth / elementWidth) * 100);
+        resultElement.textContent = progress + '%';
+    });
+
+    resultElement.textContent = '';
 }
