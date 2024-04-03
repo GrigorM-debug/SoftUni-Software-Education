@@ -10,6 +10,7 @@ function encodeAndDecodeMessages() {
     const encodeAndSendButtonElement = sendMessageDivElement.querySelector('button');
     const decodeAndReadButtonElement = receivedMessageDivElemenr.querySelector('button');
 
+    //Adding Event Listener using Event Delegation
     mainElement.addEventListener('click', (event) => {
         if(event.target.tagName === 'BUTTON'){
             if(event.target.parentElement === sendMessageDivElement){
