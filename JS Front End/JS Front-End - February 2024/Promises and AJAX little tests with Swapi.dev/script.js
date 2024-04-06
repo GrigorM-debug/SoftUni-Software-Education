@@ -29,21 +29,24 @@ function solve() {
         "url": "https://swapi.dev/api/people/5/"
       }
 
-    // fetch(baseURL)
-    //     .then(response => response.json())
-    //     .then(data => console.log(data))
-    //     .catch(errorMessage => console.log(errorMessage))
-    
     fetch(baseURL)
-      .then(response => response.json())
-      .then(datas => {
-            //Printing the names of all the peoples
-            console.log(datas.results)
-            for(const resultObj of Array.from(datas.results)){
-                console.log(resultObj.name)
-            }
-      })
-      .catch(error => console.log(error))
+        .then(response => response.json())
+        .then(data => {
+            const textareaElement = document.getElementById('planets');
+            textareaElement.textContent = JSON.stringify(data.results, null, 2);
+        })
+        .catch(errorMessage => console.log(errorMessage))
+    
+    // fetch(baseURL)
+    //   .then(response => response.json())
+    //   .then(datas => {
+    //         //Printing the names of all the peoples
+    //         console.log(datas.results)
+    //         for(const resultObj of Array.from(datas.results)){
+    //             console.log(resultObj.name)
+    //         }
+    //   })
+    //   .catch(error => console.log(error))
 
     //It works, but in Swapi.dev you can do only GET methods. I try to add new person. 
     // fetch(baseURL, {
