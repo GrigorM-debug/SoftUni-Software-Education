@@ -28,11 +28,6 @@ function loadGifts(){
 }
 
 function createGiftsElements(gift){
-
-    // const giftName = gift.gift;
-    // const forPerson = gift.for;
-    // const price = gift.price;
-
     const divGiftElement = document.createElement('div');
     divGiftElement.classList.add('gift-sock');
 
@@ -101,24 +96,29 @@ function createGiftsElements(gift){
 addButton.addEventListener('click', addGift);
 
 function addGift(){
-    if(inputForElement !== "" && inputGifElement !== "" && inputPriceElement !== ""){
-        const giftToAdd = {
-            gift: inputGifElement.value,
-            for: inputForElement.value,
-            price: inputPriceElement.value
-        }
-        // event.preventDefault();
-        fetch(`${baseURL}`, {
-            method: 'POST',
-            headers:{
-                'content-type': 'application/json',
-            },
-            body: JSON.stringify(giftToAdd)
-        })
-        // clearInputs();
-        loadGifts();
-        clearInputs();
+
+    const giftToAdd = {
+        gift: inputGifElement.value,
+        for: inputForElement.value,
+        price: inputPriceElement.value
     }
+
+    // if (!giftToAdd.gift || !giftToAdd.for || !giftToAdd.price) {
+
+    //     return;
+    // }
+
+    // event.preventDefault();
+    fetch(`${baseURL}`, {
+        method: 'POST',
+        headers:{
+            'content-type': 'application/json',
+        },
+        body: JSON.stringify(giftToAdd)
+    })
+    // clearInputs();
+    loadGifts();
+    clearInputs();
     // loadGifts();
     // clearInputs();
 }
