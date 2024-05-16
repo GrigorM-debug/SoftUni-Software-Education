@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lGpnj2DHKHq/M1JfAgp03t0paVsja+LFg6DeJklw3b3qnxlNqf1vm2IQ3mSJZaOIJh1AIV5BCooxyRWD9FPOzw==",
+  "dgSpecHash": "45hywjNKGx852cfxX/EqviYSE2C1W5yFGbFiddZwmz229jDZRIZEv0tZAhsCiygatQobfYfQsU25Q4PFSMlggg==",
   "success": true,
   "projectFilePath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Advanced Querying - Exercises\\BookShop.Data\\BookShop.Data.csproj",
   "expectedPackageFiles": [

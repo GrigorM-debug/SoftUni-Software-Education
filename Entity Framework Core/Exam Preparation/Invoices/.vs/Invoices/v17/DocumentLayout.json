@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\data\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\data\\invoicescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\invoicescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\dataprocessor\\importdto\\importaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\importdto\\importaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\dataprocessor\\importdto\\importclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\importdto\\importclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\dataprocessor\\importdto\\importinvoicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\importdto\\importinvoicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\dataprocessor\\importdto\\importproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\importdto\\importproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\data\\models\\enums\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\enums\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\dataprocessor\\exportdto\\exportclientswiththeirinvoicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\exportdto\\exportclientswiththeirinvoicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\dataprocessor\\exportdto\\exportproductwithclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\exportdto\\exportproductwithclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\extensions\\xmlserializationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\extensions\\xmlserializationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\extensions\\jsonserilizationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\extensions\\jsonserilizationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\datasets\\invoices.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\datasets\\invoices.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\github\\softuni-software-education\\entity framework core\\exam preparation\\invoices\\invoices\\datasets\\clients.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\datasets\\clients.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoicesContext.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\InvoicesContext.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\InvoicesContext.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\InvoicesContext.cs",
+              "RelativeToolTip": "Invoices\\Data\\InvoicesContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:46:12.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CurrencyType.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:09:04.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Client.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Client.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Client.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:01:28.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Address.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Address.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Address.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA3wA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T12:03:19.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Invoice.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Invoice.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T12:03:13.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportAddressDto.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T16:30:07.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImportClientDto.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T16:30:09.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:01:48.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductClient.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\ProductClient.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\ProductClient.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\ProductClient.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\ProductClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T12:03:16.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Enums\\CategoryType.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Enums\\CategoryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:09:06.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Data\\Configuration.cs",
+              "RelativeToolTip": "Invoices\\Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:46:10.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImportInvoicesDto.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ImportDto\\ImportInvoicesDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportInvoicesDto.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ImportDto\\ImportInvoicesDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportInvoicesDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T14:27:20.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:07:16.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImportProductDto.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T16:30:10.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExportClientsWithTheirInvoicesDto.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ExportDto\\ExportClientsWithTheirInvoicesDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ExportDto\\ExportClientsWithTheirInvoicesDto.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ExportDto\\ExportClientsWithTheirInvoicesDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ExportDto\\ExportClientsWithTheirInvoicesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:08:42.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExportProductWithClientDto.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ExportDto\\ExportProductWithClientDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ExportDto\\ExportProductWithClientDto.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\ExportDto\\ExportProductWithClientDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ExportDto\\ExportProductWithClientDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:08:33.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowJMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T16:30:13.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clients.xml",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Datasets\\clients.xml",
+              "RelativeDocumentMoniker": "Invoices\\Datasets\\clients.xml",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Datasets\\clients.xml",
+              "RelativeToolTip": "Invoices\\Datasets\\clients.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2023-11-27T16:30:55.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "invoices.json",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Datasets\\invoices.json",
+              "RelativeDocumentMoniker": "Invoices\\Datasets\\invoices.json",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Datasets\\invoices.json",
+              "RelativeToolTip": "Invoices\\Datasets\\invoices.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-27T16:31:16.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JsonSerilizationExtension.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Extensions\\JsonSerilizationExtension.cs",
+              "RelativeDocumentMoniker": "Invoices\\Extensions\\JsonSerilizationExtension.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Extensions\\JsonSerilizationExtension.cs",
+              "RelativeToolTip": "Invoices\\Extensions\\JsonSerilizationExtension.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T13:09:57.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "XmlSerializationExtension.cs",
+              "DocumentMoniker": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Extensions\\XmlSerializationExtension.cs",
+              "RelativeDocumentMoniker": "Invoices\\Extensions\\XmlSerializationExtension.cs",
+              "ToolTip": "C:\\Github\\SoftUni-Software-Education\\Entity Framework Core\\Exam Preparation\\Invoices\\Invoices\\Extensions\\XmlSerializationExtension.cs",
+              "RelativeToolTip": "Invoices\\Extensions\\XmlSerializationExtension.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T13:12:39.946Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
