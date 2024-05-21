@@ -41,8 +41,11 @@ module.exports = (req, res) => {
                 return;
             }
 
+            let catBreedsPalceHolder = breeds.map((breed) => `<option value="${breed}">${breed}</option>`);
+            let modifiedData = data.toString().replace('{{catBreeds}}', catBreedsPalceHolder);
+
             res.writeHead(200, { 'Content-Type': 'text/html' });
-            res.write(data);
+            res.write(modifiedData);
             res.end();
         });
     } else if(pathname === '/cats/add-breed' && req.method === 'POST'){
