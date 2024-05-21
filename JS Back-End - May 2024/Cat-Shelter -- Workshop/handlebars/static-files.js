@@ -41,6 +41,8 @@ function getContentType(url) {
         return 'image/jpeg';
     } else if (url.endsWith('.png')) {
         return 'image/png';
+    } else if(url.endsWith('.ico')) {
+        return 'image/x-icon';
     } else {
         return 'application/octet-stream'; // Default content type for unknown file types
     }

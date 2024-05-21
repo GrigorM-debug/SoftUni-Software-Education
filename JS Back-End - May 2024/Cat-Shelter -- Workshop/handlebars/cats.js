@@ -55,7 +55,7 @@ module.exports = (req, res) => {
         req.on('end', () =>{
             let body = qs.parse(formData)
             
-            fs.readFile('../data/breeds.json', (err, data) =>{
+            fs.readFile('./data/breeds.json', (err, data) =>{
                 if(err){
                     throw err;
                 }
@@ -64,14 +64,14 @@ module.exports = (req, res) => {
                 breeds.push(body.breed);
                 let json = JSON.stringify(breeds);
 
-                fs.writeFile('../data/breeds.json', json, 'utf-8', () => console.log('The breed was uploaded successfully !'));
+                fs.writeFile('./data/breeds.json', json, 'utf-8', () => console.log('The new breed was uploaded successfully !'));
             })
 
-            res.writeHead(302, { 'Location': '/' });
+            res.writeHead(302, { 'Location': 'http://localhost:3000/' });
             res.end();
         })
     } else if(pathname === '/cats/add-cat' && req.method === 'POST'){
-        
+
     } else {
         return true;
     }
