@@ -32,7 +32,7 @@ module.exports = (req, res) => {
             path.join(__dirname, '../views/addCat.html')
         );
 
-        fs.readFile(filePath, (err, data) => {
+        fs.readFile('../views/addCat.html', (err, data) => {
             if (err) {
                 console.log(err);
                 res.writeHead(404, { 'Content-Type': 'text/plain' });
@@ -116,7 +116,7 @@ module.exports = (req, res) => {
         let filePath = path.normalize(path.join(__dirname, "../views/editCat.html"));
         const currentCat = cats[Number(pathname.match(/\d+$/g)) - 1];
 
-        fs.readFile(filePath, "utf-8", (err, data) =>{
+        fs.readFile("../views/editCat.html", "utf-8", (err, data) =>{
             if (err) console.log(err)
 
             let modifiedData = data.toString().replace('{{id}}', currentCat.id);
@@ -134,7 +134,7 @@ module.exports = (req, res) => {
         let filePath = path.normalize(path.join(__dirname, "../views/catShelter.html"));
         const currentCat = cats[Number(pathname.match(/\d+$/g)) - 1];
 
-        fs.readFile(filePath, "utf-8", (err, data) =>{
+        fs.readFile("../views/catShelter.html", "utf-8", (err, data) =>{
             if (err) console.log(err)
 
             let modifiedData = data.toString().replace('{{id}}', currentCat.id);
@@ -149,8 +149,8 @@ module.exports = (req, res) => {
         })
         res.end()
     } else if(pathname.includes('/cats-edit') && req.method === 'POST'){
-        let form = new formidable.IncomingForm();           // form is used for processing various form data 
-        form.parse(req, (err, fields, files) => {           // fields - passing info from form fields, files - from preset formidable
+        let form = new formidable.IncomingForm();           
+        form.parse(req, (err, fields, files) => {           
             if (err) throw err;
 
             // move of the uploaded file (in this case - picture)
