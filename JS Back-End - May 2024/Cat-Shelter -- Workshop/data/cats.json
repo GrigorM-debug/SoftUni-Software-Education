@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Pesho",
+    "description": "The most beautiful cat !",
+    "breed": "Birman",
+    "image": "images.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Goshko",
+    "description": "The agriest cat ever. Be careful.",
+    "breed": "Cat From Mars",
+    "image": "istockphoto-525982128-612x612.jpg"
+  }
+]

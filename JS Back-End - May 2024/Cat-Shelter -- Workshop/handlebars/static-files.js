@@ -25,6 +25,21 @@ module.exports = (req, res) => {
         });
 
         return true; 
+    } else if(pathname.endsWith('png') || pathname.endsWith('jpg') || pathname.endsWith('jpeg') || pathname.endsWith('ico') && req.method === 'GET'){
+
+        fs.readFile(`./${pathname}`, (err, data) => {
+            if (err) {
+                console.log(err);
+                res.writeHead(404, { 'Content-Type': 'text/plain' });
+                res.write('404 file not found');
+                res.end();
+                return;
+            }
+
+            res.writeHead(200, { 'Content-Type': getContentType(pathname) });
+            res.write(data);                
+            res.end();
+        });
     }
 
     return false; 
@@ -33,15 +48,15 @@ module.exports = (req, res) => {
 function getContentType(url) {
     if (url.endsWith('.css')) {
         return 'text/css';
-    } else if (url.endsWith('.js')) {
+    } else if (url.endsWith('js')) {
         return 'application/javascript';
     } else if (url.endsWith('.html')) {
         return 'text/html';
-    } else if (url.endsWith('.jpg') || url.endsWith('.jpeg')) {
+    } else if (url.endsWith('jpg') || url.endsWith('jpeg')) {
         return 'image/jpeg';
-    } else if (url.endsWith('.png')) {
+    } else if (url.endsWith('png')) {
         return 'image/png';
-    } else if(url.endsWith('.ico')) {
+    } else if(url.endsWith('ico')) {
         return 'image/x-icon';
     } else {
         return 'application/octet-stream'; // Default content type for unknown file types
