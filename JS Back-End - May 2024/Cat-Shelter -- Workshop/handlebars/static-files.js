@@ -40,6 +40,7 @@ module.exports = (req, res) => {
             res.write(data);                
             res.end();
         });
+        return true;
     }
 
     return false; 

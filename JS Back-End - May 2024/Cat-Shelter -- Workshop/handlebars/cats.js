@@ -32,7 +32,7 @@ module.exports = (req, res) => {
             path.join(__dirname, '../views/addCat.html')
         );
 
-        fs.readFile('../views/addCat.html', (err, data) => {
+        fs.readFile('./views/addCat.html', (err, data) => {
             if (err) {
                 console.log(err);
                 res.writeHead(404, { 'Content-Type': 'text/plain' });
@@ -96,8 +96,9 @@ module.exports = (req, res) => {
                 let allCats = JSON.parse(data);     
                 
                 console.log(fields)
+                const newId = cats.length > 0 ? Number(cats[cats.length - 1].id) + 1 : 1;
                 let newCat = { 
-                    id: cats.length + 1, 
+                    id: newId, 
                     name: fields.name[0],
                     description: fields.description[0],
                     breed: fields.breed[0],
@@ -113,10 +114,19 @@ module.exports = (req, res) => {
             })
         })
     } else if (pathname.includes('/cats-edit') && req.method === 'GET'){
-        let filePath = path.normalize(path.join(__dirname, "../views/editCat.html"));
-        const currentCat = cats[Number(pathname.match(/\d+$/g)) - 1];
+        let filePath = path.normalize(path.join(__dirname, "./views/editCat.html"));
+        const catIdMatch = pathname.match(/\/cats-edit\/(\d+)$/);
+        if (!catIdMatch) {
+            res.writeHead(400, { 'Content-Type': 'text/plain' });
+            res.write('Invalid request');
+            res.end();
+            return;
+        }
 
-        fs.readFile("../views/editCat.html", "utf-8", (err, data) =>{
+        const catId = Number(catIdMatch[1]);
+        const currentCat = cats.find(cat => cat.id === catId);
+
+        fs.readFile("./views/editCat.html", "utf-8", (err, data) =>{
             if (err) console.log(err)
 
             let modifiedData = data.toString().replace('{{id}}', currentCat.id);
@@ -127,27 +137,44 @@ module.exports = (req, res) => {
             modifiedData = modifiedData.replace('{{catBreeds}}', breedsAsOptions.join('/'));
 
             modifiedData = modifiedData.replace('{{breed}}', currentCat.breed);
+
+            res.writeHead(200, { 'Content-Type': 'text/html' });
             res.write(modifiedData);
+            res.end()
         })
-        res.end()
     } else if (pathname.includes('/cats-find-new-home') && req.method === 'GET'){
         let filePath = path.normalize(path.join(__dirname, "../views/catShelter.html"));
-        const currentCat = cats[Number(pathname.match(/\d+$/g)) - 1];
+        const catIdMatch = pathname.match(/\/cats-edit\/(\d+)$/);
+        if (!catIdMatch) {
+            res.writeHead(400, { 'Content-Type': 'text/plain' });
+            res.write('Invalid request');
+            res.end();
+            return;
+        }
 
-        fs.readFile("../views/catShelter.html", "utf-8", (err, data) =>{
+        const catId = Number(catIdMatch[1]);
+        const currentCat = cats.find(cat => cat.id === catId);
+
+        fs.readFile("./views/catShelter.html", "utf-8", (err, data) =>{
             if (err) console.log(err)
+
+            const currentCatImagePath = path.join('../' + './content/images/' + currentCat.image)
 
             let modifiedData = data.toString().replace('{{id}}', currentCat.id);
             modifiedData = modifiedData.replace('{{name}}', currentCat.name);
             modifiedData = modifiedData.replace('{{description}}', currentCat.description);
+            modifiedData = modifiedData.replace('{{img}}', currentCatImagePath);
 
             let breedsAsOptions = breeds.map((b) => `<option value="${b}">${b}</option>`);
             modifiedData = modifiedData.replace('{{catBreeds}}', breedsAsOptions.join('/'));
 
             modifiedData = modifiedData.replace('{{breed}}', currentCat.breed);
+
+            res.writeHead(200, { 'Content-Type': 'text/html' });
+
             res.write(modifiedData);
+            res.end()
         })
-        res.end()
     } else if(pathname.includes('/cats-edit') && req.method === 'POST'){
         let form = new formidable.IncomingForm();           
         form.parse(req, (err, fields, files) => {           
@@ -156,9 +183,6 @@ module.exports = (req, res) => {
             // move of the uploaded file (in this case - picture)
             let oldPath = files.upload[0].filepath;                         // taking them from the default formidable folder
             let newPath = path.normalize(path.join(__dirname, "../content/images/" + files.upload[0].originalFilename));
-            
-            console.log(oldPath);
-            console.log(newPath)
             
             fs.rename(oldPath, newPath, (err) => {                   // transfer     
                 if (err) throw err;
@@ -171,8 +195,9 @@ module.exports = (req, res) => {
                 let allCats = JSON.parse(data);     
                 
                 console.log(fields)
+                const newId = cats.length > 0 ? Number(cats[cats.length - 1].id) + 1 : 1;
                 let newCat = { 
-                    id: cats.length + 1, 
+                    id: newId, 
                     name: fields.name[0],
                     description: fields.description[0],
                     breed: fields.breed[0],
@@ -181,7 +206,7 @@ module.exports = (req, res) => {
                 
                 allCats.push(newCat)  
                 let json = JSON.stringify(allCats, null, 2);                     // set back to JSON
-                fs.writeFile("./data/cats.json",json, "utf-8", () => {          // rewrite the original file with the new cat info
+                fs.writeFile("./data/cats.json", json, "utf-8", () => {          // rewrite the original file with the new cat info
                     res.writeHead(302, { 'Location': 'http://localhost:3000/' });
                     res.end();
                 })
