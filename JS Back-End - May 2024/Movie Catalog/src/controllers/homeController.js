@@ -1,4 +1,4 @@
-const { getAllMovies, getMovieById } = require("../services/movie")
+const { getAllMovies, getMovieById, getMovieByTitle, getMovieByGenre, getMovieByYear, getMovieByTitleByGenreAndYear } = require("../services/movie")
 
 module.exports = {
     homeController: async (req, res) =>{
@@ -20,7 +20,33 @@ module.exports = {
         res.render('details', {movie});
     },
     search: async (req, res) => {
-        //TODO: do the search
-        res.render('search');
+        const movies = await getAllMovies();
+        let moviesFiltered = [];
+        const movieTitle = req.query.title;
+        const movieGenre = req.query.genre;
+        const movieYear = Number(req.query.year);
+
+        if(movieTitle && !movieGenre && !movieYear){
+            moviesFiltered = movies.filter(m => m.title === movieTitle);
+
+            console.log(moviesFiltered)
+            // res.render('search', {movies});
+        } else if (!movieTitle && movieGenre && !movieYear){
+            moviesFiltered = movies.filter(m => m.genre === movieGenre);
+
+            console.log(moviesFiltered)
+            // res.render('search', {movies});
+        } else if (!movieTitle && !movieGenre && movieYear){
+            moviesFiltered = movies.filter(m => m.year === movieYear);
+
+            console.log(moviesFiltered)
+            // res.render('search', {movies});
+        } else{
+            moviesFiltered = movies.filter(m => m.title === movieTitle && m.genre === movieGenre && m.year === movieYear);
+
+            console.log(moviesFiltered)
+        }
+
+        res.render('search', {movies: moviesFiltered});
     }
 }
