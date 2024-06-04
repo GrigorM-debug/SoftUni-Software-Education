@@ -19,7 +19,7 @@ const castSchema = new Schema({
         type: String,
         require: true
     }, 
-    castImageL: {
+    castImage: {
         type: String,
         require: true,
         validate: {
