@@ -2,13 +2,13 @@ const { getAllMovies, getMovieById, getMovieByTitle, getMovieByGenre, getMovieBy
 
 module.exports = {
     homeController: async (req, res) =>{
-        const movies = await getAllMovies();
+        const movies = await getAllMovies().lean();
 
         res.render('home', {movies})
     },
     detailsController: async (req, res) => {
         const movieId = req.params.id;
-        const movie = await getMovieById(movieId)
+        const movie = await getMovieById(movieId).lean();
 
         if(!movie){
             res.render('404');
@@ -20,7 +20,7 @@ module.exports = {
         res.render('details', {movie});
     },
     search: async (req, res) => {
-        const movies = await getAllMovies();
+        const movies = await getAllMovies().lean();
         let moviesFiltered = [];
         const movieTitle = req.query.title;
         const movieGenre = req.query.genre;
