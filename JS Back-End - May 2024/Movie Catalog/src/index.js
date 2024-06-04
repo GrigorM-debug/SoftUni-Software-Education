@@ -7,9 +7,14 @@ const { databaseConfig } = require('../config/databaseConfig');
 const app = express();
 const PORT = 3000;
 
-configExpress(app);
-hbsConfig(app);
-databaseConfig();
-app.use(router)
+//Making this function because the database must start before the server.
+async function start(){
+    await configExpress(app);
+    hbsConfig(app);
+    databaseConfig();
+    app.use(router)
 
-app.listen(PORT, () => console.log(`Server is listening on port: ${PORT}`));
+    app.listen(PORT, () => console.log(`Server is listening on port: ${PORT}`));
+}
+
+start();
