@@ -1,4 +1,5 @@
-const { createMovie } = require("../services/movie")
+const { getAllCast } = require("../services/cast");
+const { createMovie, getMovieById, attachCast} = require("../services/movie")
 
 module.exports = {
     createGet: async (req, res) =>{
@@ -24,5 +25,24 @@ module.exports = {
 
         res.redirect('/')
         // res.redirect('/details/' + result.id);
+    },
+    attachCastGet: async (req, res) =>{
+        const movieId = req.params._id;
+        const movie = await getMovieById(movieId).lean();
+        const casts = await getAllCast().lean()
+
+        if(!movie){
+            res.render('404');
+            return;
+        }
+        res.render('cast-attach', {movie, casts})
+    },
+    attachCastPost: async (req, res) =>{
+        const movieId = req.params._id;
+        const castId = req.body.cast;
+
+        await attachCast(movieId, castId);
+
+        res.redirect(`/cast-attach/${movieId}`);
     }
 }

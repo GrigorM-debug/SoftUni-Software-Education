@@ -7,7 +7,7 @@ module.exports = {
         res.render('home', {movies})
     },
     detailsController: async (req, res) => {
-        const movieId = req.params.id;
+        const movieId = req.params._id;
         const movie = await getMovieById(movieId).lean();
 
         if(!movie){
