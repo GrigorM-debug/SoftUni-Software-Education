@@ -58,5 +58,15 @@
     "imageURL": "/static/img/star-wars-4.jpg",
     "rating": 5,
     "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+  },
+  {
+    "id": "7",
+    "title": "Spider-Man",
+    "genre": "Action",
+    "director": "Sam Raimi",
+    "year": 2002,
+    "imageURL": "/static/img/SpiderMan.jpg",
+    "rating": 5,
+    "description": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy."
   }
 ]
