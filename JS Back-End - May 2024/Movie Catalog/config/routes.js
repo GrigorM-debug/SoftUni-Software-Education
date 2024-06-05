@@ -14,11 +14,11 @@ router.get('/create', createGet);
 router.post('/create', createPost);
 router.get('/cast-create', castGet);
 router.post('/cast-create', castPost);
-router.get('/cast-attach/:_id', attachCastGet)
-router.post('/cast-attach/:_id', attachCastPost)
+router.get('/cast-attach/:_id', attachCastGet);
+router.post('/cast-attach/:_id', attachCastPost);
 router.get('/details/:_id', detailsController);
-router.get('/search', search)
-router.get('*', notFound)
+router.get('/search', search);
+router.get('*', notFound);
 
 
 module.exports = {router}

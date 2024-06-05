@@ -47,6 +47,7 @@ module.exports = {
         //     console.log(moviesFiltered)
         // }
 
+        //Partial search thanks to ChatGpt
         if (movieTitle && !movieGenre && !movieYear) {
             moviesFiltered = movies.filter(m => new RegExp(movieTitle, 'i').test(m.title));
             console.log('Filtered by title:', moviesFiltered);
