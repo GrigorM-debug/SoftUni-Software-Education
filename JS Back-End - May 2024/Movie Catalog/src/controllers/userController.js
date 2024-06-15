@@ -48,9 +48,7 @@ module.exports = {
         }
     },
     logoutGet : (req, res) => {
-
-    },
-    logoutPost: (req, res) => {
-
+        res.clearCookie('token');
+        res.redirect('/');
     }
 }

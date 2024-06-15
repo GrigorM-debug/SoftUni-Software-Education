@@ -6,7 +6,7 @@ const { notFound } = require('../src/controllers/404Controller');
 const {about} = require('../src/controllers/aboutController')
 const {castGet, castPost} = require('../src/controllers/castController')
 const {attachCastGet, attachCastPost} = require('../src/controllers/movieController');
-const { registerGet, registerPost, loginGet, loginPost } = require('../src/controllers/userController');
+const { registerGet, registerPost, loginGet, loginPost, logoutGet } = require('../src/controllers/userController');
 
 const router = Router();
 
@@ -16,6 +16,7 @@ router.get('/register', registerGet);
 router.post('/register', registerPost);
 router.get('/login', loginGet);
 router.post('/login', loginPost);
+router.get('/logout', logoutGet);
 router.get('/create', isAuth(), createGet);
 router.post('/create', isAuth(), createPost);
 router.get('/cast-create', isAuth(), castGet);
