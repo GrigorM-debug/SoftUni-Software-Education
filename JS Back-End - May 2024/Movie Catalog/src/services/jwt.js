@@ -1,6 +1,6 @@
 const jwt = require('jsonwebtoken');
 
-const SECRET = 'I dont know';
+const secret = 'Neshto si';
 
 function signToken(user){
     const payload = {
@@ -8,13 +8,13 @@ function signToken(user){
         email: user.email
     };
 
-    const token = jwt.sign(payload, SECRET);
+    const token = jwt.sign(payload, secret, {expiresIn: '2d'});
 
     return token;
 }
 
 function veritifyToken(token){
-    const verifiedToken = jwt.verify(token, SECRET);
+    const verifiedToken = jwt.verify(token, secret);
 
     return verifiedToken;
 }

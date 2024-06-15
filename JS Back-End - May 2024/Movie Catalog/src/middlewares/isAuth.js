@@ -1,5 +1,5 @@
-module.exports = {
-    isAuth: (req, res, next) => {
+function isAuth() {
+    return (req, res, next) => {
         if(!req.user) {
             return res.redirect('/login');
         }
@@ -7,3 +7,5 @@ module.exports = {
         next();
     }
 }
+
+module.exports = {isAuth}

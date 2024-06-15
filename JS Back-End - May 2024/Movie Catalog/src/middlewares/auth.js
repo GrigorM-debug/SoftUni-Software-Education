@@ -1,8 +1,7 @@
 const { veritifyToken } = require("../services/jwt");
 
-module.exports = {
-    auth: (req, res, next) => {
-        // console.log(req.signedCookies)
+function auth(){
+    return (req, res, next) =>{
         const token = req.cookies['token'];
 
         if(!token) {
@@ -13,8 +12,18 @@ module.exports = {
             const decoded = veritifyToken(token);
             req.user = decoded;
             res.locals.isAuthenticated = true;
+            res.locals.user = decoded;
+
+            next();
         } catch (err) {
             res.clearCookie('token');
+            res.redirect('/login');
         }
     }
 }
+
+module.exports = {auth};
+
+
+
+

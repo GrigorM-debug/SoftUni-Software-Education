@@ -40,7 +40,7 @@ module.exports = {
 
             const token = signToken(user);
 
-            res.cookie('token', token);
+            res.cookie('token', token, { httpOnly: true});
             res.redirect('/');
         } catch(err) {
             res.render('login', { userEmail: email, error: err.message});
@@ -48,7 +48,7 @@ module.exports = {
         }
     },
     logoutGet : (req, res) => {
-        
+
     },
     logoutPost: (req, res) => {
 
