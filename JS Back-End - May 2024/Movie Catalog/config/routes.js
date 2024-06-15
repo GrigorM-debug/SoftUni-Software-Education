@@ -1,3 +1,4 @@
+const {isAuth} = require('../src/middlewares/isAuth');
 const { Router } = require('express');
 const {homeController, detailsController, search} = require('../src/controllers/homeController');
 const {createGet, createPost} = require('../src/controllers/movieController');
@@ -13,17 +14,17 @@ router.get('/', homeController);
 router.get('/about', about);
 router.get('/register', registerGet);
 router.post('/register', registerPost);
-router.get('/login', loginGet);
-router.post('/login', loginPost);
-router.get('/create', createGet);
-router.post('/create', createPost);
-router.get('/cast-create', castGet);
-router.post('/cast-create', castPost);
-router.get('/cast-attach/:_id', attachCastGet);
-router.post('/cast-attach/:_id', attachCastPost);
+router.get('/login', isAuth(), loginGet);
+router.post('/login', isAuth(), loginPost);
+router.get('/create', isAuth(), createGet);
+router.post('/create', isAuth(), createPost);
+router.get('/cast-create', isAuth(), castGet);
+router.post('/cast-create', isAuth(), castPost);
+router.get('/cast-attach/:_id', isAuth(), attachCastGet);
+router.post('/cast-attach/:_id', isAuth(), attachCastPost);
 router.get('/details/:_id', detailsController);
 router.get('/search', search);
 router.get('*', notFound);
 
 
-module.exports = {router}
+module.exports = {router};

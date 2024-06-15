@@ -48,7 +48,7 @@ module.exports = {
         }
     },
     logoutGet : (req, res) => {
-
+        
     },
     logoutPost: (req, res) => {
 
