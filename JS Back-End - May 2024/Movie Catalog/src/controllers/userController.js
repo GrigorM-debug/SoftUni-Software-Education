@@ -1,4 +1,5 @@
-const { register } = require("../services/user");
+const { signToken } = require("../services/jwt");
+const { register, login } = require("../services/user");
 
 module.exports = {
     registerGet: (req, res) => {
@@ -27,7 +28,23 @@ module.exports = {
     loginGet: (req, res) => { 
         res.render('login');
     },
-    loginPost: (req, res) => {
+    loginPost: async (req, res) => {
+        const {email, password} = req.body;
 
+        try{
+            if(!email || !password) {
+                throw new Error('All fields are required !');
+            }
+
+            const user = await login(email, password);
+
+            const token = signToken(user);
+
+            res.cookie('token', token);
+            res.redirect('/');
+        } catch(err) {
+            res.render('login', { userEmail: email, error: err.message});
+            return;
+        }
     }
 }

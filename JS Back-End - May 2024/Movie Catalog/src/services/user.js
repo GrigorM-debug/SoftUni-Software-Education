@@ -7,7 +7,6 @@ async function register(email, password){
 
     if(existingUser){
         throw new Error("Email is already used !");
-        return;
     }
 
     const passwordHashed = await bcrypt.hash(password, 10);
@@ -22,8 +21,20 @@ async function register(email, password){
     return user;
 }
 
-function login(){
+async function login(email, password){
+    const user = await User.findOne({email});
 
+    if(!user){
+        throw new Error("Incorrect email or password");
+    }
+
+    const passwordMatch = await bcrypt.compare(password, user.password);
+
+    if(!passwordMatch){
+        throw new Error("Incorrect email or password");
+    }
+
+    return user;
 }
 
 function logout(){
