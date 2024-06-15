@@ -18,16 +18,14 @@ module.exports = {
 
             const user = await register(email, password);
 
-            //Create token
-
-            res.redirect('/')
+            res.redirect('/login');
         } catch(err){
             res.render('register', { error: err, userEmail: email});
             return;
         }
     }, 
     loginGet: (req, res) => { 
-
+        res.render('login');
     },
     loginPost: (req, res) => {
 
