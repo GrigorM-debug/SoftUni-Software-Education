@@ -1,6 +1,8 @@
+const cookieParser = require('cookie-parser');
 const express = require('express');
 
 function configExpress(app){
+    app.use(cookieParser)
     app.use('/static', express.static('static'));
     app.use(express.urlencoded({extended: true}))
 }
