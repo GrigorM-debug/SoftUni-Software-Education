@@ -19,11 +19,15 @@
                 <li><a href="/">Home</a></li>
                 <li><a href="/search">Search</a></li>
                 <li><a href="/about">About</a></li>
+                
+                {{#if isAuthenticated}}
                 <li><a href="/create">Create Post</a></li>
                 <li><a href="/cast-create">Create Cast</a></li>
+                <li><a href="/logout">Log Out</a></li>
+                {{#else}}
                 <li><a href="/register">Register</a></li>
                 <li><a href="/login">Log In</a></li>
-                <li><a href="/logout">Log Out</a></li>
+                {{#if}}
             </ul>
 
         </nav>

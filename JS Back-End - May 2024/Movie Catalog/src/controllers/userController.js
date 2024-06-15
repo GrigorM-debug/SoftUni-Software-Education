@@ -46,5 +46,11 @@ module.exports = {
             res.render('login', { userEmail: email, error: err.message});
             return;
         }
+    },
+    logoutGet : (req, res) => {
+
+    },
+    logoutPost: (req, res) => {
+
     }
 }

@@ -10,11 +10,13 @@ function signToken(user){
 
     const token = jwt.sign(payload, SECRET);
 
-    return token
+    return token;
 }
 
 function veritifyToken(token){
+    const verifiedToken = jwt.verify(token, SECRET);
 
+    return verifiedToken;
 }
 
 module.exports = {
