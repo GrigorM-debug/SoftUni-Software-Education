@@ -17,6 +17,10 @@ function createMovie(movieData){
     const movie = Movie.create(movieData);
 }
 
+async function updateMovie(movieId, movie) {
+    await Movie.findByIdAndUpdate(movieId, movie)
+}
+
 async function attachCast(movieId, castId){
     const movie = await getMovieById(movieId);
     const cast = await Cast.findById(castId);
@@ -30,4 +34,4 @@ async function attachCast(movieId, castId){
     return movie;
 }
 
-module.exports = {getAllMovies, getMovieById, createMovie, attachCast}
+module.exports = {getAllMovies, getMovieById, createMovie, attachCast, updateMovie}

@@ -1,7 +1,7 @@
 const {isAuth} = require('../src/middlewares/isAuth');
 const { Router } = require('express');
 const {homeController, detailsController, search} = require('../src/controllers/homeController');
-const {createGet, createPost} = require('../src/controllers/movieController');
+const {createGet, createPost, editGet, editPost} = require('../src/controllers/movieController');
 const { notFound } = require('../src/controllers/404Controller');
 const {about} = require('../src/controllers/aboutController')
 const {castGet, castPost} = require('../src/controllers/castController')
@@ -19,6 +19,8 @@ router.post('/login', loginPost);
 router.get('/logout', logoutGet);
 router.get('/create', isAuth(), createGet);
 router.post('/create', isAuth(), createPost);
+router.get('/edit/:_id', isAuth(), editGet);
+router.post('/edit/:_id', isAuth(), editPost);
 router.get('/cast-create', isAuth(), castGet);
 router.post('/cast-create', isAuth(), castPost);
 router.get('/cast-attach/:_id', isAuth(), attachCastGet);

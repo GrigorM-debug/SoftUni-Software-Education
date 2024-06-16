@@ -30,10 +30,10 @@ const movieSchema = new Schema({
         require: true,
         max: 1000
     },
-    creator: [{
+    creator: {
         type: SchemaTypes.ObjectId,
         ref: 'User'
-    }],
+    },
     imageURL: {
         type: String,
         require: true,

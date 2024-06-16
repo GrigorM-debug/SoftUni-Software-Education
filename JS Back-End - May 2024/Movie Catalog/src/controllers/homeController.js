@@ -14,7 +14,9 @@ module.exports = {
             res.render('404');
             return;
         }
-        
+
+        movie.isCreator = req.user && movie.creator._id.toString() == req.user._id;
+
         movie.ratingStars = '★'.repeat(movie.rating);
 
         res.render('details', {movie});
