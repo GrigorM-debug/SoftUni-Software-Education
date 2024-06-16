@@ -1,4 +1,4 @@
-const { getAllMovies, getMovieById, getMovieByTitle, getMovieByGenre, getMovieByYear, getMovieByTitleByGenreAndYear } = require("../services/movie")
+const { getAllMovies, getMovieById} = require("../services/movie")
 
 module.exports = {
     homeController: async (req, res) =>{
