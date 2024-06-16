@@ -21,7 +21,20 @@ module.exports = {
             return;
         }
 
-        const result = await createMovie(req.body)
+        const createrId = res.locals.user._id;
+
+        const movie = {
+            title: req.body.title,
+            genre: req.body.genre,
+            director: req.body.director,
+            year: req.body.year,
+            imageURL: req.body.imageURL,
+            rating: req.body.rating,
+            description: req.body.description,
+            creator: createrId
+        }
+
+        const result = await createMovie(movie);
 
         res.redirect('/')
         // res.redirect('/details/' + result._id);

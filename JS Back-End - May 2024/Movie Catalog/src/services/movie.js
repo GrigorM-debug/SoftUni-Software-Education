@@ -8,7 +8,7 @@ function getAllMovies() {
 }
 
 function getMovieById(movieId){
-    const movie = Movie.findById(movieId).populate('casts');
+    const movie = Movie.findById(movieId).populate('casts').populate('creator');
 
     return movie;
 }

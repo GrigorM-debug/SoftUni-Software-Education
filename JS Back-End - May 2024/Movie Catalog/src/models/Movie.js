@@ -44,10 +44,10 @@ const movieSchema = new Schema({
             message: props => `${props.value} is not a valid URL!`
         }
     },
-    casts: [{
+    casts: {
         type: SchemaTypes.ObjectId,
         ref: 'Cast'
-    }]
+    }
 });
 
 const Movie = model('Movie', movieSchema);
