@@ -1,5 +1,5 @@
 const { getAllCast } = require("../services/cast");
-const { createMovie, getMovieById, attachCast, updateMovie} = require("../services/movie")
+const { createMovie, getMovieById, attachCast, updateMovie, deleteMovie} = require("../services/movie")
 
 module.exports = {
     createGet: (req, res) =>{
@@ -114,5 +114,29 @@ module.exports = {
 
         res.redirect('/')
         // res.redirect('/details/' + result._id);
+    },
+    deleteGet: async (req, res) => {
+        const movie = await getMovieById(req.params._id).lean();
+
+        if(!movie) {
+            return res.status(404).send('Movie not found');
+        }
+
+        const isCreator = movie.creator._id.toString() == req.user._id;
+
+        if(!isCreator){
+            res.redirect('/login');
+            return;
+        }
+
+
+        res.render('delete', {movie});
+    },
+    deletePost: async (req, res) => {
+        const movieId = req.params._id;
+
+        await deleteMovie(movieId);
+
+        res.redirect('/');
     }
 }
