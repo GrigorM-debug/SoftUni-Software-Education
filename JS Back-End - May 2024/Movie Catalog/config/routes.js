@@ -3,8 +3,8 @@ const { Router } = require('express');
 const {homeController, detailsController, search} = require('../src/controllers/homeController');
 const {createGet, createPost, editGet, editPost} = require('../src/controllers/movieController');
 const { notFound } = require('../src/controllers/404Controller');
-const {about} = require('../src/controllers/aboutController')
-const {castGet, castPost} = require('../src/controllers/castController')
+const {about} = require('../src/controllers/aboutController');
+const {castGet, castPost} = require('../src/controllers/castController');
 const {attachCastGet, attachCastPost} = require('../src/controllers/movieController');
 const { registerGet, registerPost, loginGet, loginPost, logoutGet } = require('../src/controllers/userController');
 

@@ -28,27 +28,6 @@ module.exports = {
         const movieGenre = req.query.genre;
         const movieYear = Number(req.query.year);
 
-        // if(movieTitle && !movieGenre && !movieYear){
-        //     moviesFiltered = movies.filter(m => m.title === movieTitle);
-
-        //     console.log(moviesFiltered)
-        //     // res.render('search', {movies});
-        // } else if (!movieTitle && movieGenre && !movieYear){
-        //     moviesFiltered = movies.filter(m => m.genre === movieGenre);
-
-        //     console.log(moviesFiltered)
-        //     // res.render('search', {movies});
-        // } else if (!movieTitle && !movieGenre && movieYear){
-        //     moviesFiltered = movies.filter(m => m.year === movieYear);
-
-        //     console.log(moviesFiltered)
-        //     // res.render('search', {movies});
-        // } else{
-        //     moviesFiltered = movies.filter(m => m.title === movieTitle && m.genre === movieGenre && m.year === movieYear);
-
-        //     console.log(moviesFiltered)
-        // }
-
         //Partial search thanks to ChatGpt
         if (movieTitle && !movieGenre && !movieYear) {
             moviesFiltered = movies.filter(m => new RegExp(movieTitle, 'i').test(m.title));
