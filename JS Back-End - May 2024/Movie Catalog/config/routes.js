@@ -1,4 +1,3 @@
-const {isAuth} = require('../src/middlewares/isAuth');
 const {homeController, detailsController, search} = require('../src/controllers/homeController');
 const {movieRouter} = require('../src/controllers/movieController');
 const { notFound } = require('../src/controllers/404Controller');
