@@ -1,35 +1,26 @@
 const {isAuth} = require('../src/middlewares/isAuth');
-const { Router } = require('express');
 const {homeController, detailsController, search} = require('../src/controllers/homeController');
-const {createGet, createPost, editGet, editPost, deleteGet, deletePost} = require('../src/controllers/movieController');
+const {movieRouter} = require('../src/controllers/movieController');
 const { notFound } = require('../src/controllers/404Controller');
 const {about} = require('../src/controllers/aboutController');
-const {castGet, castPost} = require('../src/controllers/castController');
-const {attachCastGet, attachCastPost} = require('../src/controllers/movieController');
-const { registerGet, registerPost, loginGet, loginPost, logoutGet } = require('../src/controllers/userController');
+const {castRouter} = require('../src/controllers/castController');
+const { userRouter } = require('../src/controllers/userController');
 
-const router = Router();
+function routerConfig(app) {
+    app.get('/', homeController);
+    app.get('/about', about);
 
-router.get('/', homeController);
-router.get('/about', about);
-router.get('/register', registerGet);
-router.post('/register', registerPost);
-router.get('/login', loginGet);
-router.post('/login', loginPost);
-router.get('/logout', logoutGet);
-router.get('/create', isAuth(), createGet);
-router.post('/create', isAuth(), createPost);
-router.get('/edit/:_id', isAuth(), editGet);
-router.post('/edit/:_id', isAuth(), editPost);
-router.get('/delete/:_id', deleteGet);
-router.post('/delete/:_id', deletePost);
-router.get('/cast-create', isAuth(), castGet);
-router.post('/cast-create', isAuth(), castPost);
-router.get('/cast-attach/:_id', isAuth(), attachCastGet);
-router.post('/cast-attach/:_id', isAuth(), attachCastPost);
-router.get('/details/:_id', detailsController);
-router.get('/search', search);
-router.get('*', notFound);
+    
+    app.get('/details/:_id', detailsController);
+    app.get('/search', search);
+    
+    app.use(userRouter);
 
+    app.use(movieRouter);
 
-module.exports = {router};
+    app.use(castRouter);
+
+    app.get('*', notFound);
+}
+
+module.exports = {routerConfig};

@@ -34,11 +34,12 @@ async function login(email, password){
         throw new Error("Incorrect email or password");
     }
 
-    return user;
+    return user
 }
 
 function logout(){
-
+    res.clearCookie('token');
+    res.redirect('/');
 }
 
 module.exports = {register, login, logout};
