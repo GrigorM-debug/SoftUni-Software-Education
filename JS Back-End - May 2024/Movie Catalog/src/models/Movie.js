@@ -3,21 +3,27 @@ const {Schema, model, SchemaTypes} = require('mongoose');
 const movieSchema = new Schema({
     title:{
         type: String,
-        required: true
+        required: true,
+        min: [5, 'Movie title must be at least 5 characters long.'],
+        match: [/^[a-zA-Z0-9\s]+$/, 'Please enter a valid title!']
     },
     genre: {
         type: String,
-        required: true
+        required: true,
+        min: [5, 'Movie genre must be at least 5 characters long.'],
+        match: [/^[a-zA-Z0-9\s]+$/, 'Please enter a valid genre!']
     },
     director: {
         type: String,
-        required: true
+        required: true,
+        min: [5, 'Movie director must be at least 5 characters long.'],
+        match: [/^[a-zA-Z0-9\s]+$/, 'Please enter a valid director!']
     },
     year: {
         type: Number,
         require: true,
         min: 1900,
-        max: 2300
+        max: 2024 
     },
     rating: {
         type: Number,
@@ -28,7 +34,8 @@ const movieSchema = new Schema({
     description: {
         type: String,
         require: true,
-        max: 1000
+        min: 20,
+        match: [/^[a-zA-Z0-9\s]+$/, 'Please enter a valid description!']
     },
     creator: {
         type: SchemaTypes.ObjectId,
@@ -37,12 +44,7 @@ const movieSchema = new Schema({
     imageURL: {
         type: String,
         require: true,
-        validate: {
-            validator: function(value) {
-                return /^(http|https):\/\/[^ "]+$/.test(value);
-            },
-            message: props => `${props.value} is not a valid URL!`
-        }
+        match: [/^(http|https):\/\/[^ "]+$/, 'Please enter a valid URL!']
     },
     casts: {
         type: SchemaTypes.ObjectId,
