@@ -40,15 +40,16 @@ userRouter.get('/login', (req, res) => {
 });
 
 userRouter.post('/login', 
+    userValidations,
     async (req, res) => {
     const {email, password} = req.body;
 
     try{
-        // const validation = validationResult(req);
+        const validation = validationResult(req);
 
-        // if(!validation.isEmpty()){
-        //     throw validation.errors;
-        // }
+        if(!validation.isEmpty()){
+            throw validation.errors;
+        }
 
         const user = await login(email, password);
 

@@ -109,7 +109,7 @@ movieRouter.get('/delete/:_id', isAuth(), async (req, res) =>{
 
         res.render('delete', {movie});
     } catch(err){
-        res.render('delete', {movie, errors: parseError(err).errors});
+        res.redirect('/404');
     }
 });
 
@@ -130,7 +130,7 @@ movieRouter.get('/cast-attach/:_id', isAuth(), async (req, res) =>{
         const movie = await getMovieById(movieId).lean();
         res.render('cast-attach', {movie, casts: castsFiltered})
     } catch (err){
-        res.redirect('404');
+        res.redirect('/404');
         return;
     }
 });
@@ -140,7 +140,6 @@ movieRouter.post('/cast-attach/:_id', isAuth(), async (req, res) =>{
     const castId = req.body.cast;
 
     await attachCast(movieId, castId);
-
     res.redirect(`/details/${movieId}`);
 });
 

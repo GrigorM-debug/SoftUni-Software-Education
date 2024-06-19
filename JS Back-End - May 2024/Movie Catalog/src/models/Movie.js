@@ -46,10 +46,11 @@ const movieSchema = new Schema({
         require: true,
         match: [/^(http|https):\/\/[^ "]+$/, 'Please enter a valid URL!']
     },
-    casts: {
+    casts: [{
         type: SchemaTypes.ObjectId,
-        ref: 'Cast'
-    }
+        ref: 'Cast',
+        default: []
+    }]
 });
 
 const Movie = model('Movie', movieSchema);
