@@ -10,6 +10,11 @@ function getAllMovies() {
 function getMovieById(movieId){
     const movie = Movie.findById(movieId).populate('casts').populate('creator');
 
+    if(!movie) {
+        throw new Error('Movie does not exist!');
+        return;
+    }
+
     return movie;
 }
 
@@ -18,7 +23,7 @@ function createMovie(movieData){
 }
 
 async function updateMovie(movieId, movie) {
-    await Movie.findByIdAndUpdate(movieId, movie)
+    await Movie.findByIdAndUpdate(movieId, movie);
 }
 
 async function deleteMovie(movieId) {
@@ -29,6 +34,7 @@ async function attachCast(movieId, castId){
     const movie = await getMovieById(movieId);
     const cast = await Cast.findById(castId);
 
+    // console.log(movieId, castId)
     cast.movies.push(movie);
     movie.casts.push(cast);
 

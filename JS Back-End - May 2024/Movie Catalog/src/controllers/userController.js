@@ -2,29 +2,35 @@ const { signToken } = require("../services/jwt");
 const { register, login } = require("../services/user");
 const { Router } = require('express');
 
+const {userValidations} = require('../../validations/userValidations');
+const { validationResult, body } = require("express-validator");
+const { parseError } = require("../../utils/errorParser");
+
 const userRouter = Router();
 
 userRouter.get('/register', (req, res) => {
     res.render('register');
 });
 
-userRouter.post('/register', async (req, res) => {
+userRouter.post('/register', 
+    userValidations, 
+    body('repassword').custom(
+        (value, {req}) => value == req.body.password).withMessage('Passwords don\'t match!'),
+    async (req, res) => {
     const {email, password, repassword} = req.body;
 
     try{  
-        if(!email || !password || !repassword) {
-            throw new Error('All fields are required !');
+        const validation = validationResult(req);
+
+        if(!validation.isEmpty()){
+            throw validation.errors;
         }
 
-        if(password != repassword) {
-            throw new Error("Passwords doesn't match !");
-        }
-
-        const user = await register(email, password);
+        await register(email, password);
 
         res.redirect('/login');
     } catch(err){
-        res.render('register', { error: err, userEmail: email});
+        res.render('register', { errors: parseError(err).errors, userEmail: email});
         return;
     }
 });
@@ -33,13 +39,16 @@ userRouter.get('/login', (req, res) => {
     res.render('login');
 });
 
-userRouter.post('/login', async (req, res) => {
+userRouter.post('/login', 
+    async (req, res) => {
     const {email, password} = req.body;
 
     try{
-        if(!email || !password) {
-            throw new Error('All fields are required !');
-        }
+        // const validation = validationResult(req);
+
+        // if(!validation.isEmpty()){
+        //     throw validation.errors;
+        // }
 
         const user = await login(email, password);
 
@@ -48,7 +57,7 @@ userRouter.post('/login', async (req, res) => {
         res.cookie('token', token, { httpOnly: true});
         res.redirect('/');
     } catch(err) {
-        res.render('login', { userEmail: email, error: err.message});
+        res.render('login', { userEmail: email, errors: parseError(err).errors});
         return;
     }
 });

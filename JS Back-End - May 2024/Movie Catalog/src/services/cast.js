@@ -9,6 +9,11 @@ function getAllCast() {
 function getCastById(castId){
     const cast = Cast.findById(castId);
 
+    if(!cast){
+        throw new Error('Cast not found');
+        return;
+    }
+
     return cast;
 }
 

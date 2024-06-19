@@ -1,30 +1,21 @@
 const { isAuth } = require("../middlewares/isAuth");
 const { getAllCast } = require("../services/cast");
+const {parseError} = require("../../utils/errorParser");
 const { createMovie, getMovieById, attachCast, updateMovie, deleteMovie} = require("../services/movie")
-
-const { Router } = require('express');
-
+const {Router} = require('express');
+const { validationResult} = require("express-validator");
+const {movieValidation} = require("../../validations/movieValidation");
 const movieRouter = Router();
 
 movieRouter.get('/create', isAuth(), (req, res) =>{
     res.render('create')
 });
 
-movieRouter.post('/create', isAuth(), async (req, res) =>{
-    const errors = {
-        title: !req.body.title,
-        genre: !req.body.genre,
-        director: !req.body.director,
-        year: !req.body.year,
-        imageURL: !req.body.imageURL,
-        rating: !req.body.rating,
-        description: !req.body.description
-    };
+movieRouter.post('/create', 
+    isAuth(), 
+    movieValidation,
+    async (req, res) => {
     
-    if(Object.values(errors).includes(true)){
-        res.render('create', {movie: req.body, errors})
-        return;
-    }
 
     const createrId = res.locals.user._id;
 
@@ -39,47 +30,44 @@ movieRouter.post('/create', isAuth(), async (req, res) =>{
         creator: createrId
     }
 
-    const result = await createMovie(movie);
+    try{
+        const validation = validationResult(req);
 
-    res.redirect('/')
-    // res.redirect('/details/' + result._id);
+        if(!validation.isEmpty()){
+            throw validation.errors;
+        }
+
+        const result = await createMovie(movie);
+
+        res.redirect('/')
+    } catch(err){
+        res.render('create', {movie: req.body, errors: parseError(err).errors});
+    }
 });
 
-movieRouter.get('/edit/:_id', isAuth(), async (req, res) =>{
-    const movie = await getMovieById(req.params._id).lean();
+movieRouter.get('/edit/:_id', isAuth(), async (req, res) =>{    
+    try {
+        console.log(req.params._id)
+        const movie = await getMovieById(req.params._id).lean();
+        const isCreator = movie.creator._id.toString() == req.user._id;
 
-    if(!movie) {
-        return res.status(404).send('Movie not found');
+        if(!isCreator){
+            res.redirect('/login');
+            return;
+        }
+
+        res.render('edit', {movie});
+    } catch(err){
+        res.render('edit', {movie, errors: parseError(err).errors});
     }
-
-    const isCreator = movie.creator._id.toString() == req.user._id;
-
-    if(!isCreator){
-        res.redirect('/login');
-        return;
-    }
-
-    res.render('edit', {movie});
 });
 
-movieRouter.post('/edit/:_id', isAuth(), async (req, res) =>{
+movieRouter.post('/edit/:_id', 
+    isAuth(),
+    movieValidation,
+    async (req, res) =>{
     const movieId = req.params._id;
 
-    const errors = {
-        title: !req.body.title,
-        genre: !req.body.genre,
-        director: !req.body.director,
-        year: !req.body.year,
-        imageURL: !req.body.imageURL,
-        rating: !req.body.rating,
-        description: !req.body.description
-    };
-    
-    if(Object.values(errors).includes(true)){
-        res.render('edit', {movie: req.body, errors})
-        return;
-    }
-
     const createrId = res.locals.user._id;
 
     const movie = {
@@ -93,28 +81,36 @@ movieRouter.post('/edit/:_id', isAuth(), async (req, res) =>{
         creator: createrId
     }
 
-    const result = await updateMovie(movieId, movie);
+    try {
+        const validation = validationResult(req);
 
-    res.redirect('/')
-    // res.redirect('/details/' + result._id);
+        if(!validation.isEmpty()){
+            throw validation.errors;
+        }
+
+        const result = await updateMovie(movieId, movie);
+        res.redirect('/details/' + movieId);
+    } catch(err){
+        res.render('edit', {movie, errors: parseError(err).errors});
+    }
 });
 
 movieRouter.get('/delete/:_id', isAuth(), async (req, res) =>{
-    const movie = await getMovieById(req.params._id).lean();
 
-    if(!movie) {
-        return res.status(404).send('Movie not found');
+    try{
+        const movie = await getMovieById(req.params._id).lean();
+
+        const isCreator = movie.creator._id.toString() == req.user._id;
+
+        if(!isCreator){
+            res.redirect('/login');
+            return;
+        }
+
+        res.render('delete', {movie});
+    } catch(err){
+        res.render('delete', {movie, errors: parseError(err).errors});
     }
-
-    const isCreator = movie.creator._id.toString() == req.user._id;
-
-    if(!isCreator){
-        res.redirect('/login');
-        return;
-    }
-
-
-    res.render('delete', {movie});
 });
 
 movieRouter.post('/delete/:_id', isAuth(), async (req, res) =>{
@@ -127,18 +123,16 @@ movieRouter.post('/delete/:_id', isAuth(), async (req, res) =>{
 
 movieRouter.get('/cast-attach/:_id', isAuth(), async (req, res) =>{
     const movieId = req.params._id;
-    const movie = await getMovieById(movieId).lean();
     const casts = await getAllCast().lean();
+    const castsFiltered = casts.filter(cast => !cast.movies.some(m => m.toString() === movieId));   
 
-    // Filter out the casts that are already attached to the movie
-    const castsFiltered = casts.filter(cast => !cast.movies.some(m => m.toString() === movieId));
-
-    if(!movie){
-        res.render('404');
+    try {
+        const movie = await getMovieById(movieId).lean();
+        res.render('cast-attach', {movie, casts: castsFiltered})
+    } catch (err){
+        res.redirect('404');
         return;
     }
-
-    res.render('cast-attach', {movie, casts: castsFiltered})
 });
 
 movieRouter.post('/cast-attach/:_id', isAuth(), async (req, res) =>{
@@ -147,7 +141,7 @@ movieRouter.post('/cast-attach/:_id', isAuth(), async (req, res) =>{
 
     await attachCast(movieId, castId);
 
-    res.redirect(`/cast-attach/${movieId}`);
+    res.redirect(`/details/${movieId}`);
 });
 
 module.exports = { movieRouter };
