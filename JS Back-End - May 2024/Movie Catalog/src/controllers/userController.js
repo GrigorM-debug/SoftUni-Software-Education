@@ -17,7 +17,7 @@ userRouter.post('/register',
     body('repassword').custom(
         (value, {req}) => value == req.body.password).withMessage('Passwords don\'t match!'),
     async (req, res) => {
-    const {email, password, repassword} = req.body;
+    const {email, password} = req.body;
 
     try{  
         const validation = validationResult(req);
