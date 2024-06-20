@@ -13,6 +13,16 @@ userRouter.get('/register', (req, res) => {
 
 userRouter.post('/register', 
     userValidations,
+    body('username')
+        .trim()
+        .notEmpty()
+        .withMessage('Username is required !'),
+    
+    body('username')
+        .trim()
+        .isLength({min: 2})
+        .withMessage('Username must at least 2 characters long !'),
+
     body('repassword').custom(
         (value, {req}) => value == req.body.password).withMessage('Passwords don\'t match!'),
     async (req, res) => {
@@ -33,7 +43,7 @@ userRouter.post('/register',
         res.redirect('/login');
 
     } catch(err) {
-        res.render('register', {errors: parseError(err).errors, userEmail: email});
+        res.render('register', {errors: parseError(err).errors, userEmail: email, userUsername: username});
         return;
     }
 });

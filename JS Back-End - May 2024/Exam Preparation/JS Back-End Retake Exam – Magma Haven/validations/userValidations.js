@@ -1,16 +1,6 @@
 const {body} = require('express-validator');
 
 const userValidations = [
-    body('username')
-        .trim()
-        .notEmpty()
-        .withMessage('Username is required !'),
-    
-    body('username')
-        .trim()
-        .isLength({min: 2})
-        .withMessage('Username must at least 2 characters long !'),
-
     body('email')
         .trim()
         .notEmpty()
