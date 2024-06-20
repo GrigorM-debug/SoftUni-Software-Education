@@ -59,9 +59,12 @@ async function voteForVolcano(userId, volcanoId) {
     if(!volcano) {
         throw new Error('Volcano doesn\'t exist !');
     }
+    
+    // //before fix
+    // volcano.voteList.add(user);
 
+    //after almost 2 hours trying to find the bugS
     volcano.voteList.push(user);
-
     await volcano.save();
 }
 
