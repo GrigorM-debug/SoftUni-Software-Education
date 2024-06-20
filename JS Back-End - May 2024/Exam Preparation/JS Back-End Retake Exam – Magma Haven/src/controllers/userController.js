@@ -4,6 +4,8 @@ const { register, login } = require('../services/user');
 const { signToken } = require('../services/jwt');
 const { userValidations } = require('../../validations/userValidations');
 const { body, validationResult } = require('express-validator');
+const { isAuth } = require('../middleweres/isAuth');
+const { voteForVolcano } = require('../services/volcano');
 
 const userRouter = Router();
 
@@ -81,6 +83,23 @@ userRouter.post('/login',
 userRouter.get('/logout', (req, res) => {
     res.clearCookie('token');
     res.redirect('/');
+});
+
+userRouter.post('/vote/:_id', isAuth(), async (req, res) => {
+
+    try{
+        const userId = req.user._id;
+        const volcanoId = req.params._id;
+
+        const volcano = await voteForVolcano(userId, volcanoId);
+
+        res.locals.isVoted = true;
+
+        console.log(volcano)
+        res.redirect('/details/' + volcanoId);
+    } catch(err) {
+        res.redirect('/404');
+    }
 });
 
 module.exports = {userRouter};

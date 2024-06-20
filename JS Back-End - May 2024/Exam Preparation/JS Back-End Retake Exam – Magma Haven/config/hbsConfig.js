@@ -3,7 +3,12 @@ const path = require('path');
 
 function hbsConfig(app){
     const hbs = handlebars.create({
-        extname: '.hbs'
+        extname: '.hbs',
+        helpers: {
+            eq: function (a, b) {
+                return a === b;
+            }
+        }
     });
 
     app.engine('.hbs', hbs.engine);

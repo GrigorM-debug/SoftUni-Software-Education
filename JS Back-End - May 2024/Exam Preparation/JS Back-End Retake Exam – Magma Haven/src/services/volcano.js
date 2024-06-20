@@ -1,3 +1,4 @@
+const { User } = require("../models/User");
 const { Volcano } = require("../models/Volcano");
 
 async function create(newVolcano) {
@@ -16,8 +17,8 @@ function getAllVolcanos(){
     return Volcano.find();
 }
 
-async function getVolcanoById(volcanoId) {
-    const volcano = await Volcano.findById(volcanoId);
+function getVolcanoById(volcanoId) {
+    const volcano = Volcano.findById(volcanoId);
 
     if(!volcano) {
         throw new Error('Volcano doesn\'t exist');
@@ -26,5 +27,47 @@ async function getVolcanoById(volcanoId) {
     return volcano;
 }
 
+async function updateVolcano(volcanoId, newData) {
+    const volcanoExist = await getVolcanoById(volcanoId);
 
-module.exports = {create, getAllVolcanos, getVolcanoById};
+    if(!volcanoExist) {
+        throw new Error('Volcano doesn\'t exist');
+    }
+
+    const volcano = await Volcano.findByIdAndUpdate(volcanoId, newData);
+
+    await volcano.save();
+
+    return volcano;
+}
+
+async function deleteVolcano(volcanoId) {
+    const volcanoExist = await getVolcanoById(volcanoId);
+
+    if(!volcanoExist) {
+        throw new Error('Volcano doesn\'t exist');
+    }
+    const volcano = await Volcano.findByIdAndDelete(volcanoId);
+
+    await volcano.save();
+}
+
+async function voteForVolcano(userId, volcanoId) {
+    const volcano = await getVolcanoById(volcanoId);
+    const user = await User.findById(userId);
+
+
+    if(!volcano) {
+        throw new Error('Volcano doesn\'t exist !');
+    }
+
+    volcano.voteList.add(user);
+
+    console.log(volcano)
+
+    await volcano.save();
+
+    return volcano
+}
+
+module.exports = {create, getAllVolcanos, getVolcanoById, updateVolcano, voteForVolcano, deleteVolcano};

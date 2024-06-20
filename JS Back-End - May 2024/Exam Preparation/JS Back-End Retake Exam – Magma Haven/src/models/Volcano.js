@@ -3,7 +3,7 @@ const {Schema, model, SchemaTypes} = require('mongoose');
 const volcanoSchema = new Schema({
     name: {
         type: String,
-        required: [true, 'Name is required'],
+        required: [true, 'Name is required !'],
         min: [2, 'Name must be at least 2 characters long !']
     },
     location: {
@@ -19,8 +19,8 @@ const volcanoSchema = new Schema({
     lastEruption: {
         type: Number,
         require: [true, 'Year of Last Eruption is required !'],
-        min: [0, "Year of Last Eruption must at least 0 !"],
-        max: [2024, "Year of Last Eruption must at least 0 !"]
+        min: [0, "Year of Last Eruption must at least 0 and max 2024!"],
+        max: [2024, "Year of Last Eruption must at least 0 and max 2024!"]
     },
     image: {
         type: String,

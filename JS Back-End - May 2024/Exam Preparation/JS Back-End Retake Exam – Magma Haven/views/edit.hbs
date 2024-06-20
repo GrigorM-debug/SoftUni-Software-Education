@@ -1,0 +1,42 @@
+<!-- In case of error, you should display div with class "errorContainer" -->
+<!-- You can choose to display the first error or all of them (error message/s in your opinion) -->
+{{#if errors}}
+{{#each errors}}
+<div>
+    <div class="errorContainer">
+        <p>{{this}}</p>
+    </div>
+</div>
+{{/each}}
+{{/if}}
+
+<section id="edit-container">
+    <div class="edit-container-info">
+        <h1>Edit Announcement</h1>
+        <form method="post">
+            <label>Name:</label>
+            <input type="text" id="name" name="name" value="{{volcano.name}}">
+            <label>Location:</label>
+            <input type="text" id="location" name="location" value="{{volcano.location}}">
+            <label>Elevation:</label>
+            <input type="number" id="elevations" name="elevation" value="{{volcano.elevation}}">
+            <label>Year of Last Eruption:</label>
+            <input type="number" id="last-year-eruption" name="lastEruption" value="{{volcano.lastEruption}}">
+            <label>Image:</label>
+            <input type="text" id="image" name="image"
+                value="{{volcano.image}}">
+            <label>Volcano Type:</label>
+            <select id="type" name="type">
+                <option value="Supervolcanoes" {{#if (eq volcano.volcanoType "Supervolcanoes")}}selected{{/if}}>Supervolcanoes</option>
+                <option value="Submarine" {{#if (eq volcano.volcanoType "Submarine")}}selected{{/if}}>Submarine</option>
+                <option value="Subglacial" {{#if (eq volcano.volcanoType "Subglacial")}}selected{{/if}}>Subglacial</option>
+                <option value="Mud" {{#if (eq volcano.volcanoType "Mud")}}selected{{/if}}>Mud</option>
+                <option value="Stratovolcanoes" {{#if (eq volcano.volcanoType "Stratovolcanoes")}}selected{{/if}}>Stratovolcanoes</option>
+                <option value="Shield" {{#if (eq volcano.volcanoType "Shield")}}selected{{/if}}>Shield</option>
+            </select>
+            <label>Description:</label>
+            <textarea id="description" name="description" placeholder="...">{{volcano.description}}</textarea>
+            <input type="submit" id="btn" value="Submit"></input>
+        </form>
+    </div>
+</section>
