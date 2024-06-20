@@ -85,19 +85,18 @@ userRouter.get('/logout', (req, res) => {
     res.redirect('/');
 });
 
-userRouter.post('/vote/:_id', isAuth(), async (req, res) => {
+userRouter.get('/vote/:_id', isAuth(), async (req, res) => {
 
     try{
         const userId = req.user._id;
         const volcanoId = req.params._id;
 
-        const volcano = await voteForVolcano(userId, volcanoId);
+        await voteForVolcano(userId, volcanoId);
 
         res.locals.isVoted = true;
-
-        console.log(volcano)
         res.redirect('/details/' + volcanoId);
     } catch(err) {
+        console.error(err)
         res.redirect('/404');
     }
 });

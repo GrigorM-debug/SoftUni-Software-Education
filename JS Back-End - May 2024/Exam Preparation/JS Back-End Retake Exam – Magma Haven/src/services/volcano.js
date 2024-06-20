@@ -56,18 +56,13 @@ async function voteForVolcano(userId, volcanoId) {
     const volcano = await getVolcanoById(volcanoId);
     const user = await User.findById(userId);
 
-
     if(!volcano) {
         throw new Error('Volcano doesn\'t exist !');
     }
 
-    volcano.voteList.add(user);
-
-    console.log(volcano)
+    volcano.voteList.push(user);
 
     await volcano.save();
-
-    return volcano
 }
 
 module.exports = {create, getAllVolcanos, getVolcanoById, updateVolcano, voteForVolcano, deleteVolcano};
