@@ -1,5 +1,8 @@
+const { getAllVolcanos } = require("../services/volcano");
+
 module.exports = {
-    catalogController: (req, res) => {
-        res.render('catalog');
+    catalogController: async (req, res) => {
+        const volcanos = await getAllVolcanos().lean();
+        res.render('catalog', {volcanos});
     }
 }

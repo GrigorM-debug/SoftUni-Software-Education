@@ -12,8 +12,8 @@ async function create(newVolcano) {
     return volcano;
 }
 
-async function getAllVolcanos(){
-    return await Volcano.find();
+function getAllVolcanos(){
+    return Volcano.find();
 }
 
 async function getVolcanoById(volcanoId) {

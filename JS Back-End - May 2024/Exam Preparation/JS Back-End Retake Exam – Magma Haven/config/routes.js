@@ -1,4 +1,6 @@
-const {homeController, detailsController, searchController} = require('../src/controllers/homeController');
+const {homeController} = require('../src/controllers/homeController');
+const {detailsController} = require('../src/controllers/detailsController');
+const {searchController} = require('../src/controllers/searchController');
 const {catalogController} = require('../src/controllers/catalogController');
 const { notFound } = require('../src/controllers/404Controller');
 const { userRouter } = require('../src/controllers/userController');
