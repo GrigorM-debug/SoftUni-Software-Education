@@ -1,6 +1,6 @@
 const cookieParser = require('cookie-parser');
 const express = require('express');
-const {auth} = require('../src/middlewares/auth');
+const {auth} = require('../src/middleweres/auth');
 
 const secret = 'Neshto si';
 

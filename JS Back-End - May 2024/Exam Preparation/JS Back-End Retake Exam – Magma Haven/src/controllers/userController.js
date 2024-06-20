@@ -70,7 +70,7 @@ userRouter.post('/login',
 
         const token = signToken(user);
 
-        res.cookie('token', token);
+        res.cookie('token', token, { httpOnly: true});
         res.redirect('/');
     } catch(err) {
         res.render('login', {errors: parseError(err).errors, userEmail: email});

@@ -13,6 +13,10 @@ const volcanoSchema = new Schema({
         type: Number,
         required: true
     },
+    lastEruption: {
+        type: Number,
+        require: true
+    },
     image: {
         type: String,
         required: true

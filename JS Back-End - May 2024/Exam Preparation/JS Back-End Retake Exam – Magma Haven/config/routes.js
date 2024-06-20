@@ -2,6 +2,7 @@ const {homeController, detailsController, searchController} = require('../src/co
 const {catalogController} = require('../src/controllers/catalogController');
 const { notFound } = require('../src/controllers/404Controller');
 const { userRouter } = require('../src/controllers/userController');
+const { volcanoRouter } = require('../src/controllers/volcanoController');
 
 function routerConfig(app) {
     app.get('/', homeController);
@@ -10,7 +11,7 @@ function routerConfig(app) {
     app.get('/search', searchController);
 
     app.use(userRouter);
-    
+    app.use(volcanoRouter);
     app.get('*', notFound);
 }
 
