@@ -63,7 +63,7 @@ async function voteForVolcano(userId, volcanoId) {
     // //before fix
     // volcano.voteList.add(user);
 
-    //after almost 2 hours trying to find the bugS
+    //after almost 2 hours trying to find the bug
     volcano.voteList.push(user);
     await volcano.save();
 }
