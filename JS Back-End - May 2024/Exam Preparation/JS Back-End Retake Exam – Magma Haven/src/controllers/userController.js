@@ -2,6 +2,8 @@ const {Router} = require('express');
 const { parseError } = require('../../utils/errorParser');
 const { register, login } = require('../services/user');
 const { signToken } = require('../services/jwt');
+const { userValidations } = require('../../validations/userValidations');
+const { body, validationResult } = require('express-validator');
 
 const userRouter = Router();
 
@@ -9,13 +11,23 @@ userRouter.get('/register', (req, res) => {
     res.render('register');
 });
 
-userRouter.post('/register', async (req, res) => {
+userRouter.post('/register', 
+    userValidations,
+    body('repassword').custom(
+        (value, {req}) => value == req.body.password).withMessage('Passwords don\'t match!'),
+    async (req, res) => {
 
     const username = req.body.username;
     const email = req.body.email;
     const password = req.body.password
 
     try {
+        const validation = validationResult(req);
+
+        if(!validation.isEmpty()){
+            throw validation.errors;
+        }
+
         await register(username, email, password);
 
         res.redirect('/login');
@@ -30,11 +42,20 @@ userRouter.get('/login', (req, res) => {
     res.render('login');
 });
 
-userRouter.post('/login', async (req, res) => {
+userRouter.post('/login',
+    userValidations,    
+    async (req, res) => {
+    
     const email = req.body.email;
     const password = req.body.password;
 
     try {
+        const validation = validationResult(req);
+
+        if(!validation.isEmpty()) {
+            throw validation.errors;
+        }
+
         const user = await login(email, password);
 
         const token = signToken(user);
