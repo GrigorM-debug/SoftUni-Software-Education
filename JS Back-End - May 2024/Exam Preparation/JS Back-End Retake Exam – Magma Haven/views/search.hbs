@@ -4,6 +4,7 @@
     <form class="search-form" method="get">
         <input type="text" class="search-volcano" name="name" placeholder="Search by Name...">
         <select id="type" name="type">
+            <option value="..." selected>...</option>
             <option value="Supervolcanoes">Supervolcanoes</option>
             <option value="Submarine">Submarine</option>
             <option value="Subglacial">Subglacial</option>
@@ -14,30 +15,18 @@
         <button type="submit" class="btn-search">Search</button>
     </form>
 
-    {{#if volcanos}}
     <div class="search-result">
         <div class="search-list">
+            {{#if volcanos}}
             {{#each volcanos}}
-                <div class="volcano">
-                    <div class="volcano-img">
-                        <img src="{{image}}">
-                    </div>
-                    <div class="volcano-info">
-                        <h1>{{this.name}}</h1>
-                        <p><span>Location: </span>{{location}}</p>
-                        <p><span>Volcano Type: </span>{{volcanoType}}</p>
-                    </div>
-
-                    <a href="/details/{{this._id}}" class="btn-details">Details</a>
-                </div>
+                {{> volcano}}
             {{/each}}
-
+            {{else}}
+             <div class="no-match">
+                <p>No match was found!</p>
+            </div>
+            {{/if}}
         </div>
 
     </div>
-    {{else}}
-    <div class="no-match">
-        <p>No match was found!</p>
-    </div>
-    {{/if}}
 </section>
