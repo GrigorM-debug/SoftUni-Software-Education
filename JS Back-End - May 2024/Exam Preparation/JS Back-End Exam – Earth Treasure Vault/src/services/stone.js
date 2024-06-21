@@ -60,16 +60,14 @@ async function deleteStone(stoneId) {
     await Stone.findByIdAndDelete(stoneId);
 }
 
-async function likeStone(userId, stoneId) {
-    const stoneForLike = await Stone.findOne({_id: stoneId});
-    // const user = await User.findById(userId);
+async function likeStone(stoneId, userId) {
+    const stoneForLike = await getById(stoneId);
 
-    console.log(stoneForLike)
     if(!stoneForLike) {
         throw new Error('Stone doesn\'t exist');
     }
 
-    if(stoneForLike.likedList.some(ls => ls._id == user._id)) {
+    if(stoneForLike.likedList.some(ls => ls._id == userId)) {
         throw new Error('Stone is already liked !');
     }
 

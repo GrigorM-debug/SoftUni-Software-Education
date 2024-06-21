@@ -6,7 +6,7 @@ module.exports = {
         let stonesFiltered = [];
         const stoneName = req.query.name;
         
-        console.log(stoneName)
+        // console.log(stoneName)
 
         //Partial search thanks to ChatGpt
         if (stoneName) {

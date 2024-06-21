@@ -68,13 +68,13 @@ userRouter.post('/login',
 });
 
 userRouter.get('/like/:_id', isUser(), async (req, res) => {
-    // console.log(req.params._id)
+    const stoneId = req.params._id;
+    const userId = req.user._id;
     try {
-        await likeStone(req.params._id, req.user._id);
+        await likeStone(stoneId, userId);
 
         res.redirect('/details/' + req.params._id);
     } catch (err) {
-        console.error(err)
         res.redirect('/404');
     }
 })
