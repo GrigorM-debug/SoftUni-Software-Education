@@ -38,6 +38,28 @@ function getById(stoneId) {
     return stone;
 }
 
+async function updateStone(stoneId, newData) {
+    const stone = await getById(stoneId);
+
+    if(!stone) {
+        throw new Error('Stone doesn\'t exist !');
+    }
+
+    const result = await Stone.findByIdAndUpdate(stoneId, newData);
+
+    await result.save();
+}
+
+async function deleteStone(stoneId) {
+    const stone = await getById(stoneId);
+
+    if(!stone) {
+        throw new Error('Stone doesn\'t exist !');
+    }
+
+    await Stone.findByIdAndDelete(stoneId);
+}
+
 async function likeStone(userId, stoneId) {
     const stoneForLike = await Stone.findOne({_id: stoneId});
     const user = await User.findById(userId);
@@ -61,5 +83,7 @@ module.exports = {
     getAll,
     getById,
     getLast3Added,
-    likeStone
+    likeStone,
+    updateStone,
+    deleteStone
 }

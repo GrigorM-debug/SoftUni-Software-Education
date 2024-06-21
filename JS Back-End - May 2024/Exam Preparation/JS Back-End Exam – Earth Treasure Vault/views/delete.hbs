@@ -1,0 +1,20 @@
+<main class="edit">
+    <!-- Edit Page (Only for logged-in users) -->
+    <section id="edit">
+        <div class="form">
+            <h2>Delete item</h2>
+            <form class="edit-form" method="post">
+                <input type="text" name="name" id="name" placeholder="{{stone.name}}"/>
+                <input type="text" name="category" id="category" placeholder="{{stone.category}}"  />
+                <input type="text" name="color" id="color" placeholder="{{stone.color}}" />
+                <input type="text" name="image" id="stone-img" placeholder="{{stone.image}}" />
+                <input type="text" name="location" id="location" placeholder="{{stone.location}}" />
+                <input type="text" name="formula" id="formula" placeholder="{{stone.formula}}"/>
+                <textarea id="description" placeholder="{{stone.description}}"
+                    name="description"></textarea>
+                <a href="/details/{{stone._id}}">Cancel</a>
+                <button type="submit">Delete</button>
+            </form>
+        </div>
+    </section>
+</main>

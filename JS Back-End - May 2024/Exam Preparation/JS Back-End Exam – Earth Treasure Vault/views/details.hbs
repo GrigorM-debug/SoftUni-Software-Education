@@ -34,8 +34,8 @@
             <!--Edit and Delete are only for creator-->
             {{#if isCreator}}
             <div id="action-buttons">
-                <a href="#" id="edit-btn">Edit</a>
-                <a href="#" id="delete-btn">Delete</a>
+                <a href="/edit/{{stone._id}}" id="edit-btn">Edit</a>
+                <a href="/delete/{{stone._id}}" id="delete-btn">Delete</a>
             </div>
             {{else}}
             {{!-- {{else}} --}}
