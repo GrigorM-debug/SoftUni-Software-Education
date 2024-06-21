@@ -4,7 +4,7 @@ const { register, login } = require('../services/user');
 const { signToken } = require('../services/jwt');
 const { userValidations } = require('../../validations/userValidations');
 const { body, validationResult } = require('express-validator');
-const { isAuth, isGuest } = require('../middleweres/isAuth');
+const { isUser, isGuest } = require('../middleweres/guards');
 const { voteForVolcano } = require('../services/volcano');
 
 const userRouter = Router();
@@ -87,7 +87,7 @@ userRouter.get('/logout', (req, res) => {
     res.redirect('/');
 });
 
-userRouter.get('/vote/:_id', isAuth(), async (req, res) => {
+userRouter.get('/vote/:_id', isUser(), async (req, res) => {
 
     try{
         const userId = req.user._id;

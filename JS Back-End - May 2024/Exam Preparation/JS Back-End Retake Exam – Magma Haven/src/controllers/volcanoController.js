@@ -1,5 +1,5 @@
 const {Router} = require('express');
-const { isAuth } = require('../middleweres/isAuth');
+const { isAuth } = require('../middleweres/guards');
 const { create, getVolcanoById, updateVolcano, deleteVolcano } = require('../services/volcano');
 const {parseError} = require('../../utils/errorParser');
 const { volcanoValidations } = require('../../validations/volcanoValidation');
