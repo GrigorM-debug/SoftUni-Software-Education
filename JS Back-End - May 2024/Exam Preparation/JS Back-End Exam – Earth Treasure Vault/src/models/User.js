@@ -3,11 +3,14 @@ const {Schema, SchemaTypes, model} = require('mongoose');
 const userSchema = new Schema({
     email: {
         type: String,
-        required: [true, 'Email is required !']
+        required: [true, 'Email is required !'],
+        minlength: [10, 'Email must at least 10 characters long !'],
+        unique: true
     },
     password: {
         type: String,
-        required: [true, 'Password is required !']
+        required: [true, 'Password is required !'],
+        minlength: [4, 'Password must be at least 4 characters long !']
     }
 });
 

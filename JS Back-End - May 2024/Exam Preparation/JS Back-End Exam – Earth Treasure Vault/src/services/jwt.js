@@ -14,7 +14,7 @@ function signToken(userData) {
 }
 
 function verifyToken(token) {
-    const verifiedTokenData = jwt.verify(token);
+    const verifiedTokenData = jwt.verify(token, secret);
 
     return verifiedTokenData;
 }
