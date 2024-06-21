@@ -15,8 +15,14 @@ async function create(newStoneData) {
     return result;
 }
 
-function getAll() {
+function getLast3Added() {
     const stones = Stone.find().sort({_id: -1}).limit(3);
+
+    return stones;
+}
+
+function getAll() {
+    const stones = Stone.find();
 
     return stones;
 }
@@ -36,5 +42,6 @@ async function getById(stoneId) {
 module.exports = {
     create,
     getAll,
-    getById
+    getById,
+    getLast3Added
 }

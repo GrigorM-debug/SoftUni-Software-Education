@@ -1,5 +1,9 @@
+const { getAll } = require("../services/stone")
+
 module.exports ={
-    dashboardController: (req, res) => {
-        
+    dashboardController: async (req, res) => {
+        const stones = await getAll().lean();
+
+        res.render('dashboard', {stones});
     }
 }
