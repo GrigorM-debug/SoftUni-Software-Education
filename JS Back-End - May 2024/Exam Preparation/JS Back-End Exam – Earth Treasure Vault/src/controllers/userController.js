@@ -4,6 +4,8 @@ const {parseError} = require('../../util/errorParser');
 const { register, login } = require('../services/user');
 const { body, validationResult } = require('express-validator');
 const { signToken } = require('../services/jwt');
+const { error } = require('console');
+const { likeStone } = require('../services/stone');
 
 const userRouter = Router();
 
@@ -64,6 +66,18 @@ userRouter.post('/login',
         res.render('login', {errors: parseError(err).errors, userEmail: req.body.email})
     }
 });
+
+userRouter.get('/like/:_id', isUser(), async (req, res) => {
+    // console.log(req.params._id)
+    try {
+        await likeStone(req.params._id, req.user._id);
+
+        res.redirect('/details/' + req.params._id);
+    } catch (err) {
+        console.error(err)
+        res.redirect('/404');
+    }
+})
 
 userRouter.get('/logout', (req, res) => {
     res.clearCookie('token');

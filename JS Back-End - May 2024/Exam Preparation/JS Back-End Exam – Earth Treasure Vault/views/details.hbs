@@ -4,7 +4,7 @@
         <div id="details-wrapper">
             <p id="details-title">Name: {{stone.name}}</p>
             <div id="img-wrapper">
-                <img src="/static/images/beryl.webp" />
+                <img src="{{stone.image}}" />
             </div>
             <div id="info-wrapper">
                 <table>
@@ -30,15 +30,21 @@
                 <p>Description: <span id="details-description">{{stone.description}}</span></p>
             </div>
 
+            {{#if isAuthenticated}}
             <!--Edit and Delete are only for creator-->
             {{#if isCreator}}
             <div id="action-buttons">
                 <a href="#" id="edit-btn">Edit</a>
                 <a href="#" id="delete-btn">Delete</a>
             </div>
-            {{/else}}
-            <a href="#" id="like-btn">Like</a>
+            {{else}}
+            {{!-- {{else}} --}}
+            {{#if isLiked}}
             <p id="already-liked">You already liked this stone!</p>
+            {{else}}
+            <a href="/like/{{stone._id}}" id="like-btn">Like</a>
+            {{/if}}
+            {{/if}}
             {{/if}}
         </div>
     </section>

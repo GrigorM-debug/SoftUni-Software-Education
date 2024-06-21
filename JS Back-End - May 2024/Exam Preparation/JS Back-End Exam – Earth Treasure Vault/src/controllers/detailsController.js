@@ -8,8 +8,10 @@ module.exports = {
 
             const isCreator = req.user && stone.owner == req.user._id;
 
+            const isLiked = req.user && stone.likedList.some(l => l._id == req.user._id);
+
             //Todo isLike
-            res.render('details', {stone, isCreator})
+            res.render('details', {stone, isCreator, isLiked})
         } catch(err){
             res.redirect('/404');
         }

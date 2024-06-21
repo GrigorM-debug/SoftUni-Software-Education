@@ -1,4 +1,5 @@
 const {Stone} = require('../models/Stone');
+const { User } = require('../models/User');
 
 async function create(newStoneData) {
     const stoneExisting = await Stone.findOne({name: newStoneData.name});
@@ -27,8 +28,8 @@ function getAll() {
     return stones;
 }
 
-async function getById(stoneId) {
-    const stone = await Stone.findById(stoneId);
+function getById(stoneId) {
+    const stone = Stone.findById(stoneId);
 
     if(!stone) {
         throw new Error('Stone doesn\'t exist !');
@@ -37,11 +38,28 @@ async function getById(stoneId) {
     return stone;
 }
 
+async function likeStone(userId, stoneId) {
+    const stoneForLike = await Stone.findOne({_id: stoneId});
+    const user = await User.findById(userId);
 
+    console.log(user, stoneForLike)
+    if(!stoneForLike) {
+        throw new Error('Stone doesn\'t exist');
+    }
+
+    if(stoneForLike.likedList.includes(userId)) {
+        throw new Error('Stone is already liked !');
+    }
+
+    stoneForLike.likedList.push(user);
+
+    await stoneForLike.save()
+}
 
 module.exports = {
     create,
     getAll,
     getById,
-    getLast3Added
+    getLast3Added,
+    likeStone
 }

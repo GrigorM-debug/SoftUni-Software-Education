@@ -1,5 +1,5 @@
 const {Router} = require('express');
-const { isAuth } = require('../middleweres/guards');
+const {isUser } = require('../middleweres/guards');
 const { create, getVolcanoById, updateVolcano, deleteVolcano } = require('../services/volcano');
 const {parseError} = require('../../utils/errorParser');
 const { volcanoValidations } = require('../../validations/volcanoValidation');
@@ -7,12 +7,12 @@ const { validationResult } = require('express-validator');
 
 const volcanoRouter = Router();
 
-volcanoRouter.get('/create-volcano', isAuth(), (req, res) => {
+volcanoRouter.get('/create-volcano', isUser(), (req, res) => {
     res.render('create');
 })
 
 volcanoRouter.post('/create-volcano', 
-    isAuth(),
+    isUser(),
     volcanoValidations, 
     async (req, res) => {
     
@@ -45,7 +45,7 @@ volcanoRouter.post('/create-volcano',
     }
 });
 
-volcanoRouter.get('/edit/:_id', isAuth(), async (req, res) => {
+volcanoRouter.get('/edit/:_id', isUser(), async (req, res) => {
     
     try{
         const volcano = await getVolcanoById(req.params._id).lean();
@@ -61,7 +61,7 @@ volcanoRouter.get('/edit/:_id', isAuth(), async (req, res) => {
     }
 });
 
-volcanoRouter.post('/edit/:_id', isAuth(), volcanoValidations, async (req, res) => {
+volcanoRouter.post('/edit/:_id', isUser(), volcanoValidations, async (req, res) => {
     try {
         const validation = validationResult(req);
 
@@ -76,7 +76,7 @@ volcanoRouter.post('/edit/:_id', isAuth(), volcanoValidations, async (req, res) 
     }
 });
 
-volcanoRouter.get('/delete/:_id', isAuth(), async (req, res) => {
+volcanoRouter.get('/delete/:_id', isUser(), async (req, res) => {
 
     try {
         const volcano = await getVolcanoById(req.params._id).lean();
@@ -91,7 +91,7 @@ volcanoRouter.get('/delete/:_id', isAuth(), async (req, res) => {
     }
 })
 
-volcanoRouter.post('/delete/:_id', isAuth(), async (req, res) =>{
+volcanoRouter.post('/delete/:_id', isUser(), async (req, res) =>{
     try{
         await deleteVolcano(req.params._id);
 
