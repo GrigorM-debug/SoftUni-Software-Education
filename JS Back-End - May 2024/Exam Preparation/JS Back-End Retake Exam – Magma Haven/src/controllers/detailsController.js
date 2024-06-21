@@ -9,7 +9,7 @@ module.exports = {
             
             const isVoted = req.user && volcano.voteList.some(vote => vote._id == req.user._id);
 
-            console.log(req.user._id)
+            // console.log(req.user._id)
             res.render('details', {volcano, isCreator, isVoted});
         } catch(err) {
             res.render('404');

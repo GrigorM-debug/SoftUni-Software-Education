@@ -47,6 +47,7 @@ async function deleteVolcano(volcanoId) {
     if(!volcanoExist) {
         throw new Error('Volcano doesn\'t exist');
     }
+
     const volcano = await Volcano.findByIdAndDelete(volcanoId);
 
     await volcano.save();
@@ -64,7 +65,10 @@ async function voteForVolcano(userId, volcanoId) {
     // volcano.voteList.add(user);
 
     //after almost 2 hours trying to find the bug
-    volcano.voteList.push(user);
+    if(!volcano.voteList.some(v=> v._id == userId)){
+        volcano.voteList.push(user);
+    }
+    
     await volcano.save();
 }
 

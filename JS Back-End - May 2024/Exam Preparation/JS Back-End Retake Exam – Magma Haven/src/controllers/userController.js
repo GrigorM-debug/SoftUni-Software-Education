@@ -4,16 +4,17 @@ const { register, login } = require('../services/user');
 const { signToken } = require('../services/jwt');
 const { userValidations } = require('../../validations/userValidations');
 const { body, validationResult } = require('express-validator');
-const { isAuth } = require('../middleweres/isAuth');
+const { isAuth, isGuest } = require('../middleweres/isAuth');
 const { voteForVolcano } = require('../services/volcano');
 
 const userRouter = Router();
 
-userRouter.get('/register', (req, res) => {
+userRouter.get('/register', isGuest(), (req, res) => {
     res.render('register');
 });
 
 userRouter.post('/register', 
+    isGuest(),
     userValidations,
     body('username')
         .trim()
@@ -50,11 +51,12 @@ userRouter.post('/register',
     }
 });
 
-userRouter.get('/login', (req, res) => {
+userRouter.get('/login', isGuest(), (req, res) => {
     res.render('login');
 });
 
 userRouter.post('/login',
+    isGuest(), 
     userValidations,    
     async (req, res) => {
     

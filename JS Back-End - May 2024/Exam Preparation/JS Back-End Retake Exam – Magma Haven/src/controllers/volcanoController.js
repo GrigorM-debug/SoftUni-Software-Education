@@ -50,6 +50,10 @@ volcanoRouter.get('/edit/:_id', isAuth(), async (req, res) => {
     try{
         const volcano = await getVolcanoById(req.params._id).lean();
 
+        if(volcano.owner != req.user._id) {
+             res.status(403).send('Acces denied!');
+        }
+
         res.render('edit', {volcano})
 
     } catch(err) {
@@ -76,6 +80,11 @@ volcanoRouter.get('/delete/:_id', isAuth(), async (req, res) => {
 
     try {
         const volcano = await getVolcanoById(req.params._id).lean();
+
+        if(volcano.owner != req.user._id) {
+            res.status(403).send('Acces denied!');
+        }
+
         res.render('delete', {volcano});
     } catch(err) {
         res.redirect('/404')

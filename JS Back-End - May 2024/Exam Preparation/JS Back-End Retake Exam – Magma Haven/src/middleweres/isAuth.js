@@ -8,4 +8,14 @@ function isAuth() {
     }
 }
 
-module.exports = {isAuth};
+function isGuest() {
+    return (req, res, next) => {
+        if(req.user) {
+            return res.redirect('/');
+        }
+
+        next();
+    }
+}
+
+module.exports = {isAuth, isGuest};
