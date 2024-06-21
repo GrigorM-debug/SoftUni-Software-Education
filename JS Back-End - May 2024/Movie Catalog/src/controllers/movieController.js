@@ -1,4 +1,4 @@
-const { isAuth } = require("../middlewares/isAuth");
+const { isUser } = require("../middlewares/guards");
 const { getAllCast } = require("../services/cast");
 const {parseError} = require("../../utils/errorParser");
 const { createMovie, getMovieById, attachCast, updateMovie, deleteMovie} = require("../services/movie")
@@ -7,12 +7,12 @@ const { validationResult} = require("express-validator");
 const {movieValidation} = require("../../validations/movieValidation");
 const movieRouter = Router();
 
-movieRouter.get('/create', isAuth(), (req, res) =>{
+movieRouter.get('/create', isUser(), (req, res) =>{
     res.render('create')
 });
 
 movieRouter.post('/create', 
-    isAuth(), 
+    isUser(), 
     movieValidation,
     async (req, res) => {
     
@@ -45,7 +45,7 @@ movieRouter.post('/create',
     }
 });
 
-movieRouter.get('/edit/:_id', isAuth(), async (req, res) =>{    
+movieRouter.get('/edit/:_id', isUser(), async (req, res) =>{    
     try {
         console.log(req.params._id)
         const movie = await getMovieById(req.params._id).lean();
@@ -63,7 +63,7 @@ movieRouter.get('/edit/:_id', isAuth(), async (req, res) =>{
 });
 
 movieRouter.post('/edit/:_id', 
-    isAuth(),
+    isUser(),
     movieValidation,
     async (req, res) =>{
     const movieId = req.params._id;
@@ -95,7 +95,7 @@ movieRouter.post('/edit/:_id',
     }
 });
 
-movieRouter.get('/delete/:_id', isAuth(), async (req, res) =>{
+movieRouter.get('/delete/:_id', isUser(), async (req, res) =>{
 
     try{
         const movie = await getMovieById(req.params._id).lean();
@@ -113,7 +113,7 @@ movieRouter.get('/delete/:_id', isAuth(), async (req, res) =>{
     }
 });
 
-movieRouter.post('/delete/:_id', isAuth(), async (req, res) =>{
+movieRouter.post('/delete/:_id', isUser(), async (req, res) =>{
     const movieId = req.params._id;
 
     await deleteMovie(movieId);
@@ -121,7 +121,7 @@ movieRouter.post('/delete/:_id', isAuth(), async (req, res) =>{
     res.redirect('/');
 });
 
-movieRouter.get('/cast-attach/:_id', isAuth(), async (req, res) =>{
+movieRouter.get('/cast-attach/:_id', isUser(), async (req, res) =>{
     const movieId = req.params._id;
     const casts = await getAllCast().lean();
     const castsFiltered = casts.filter(cast => !cast.movies.some(m => m.toString() === movieId));   
@@ -135,7 +135,7 @@ movieRouter.get('/cast-attach/:_id', isAuth(), async (req, res) =>{
     }
 });
 
-movieRouter.post('/cast-attach/:_id', isAuth(), async (req, res) =>{
+movieRouter.post('/cast-attach/:_id', isUser(), async (req, res) =>{
     const movieId = req.params._id;
     const castId = req.body.cast;
 

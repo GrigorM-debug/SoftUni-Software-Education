@@ -6,13 +6,16 @@ const {userValidations} = require('../../validations/userValidations');
 const { validationResult, body } = require("express-validator");
 const { parseError } = require("../../utils/errorParser");
 
+const {isGuest, isUser} = require('../middlewares/guards');
+
 const userRouter = Router();
 
-userRouter.get('/register', (req, res) => {
+userRouter.get('/register', isGuest(), (req, res) => {
     res.render('register');
 });
 
 userRouter.post('/register', 
+    isGuest(),
     userValidations, 
     body('repassword').custom(
         (value, {req}) => value == req.body.password).withMessage('Passwords don\'t match!'),
@@ -35,11 +38,12 @@ userRouter.post('/register',
     }
 });
 
-userRouter.get('/login', (req, res) => {
+userRouter.get('/login', isGuest(), (req, res) => {
     res.render('login');
 });
 
 userRouter.post('/login', 
+    isGuest(),
     userValidations,
     async (req, res) => {
     const {email, password} = req.body;
@@ -63,7 +67,7 @@ userRouter.post('/login',
     }
 });
 
-userRouter.get('/logout', (req, res) => {
+userRouter.get('/logout', isGuest(), (req, res) => {
     res.clearCookie('token');
     res.redirect('/');
 });

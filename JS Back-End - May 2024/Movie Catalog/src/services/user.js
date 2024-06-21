@@ -9,12 +9,13 @@ async function register(email, password){
         throw new Error("Email is already used !");
     }
 
-    const passwordHashed = await bcrypt.hash(password, 10);
+    // const passwordHashed = await bcrypt.hash(password, 10);
 
     const user = new User({
         email,
-        password: passwordHashed
+        password: await bcrypt.hash(password, 10)
     });
+
 
     await user.save();
 

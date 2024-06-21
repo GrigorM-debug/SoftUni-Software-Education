@@ -1,17 +1,17 @@
 const { createCast } = require("../services/cast");
 const {Router} = require('express');
-const {isAuth} = require("../middlewares/isAuth");
+const {isUser} = require("../middlewares/guards");
 const {parseError} = require("../../utils/errorParser");
 const {castValidation} = require("../../validations/castValidations");
 const { validationResult } = require("express-validator");
 const castRouter = Router();
 
-castRouter.get('/cast-create', isAuth(), (req, res) =>{
+castRouter.get('/cast-create', isUser(), (req, res) =>{
     res.render('cast-create');
 });
 
 castRouter.post('/cast-create', 
-    isAuth(), 
+    isUser(), 
     castValidation,
     async (req, res) =>{
         
