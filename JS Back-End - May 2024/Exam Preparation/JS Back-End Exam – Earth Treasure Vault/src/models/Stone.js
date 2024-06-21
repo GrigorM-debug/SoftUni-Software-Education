@@ -4,17 +4,17 @@ const stoneSchema = new Schema({
     name: {
         type: String,
         required: [true, 'Name is required !'],
-        minlength: [2, 'Name must at least 2 characters long !']
+        min: [2, 'Name must at least 2 characters long !']
     },
     category : {
         type: String,
         required: [true, 'Category  is required !'],
-        minlength: [3, 'Category must at least 3 charactars long !']
+        min: [3, 'Category must at least 3 charactars long !']
     },
     color: {
         type: String,
         required: [true, 'Color is required !'],
-        minlength: [2, 'Color must be at least 2 charactars long !']
+        min: [2, 'Color must be at least 2 charactars long !']
     },
     image: {
         type: String,

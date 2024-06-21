@@ -16,11 +16,19 @@ async function create(newStoneData) {
 }
 
 function getAll() {
+    const stones = Stone.find().sort({_id: -1}).limit(3);
 
+    return stones;
 }
 
-function getById() {
+async function getById(stoneId) {
+    const stone = await Stone.findById(stoneId);
 
+    if(!stone) {
+        throw new Error('Stone doesn\'t exist !');
+    }
+
+    return stone;
 }
 
 
