@@ -65,9 +65,9 @@ userRouter.post('/login',
     }
 });
 
-userRouter.get('/logout', isUser(), (req, res) => {
+userRouter.get('/logout', (req, res) => {
     res.clearCookie('token');
-    res.render('/');
+    res.redirect('/');
 })
 
 module.exports = {userRouter};
