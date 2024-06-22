@@ -67,11 +67,9 @@ async function likeStone(stoneId, userId) {
         throw new Error('Stone doesn\'t exist');
     }
 
-    if(stoneForLike.likedList.some(ls => ls._id == userId)) {
-        throw new Error('Stone is already liked !');
+    if(!stoneForLike.likedList.some(ls => ls._id == userId)) {
+        stoneForLike.likedList.push(userId);
     }
-
-    stoneForLike.likedList.push(userId);
 
     await stoneForLike.save()
 }
