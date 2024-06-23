@@ -28,7 +28,11 @@ userRouter.post('/register',
 
         await register(req.body.name, req.body.email, req.body.password);
 
-        res.redirect('/login');
+        const token = signToken(req.body);
+
+        res.cookie('token', token, {httpOnly: true});
+
+        res.redirect('/');
     } catch(err) {
         res.render('register', {userEmail: req.body.email, userName: req.body.name, errors: parseError(err).errors});
     }

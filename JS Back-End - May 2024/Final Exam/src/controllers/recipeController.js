@@ -53,10 +53,10 @@ recipeRouter.get('/edit/:_id', isUser(), async (req, res) => {
 
 recipeRouter.post('/edit/:_id', 
     isUser(),
-    body('title').trim().notEmpty().withMessage('Title is required !').isLength({min: 2}).withMessage('Title must at least 2 characters long !'),
-    body('ingredients').trim().notEmpty().withMessage('Ingredients are required !').isLength({min: 10, max: 200}).withMessage('Ingredients must between 10 and 200 characters long !'),
-    body('instructions').trim().notEmpty().withMessage('Instructions are required !').isLength({min: 10}).withMessage('Instructions must be at least 10 characters long !'),
-    body('description').trim().notEmpty().withMessage('Description is required !').isLength({min: 10, max: 100}).withMessage('Description must between 10 and 100 characters long !'),
+    body('title').trim().notEmpty().withMessage('Title is required !').isLength({min: 2}).withMessage('Title should at least 2 characters long !'),
+    body('ingredients').trim().notEmpty().withMessage('Ingredients are required !').isLength({min: 10, max: 200}).withMessage('Ingredients should between 10 and 200 characters long !'),
+    body('instructions').trim().notEmpty().withMessage('Instructions are required !').isLength({min: 10}).withMessage('Instructions should be at least 10 characters long !'),
+    body('description').trim().notEmpty().withMessage('Description is required !').isLength({min: 10, max: 100}).withMessage('Description should between 10 and 100 characters long !'),
     body('image').trim().notEmpty().withMessage('Image URL is required !').isURL().withMessage('Invalid URL !'),
     async (req, res) => {
     
@@ -68,7 +68,7 @@ recipeRouter.post('/edit/:_id',
         }
 
         await updateRecipe(req.params._id, req.body);
-        resizeTo.redirect('/details/' + req.params._id);
+        res.redirect('/details/' + req.params._id);
     } catch(err) {
         res.render('edit', {recipe: req.body, errors: parseError(err).errors})
     }
