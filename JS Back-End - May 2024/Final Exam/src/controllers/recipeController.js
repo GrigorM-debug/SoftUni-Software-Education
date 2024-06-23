@@ -107,7 +107,6 @@ recipeRouter.get('/recommend/:_id', isUser(), async (req, res) => {
 
         res.redirect('/details/' + recipeId);
     } catch(err) {
-        console.error(err)
         res.redirect('/404');
     }
 });
