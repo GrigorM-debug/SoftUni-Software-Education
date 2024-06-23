@@ -1,17 +1,11 @@
 const {User} = require('../models/User');
 const bcrypt = require('bcrypt');
 
-async function register(username, email, password) {
+async function register(name, email, password) {
     const user = await User.findOne({email});
 
     if(user) {
         throw new Error('Email is already used !');
-    }
-
-    const userNameExist = await User.findOne({username});
-
-    if(userNameExist) {
-        throw new Error('Username already exist !');
     }
 
     if(!password || password === '') {
@@ -21,7 +15,7 @@ async function register(username, email, password) {
     const hashedPassword = await bcrypt.hash(password, 10);
 
     const newUSer = new User({
-        username,
+        name,
         email,
         password: hashedPassword
     });

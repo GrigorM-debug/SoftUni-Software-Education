@@ -6,7 +6,6 @@ function signToken(userData) {
     const payload = {
         _id: userData._id,
         email: userData.email,
-        username: userData.username
     }
 
     const token = jwt.sign(payload, secret, {expiresIn: '2d'})
