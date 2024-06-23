@@ -13,9 +13,9 @@ userRouter.get('/register', isGuest(), (req, res) => {
 
 userRouter.post('/register', 
     isGuest(),
-    body('username').trim().notEmpty().withMessage('Username is required !').isLength({min: 2, max: 20}).withMessage('Username must be between 2 and 20 characters long !'),
-    body('email').trim().notEmpty().withMessage('Email is required !').isEmail().withMessage('Invalid email address !').isLength({min: 10}).withMessage('Email must be at least 10 characters long !'),
-    body('password').trim().notEmpty().withMessage('Password is required !').isLength({min: 4}).withMessage('Password must at least 4 characters long !'),
+    body('name').trim().notEmpty().withMessage('Name is required !').isLength({min: 2, max: 20}).withMessage('Name should be between 2 and 20 characters long !'),
+    body('email').trim().notEmpty().withMessage('Email is required !').isEmail().withMessage('Invalid email address !').isLength({min: 10}).withMessage('Email should be at least 10 characters long !'),
+    body('password').trim().notEmpty().withMessage('Password is required !').isLength({min: 4}).withMessage('Password should at least 4 characters long !'),
     body('repassword').trim().custom((value, {req}) => value == req.body.password).withMessage('Passwords don\'t match !'),
     async (req, res) => {
 
@@ -26,11 +26,11 @@ userRouter.post('/register',
             throw validation.errors;
         }
 
-        await register(req.body.username, req.body.email, req.body.password);
+        await register(req.body.name, req.body.email, req.body.password);
 
         res.redirect('/login');
     } catch(err) {
-        res.render('register', {userEmail: req.body.email, userName: req.body.username, errors: parseError(err).errors});
+        res.render('register', {userEmail: req.body.email, userName: req.body.name, errors: parseError(err).errors});
     }
 });
 
@@ -40,8 +40,8 @@ userRouter.get('/login', isGuest(), (req, res) => {
 
 userRouter.post('/login', 
     isGuest(),
-    body('email').trim().notEmpty().withMessage('Email is required !').isEmail().withMessage('Invalid email address !').isLength({min: 10}).withMessage('Email must be at least 10 characters long !'),
-    body('password').trim().notEmpty().withMessage('Password is required !').isLength({min: 4}).withMessage('Password must at least 4 characters long !'),
+    body('email').trim().notEmpty().withMessage('Email is required !').isEmail().withMessage('Invalid email address !').isLength({min: 10}).withMessage('Email should be at least 10 characters long !'),
+    body('password').trim().notEmpty().withMessage('Password is required !').isLength({min: 4}).withMessage('Password should at least 4 characters long !'),
     async (req, res) => {
 
     try {
