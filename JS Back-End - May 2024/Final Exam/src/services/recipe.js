@@ -66,11 +66,26 @@ function getAll() {
     return recipes;
 }
 
+async function recommendRecipe(recipeId, userId) {
+    const recipe = await getById(recipeId);
+
+    if(!recipe) {
+        throw new Error('Recipe doesn\'t exist !');
+    }
+
+    if(!recipe.recommendList.some(u => u._id == userId)){
+        recipe.recommendList.push(userId);
+    }
+
+    await recipe.save();
+}
+
 module.exports = {
     create,
     getById,
     updateRecipe,
     getLast3Added,
     getAll,
-    deleteRecipe
+    deleteRecipe, 
+    recommendRecipe
 }
