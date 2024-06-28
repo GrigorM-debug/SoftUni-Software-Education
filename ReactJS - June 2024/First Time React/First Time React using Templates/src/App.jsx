@@ -3,7 +3,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Menu from './components/Menu';
 import Navbar from './components/Navbar';
-import Reviews from './components/Reviews';
+import Reviews from './components/Reviews/Reviews';
 import Team from './components/Team/Team';
 import Welcome from './components/Welcome';
 
