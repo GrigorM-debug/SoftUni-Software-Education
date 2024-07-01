@@ -12,7 +12,9 @@ function Calculator() {
     }
 
     const handleEqualButtonClick = () => {
-        console.log(displayValue)
+        /* This eval() function is very interesting. So it takes as argument the string value from the display input. 
+        Example: "2+2". It takes it and calculates the result, which in this example is 4;
+        */
         const result = eval(displayValue);
         setDiplayValue(String(result));
     }
@@ -42,7 +44,7 @@ function Calculator() {
 
                     <input onClick={handleClearButtonClick} id="button" type="button" className="clear-button" value={'C'}/>
                     <input onClick={() => handleButtonClick('0')} id="button" type="button" className="diggits" value={0}/>
-                    <input  onClick={handleEqualButtonClick} id="button" type="button" className="math-buttons" value={'='}/>
+                    <input onClick={handleEqualButtonClick} id="button" type="button" className="math-buttons" value={'='}/>
                     <input onClick={() => handleButtonClick(' / ')} id="button" type="button" className="math-buttons" value={'/'}/>
                 </div>
             </form>
