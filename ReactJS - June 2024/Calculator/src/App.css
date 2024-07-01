@@ -1,0 +1,70 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  min-height: 100vh; /* Full viewport height */
+}
+
+.calculator-container {
+  width: 150px;;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.3);
+  box-shadow: 0.5px 0.8px 0.8px 0.1px black;
+}
+
+#button {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  margin: 2px;
+  border-radius: 3px;
+  width: 25px;
+  font-size: 9px;
+  font-weight: bold;
+  height: 25px;
+}
+
+#button:hover {
+  background-color: chocolate;
+}
+
+#button.diggits {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: black;
+}
+
+#button.clear-button {
+  color: white;
+  background-color: red;
+}
+
+#button.math-buttons {
+  color: white;
+  background-color: black;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 3fr);
+  margin-left: 10px;
+}
+
+.display {
+  width: 120px;
+  height: 20px;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent white */
+  border: 2px solid rgba(255, 255, 255, 0.3); /* Semi-transparent white border */
+  border-radius: 4px;
+  box-shadow: inset 0px 2px 4px rgba(255, 255, 255, 0.5);
+  color: white  ;
+  text-align: right;
+}
+
