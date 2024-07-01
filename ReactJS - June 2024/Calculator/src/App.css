@@ -3,20 +3,13 @@ body {
   margin: 0;
   box-sizing: border-box;
   display: flex;
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
-  min-height: 100vh; /* Full viewport height */
+  justify-content: center; 
+  align-items: center; 
+  min-height: 100vh; 
 }
 
-.calculator-container {
-  width: 150px;;
-  height: auto;
-  justify-content: center;
-  align-items: center;
-  border: 1px solid black;
-  border-radius: 5px;
-  background-color: rgba(255, 255, 255, 0.3);
-  box-shadow: 0.5px 0.8px 0.8px 0.1px black;
+.buttons #button:hover {
+  background-color: chocolate;
 }
 
 #button {
@@ -27,10 +20,6 @@ body {
   font-size: 9px;
   font-weight: bold;
   height: 25px;
-}
-
-#button:hover {
-  background-color: chocolate;
 }
 
 #button.diggits {
@@ -46,6 +35,17 @@ body {
 #button.math-buttons {
   color: white;
   background-color: black;
+}
+
+.calculator-container {
+  width: 150px;;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.3);
+  box-shadow: 0.5px 0.8px 0.8px 0.1px black;
 }
 
 .buttons {
