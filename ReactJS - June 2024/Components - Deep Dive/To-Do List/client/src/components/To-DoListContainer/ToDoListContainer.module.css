@@ -1,0 +1,13 @@
+/* Todo list container */
+
+.todoListContainer {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+  
+.todoListContainer h1 {
+    font-size: 2rem;
+    height: 4rem;
+}
+  

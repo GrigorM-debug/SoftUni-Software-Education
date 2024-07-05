@@ -1,0 +1,8 @@
+.tableWrapper {
+    position: relative;
+    height: calc(100vh - 13rem - 45px);
+    overflow-y: scroll;
+    background: white;
+    overflow: auto;
+    width: 100%;
+}

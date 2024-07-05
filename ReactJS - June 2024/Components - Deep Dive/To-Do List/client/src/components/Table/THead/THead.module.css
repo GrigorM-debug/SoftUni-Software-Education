@@ -1,0 +1,8 @@
+.tableHeaderTask {
+    width: 60%;
+}
+  
+.tableHeaderStatus,
+.tableHeaderAction {
+    width: 20%;
+}

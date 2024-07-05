@@ -1,0 +1,21 @@
+/* Table item */
+
+.todo {
+    margin-bottom: 5px;
+    background-color: rgb(163, 95, 95);
+}
+  
+.isCompleted {
+    background-color: rgb(95, 163, 101);
+}
+  
+.todoAction .todoBtn {
+    background: #24292f;
+    border: none;
+    padding: 5px 10px;
+    height: 40px;
+    color: white;
+    cursor: pointer;
+    border-radius: 0.25rem;
+    font-weight: bold;
+}
