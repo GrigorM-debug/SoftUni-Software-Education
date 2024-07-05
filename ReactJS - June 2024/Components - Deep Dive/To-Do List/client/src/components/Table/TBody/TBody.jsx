@@ -2,25 +2,31 @@ import styles from './TBody.module.css';
 import { useState } from 'react';
 
 function TBody({todos}) {
-    const [completedTodos, setCompletedTodos] = useState(todos.map(todo => todo.isCompleted));
+    const [todosWithUnchangedStatuses, setCompletedTodosStatus] = useState(todos);
 
-    const toggleCompletion = (index) => {
-        const newCompletedTodos = [...completedTodos];
-        newCompletedTodos[index] = !newCompletedTodos[index];
-        setCompletedTodos(newCompletedTodos);
+    const toggleCompletion = (todoId) => {
+        const todosWithUnchangedStatusesCopyRef = [...todosWithUnchangedStatuses];
+
+        todosWithUnchangedStatusesCopyRef.forEach(t => {
+            if(t._id === todoId) {
+                t.isCompleted = !t.isCompleted;
+            }
+        })
+
+        setCompletedTodosStatus(todosWithUnchangedStatusesCopyRef);
     };
 
     return (
         <tbody>
-            {todos.map((todo, index) => {
-                <tr key={todo._id} className={`${styles.todo} ${completedTodos[index] ? styles.isCompleted : ''}`} >
+            {todos.map((todo) => (
+                <tr key={todo._id} className={`${styles.todo} ${todo.isCompleted ? styles.isCompleted : ''}`} >
                     <td>{todo.text}</td>
-                    {completedTodos[index] ? <td>Complete</td> : <td>Incomplete</td>}
+                    {todo.isCompleted ? <td>Complete</td> : <td>Incomplete</td>}
                     <td className={styles.todoAction}>
-                        <button className={`btn ${styles.todoBtn}`} onClick={() => toggleCompletion(index)}>Change status</button>
+                        <button className={`btn ${styles.todoBtn}`} onClick={() => toggleCompletion(todo._id)}>Change status</button>
                     </td>
                 </tr>
-            })}
+            ))}
         </tbody>
     );
 }
